@@ -1,3 +1,4 @@
+<permalink>uncommon_name?</permalink>
 <month>11</month>
 <year>2013</year>
 

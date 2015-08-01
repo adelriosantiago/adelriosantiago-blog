@@ -1,3 +1,4 @@
+<permalink>temp & temp</permalink>
 <month>6</month>
 <year>2015</year>
 

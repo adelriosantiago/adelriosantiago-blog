@@ -1,3 +1,4 @@
+<permalink>sample name with spaces</permalink>
 <month>3</month>
 <year>2015</year>
 
