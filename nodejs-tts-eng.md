@@ -2,13 +2,43 @@
 <month>8</month>
 <year>2015</year>
 
-# Create your own Text to Speech API service in Node.js & Ubuntu
+# Setting up your own Text To Speech server on the web with Node.js and Ubuntu
 
-In this tutorial I quickly explain how to create your own TTS API online service that you can use for your personal projects that requiere converting text to audio.
+You probably already know that Google has a service to convert text to audio via the Google Translate engine. You can easily test it by clicking on the [megaphone icon] to read the text aloud. [Inspecting the button with the browser toolbar] we find that what is actually going on behind the scenes is a call to an address with the text we want to read aloud, so that when you click on the megaphone you are actually performing a request like these
 
-In case you don't know Google Translate already has this service  for example you can convert the text "Hi, I'm John Doe" with the link http://translate.google.com/translate_tts?tl=en&q="Hi, I'm John Doe"
+ * [] To read “hello world” in english,
+ * [] To read aloud “buon giorno” in italian,
 
-For example to conver "Hello world" to audio you simply write this query `http://translate.google.com/translate_tts?tl=en&q="Hello world"` test this clicking [here](http://translate.google.com/translate_tts?tl=en&q=%22Hello%20world%22)
+and so on with other languages.
+
+You can now imagine yourself creating and Android or Arduino app to fetch the audio programmatically, however bear in mind that this will only work for a few words and sentences, Google now limits the quantity on requests you can perform to about 15 per user, after that limit is reached you will very likely get an [unusual traffic] captcha inquiry making the service completely unusable from a programatical point of view... 
+
+> "Ohh wait! The project is working just lemme answer this captcha to prove I’m a human!”
+> -☉_☉
+
+You can find the project and the installation instructions at the Github repo []. You will need a Virtual Machine running Ubuntu (or a Digital Ocean instance) in order to get the SVOX TTS engine running and Node.js to create the web request interface.
+
+Feel free to play with the finished project [here] generating some words and sentences to audio.
+
+Some project ideas that could use this engine are:
+ * A speaking Arduino that talks when you press some buttons.
+ * An accessibility app for the blind. Maybe an Android app that reads Barcodes aloud *(there are some good tutorials about how to read barcodes like [this] and [this])*
+ * A computer clock that reads the time every hour (like on Mac).
+
+Having said that I have to mention that 
+
+> EDIT: I recently had to put a limit on the request per users, which suddenly increased to several thousand of words being created... I’m not sure if it was an attempt to drop the server or just someone hungry for audios. Remember that running the project on your local computer is considerably faster than doing a call to the web. From now on after generating several audios you should see a Google NoCaptcha! By the way, just for the record, the new NoCaptcha from Google is just awesome! It only shows [small checkbox that says “I’m not a robot”] and when you check it, it correctly determines (most of the times) if you are a real person or not! I just ask myself: How come do they do that!? What kind of black magic is that!? I’m really curious to know how it works...
+
+
+
+
+---
+---
+---
+
+
+
+
 
 
 ## Getting Started
