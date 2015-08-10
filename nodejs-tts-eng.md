@@ -2,11 +2,14 @@
 <month>8</month>
 <year>2015</year>
 
-# Create your own Text to Speech API in Node.js & Ubuntu
+# Create your own Text to Speech API service in Node.js & Ubuntu
 
-Highlight.js is a syntax highlighter written in JavaScript. It works in the
-browser as well as on the server. It works with pretty much any markup,
-doesn’t depend on any framework and has automatic language detection.
+In this tutorial I quickly explain how to create your own TTS API online service that you can use for your personal projects that requiere converting text to audio.
+
+In case you don't know Google Translate already has this service  for example you can convert the text "Hi, I'm John Doe" with the link http://translate.google.com/translate_tts?tl=en&q="Hi, I'm John Doe"
+
+For example to conver "Hello world" to audio you simply write this query `http://translate.google.com/translate_tts?tl=en&q="Hello world"` test this clicking [here](http://translate.google.com/translate_tts?tl=en&q=%22Hello%20world%22)
+
 
 ## Getting Started
 
