@@ -12,7 +12,7 @@ As you probably know, Google has a service to convert text to audio via the Goog
 
 And so on with other languages.
 
-Now imagine yourself creating and Android or Arduino app to fetch the audio programmatically, you would just need to build the URL and fetch the audio **however bear in mind that this will only work for a few words and sentences**, I suppose that people abused the service with thounsands of requests and now Google puts a limit the quantity on audios you can generate to about 15 calls per user, after that limit is reached you will very likely get an <a class='mintip'>unusual traffic<span><img src='articles/images/deny-tts-google.png'/></span></a> captcha making the service completely unusable for your app... In order to raise the limit again you would need to solve the captcha.
+Now imagine yourself creating and Android or Arduino app to fetch the audio programmatically, you would just need to build the URL and fetch the audio however bear in mind that this will only work for a few words and sentences, I suppose that people abused the service with thounsands of requests and now Google puts a limit the quantity on audios you can generate to about 15 calls per user, after that limit is reached you will very likely get an <a class='mintip'>unusual traffic<span><img src='articles/images/deny-tts-google.png'/></span></a> captcha making the service completely unusable for your app... In order to raise the limit again you would need to solve the captcha.
 
 > "Ohh wait! The project is working just lemme answer this captcha to prove that I’m not a robot!”
 > -☉_☉
@@ -25,6 +25,6 @@ Some project ideas that could use this web interface are:
  * An accessibility app for the blind. Maybe an Android app that reads Barcodes aloud *(there are some good tutorials about [how to read barcodes](http://code.tutsplus.com/tutorials/android-sdk-create-a-barcode-reader--mobile-17162) and [how to read barcodes and QR codes](http://examples.javacodegeeks.com/android/android-barcode-and-qr-scanner-example/))*
  * A computer clock that reads the time every hour (like on Mac).
 
-Fnd the project and the installation instructions at the Github repo [https://github.com/adelriosantiago/svox-interface-nodejs](https://github.com/adelriosantiago/svox-interface-nodejs). You will need a Virtual Machine running Ubuntu or a Digital Ocean instance in order to get the SVOX TTS engine running and [Node.js](http://nodejs.org) to create the web request interface.
+Find the project and the installation instructions at the Github repo [https://github.com/adelriosantiago/svox-interface-nodejs](https://github.com/adelriosantiago/svox-interface-nodejs). You will need a Virtual Machine running Ubuntu or a Digital Ocean instance in order to get the SVOX TTS engine running and [Node.js](http://nodejs.org) to create the web request interface.
 
-Feel free to play with the finished project at the address [tts.adelriosantiago.com](http://tts.adelriosantiago.com) generating some words and sentences to audio.
+Feel free to play with the finished project generating some phrases at the address [tts.adelriosantiago.com](http://tts.adelriosantiago.com).
