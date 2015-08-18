@@ -2,10 +2,9 @@
 <month>8</month>
 <year>2015</year>
 
-# Setting up your own Text To Speech server on the web with Node.js and Ubuntu
+# SVOX TTS (Text to Speech) interface in Node.js
 
 As you probably know, Google has a service to convert text to audio via the Google Translate engine. You can easily test it by clicking on the <a class='mintip'>megaphone icon<span><img src='articles/images/google-tts.png'/></span></a> to read the text aloud. <a class='mintip'>Inspecting the button with the browser toolbar<span><img src='articles/images/behind-scenes.png'/></span></a> we find that what is actually going on behind the scenes is a call to an address with the text we want to read aloud, so that when you click on the megaphone you are actually performing a requests like these:
-
 
  * [translate.google.com/translate_tts?tl=en&q=hello-world](http://translate.google.com/translate_tts?tl=en&q=hello-world) to read “hello world” in english.
  * [translate.google.com/translate_tts?tl=it&q=buongiorno](http://translate.google.com/translate_tts?tl=it&q=buongiorno) to read aloud “buongiorno” in italian.
@@ -27,4 +26,10 @@ Some project ideas that could use this web interface are:
 
 Find the project and the installation instructions at the Github repo [https://github.com/adelriosantiago/svox-interface-nodejs](https://github.com/adelriosantiago/svox-interface-nodejs). You will need a Virtual Machine running Ubuntu or a Digital Ocean instance in order to get the SVOX TTS engine running and [Node.js](http://nodejs.org) to create the web request interface.
 
-Feel free to play with the finished project generating some phrases at the address [tts.adelriosantiago.com](http://tts.adelriosantiago.com).
+Here is how the finished project looks like:
+
+![](articles/images/tts-final.png)
+
+Simply select the language, the text to convert and click on the URL to get the audio. Feel free to play with the finished project generating some phrases at the address [tts.adelriosantiago.com](http://tts.adelriosantiago.com).
+
+
