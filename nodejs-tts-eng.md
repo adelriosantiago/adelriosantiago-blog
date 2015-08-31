@@ -28,7 +28,7 @@ Find the project and the installation instructions at the Github repo [https://g
 
 Here is how the finished project looks like:
 
-![](articles/images/tts-final.png)
+<a href='http://tts.adelriosantiago.com'>![](articles/images/tts-final.png)</a>
 
 Simply select the language, the text to convert and click on the URL to get the audio. Feel free to play with the finished project generating some phrases at the address [tts.adelriosantiago.com](http://tts.adelriosantiago.com).
 
