@@ -41,12 +41,12 @@ And then,
 
 And so on, if you keep iterating you will notice that <a class='mintip'>successive generations will make the pattern move away<span><img src='../articles/images/glider-animation.gif'/></span></a> from where it started. This pattern will eventually perish when it reaches the border of the chessboard.
 
-There are <a class='mintip'>several<span><img src='../articles/images/gl-example0.gif'/></span></a>, <a class='mintip'>many<span><img src='../articles/images/gl-example1.gif'/></span></a>, <a class='mintip'>many<span><img src='../articles/images/gl-example2.gif'/></span></a> <a class='mintip'>structures<span><img src='../articles/images/gl-example3.gif'/></span></a> that create different results. You can try them on a real chessboard, a piece of paper, or you could use my simulator at [alife.adelriosantiago.com](http://alife.adelriosantiago.com).
+There are <a class='mintip'>several<span><img src='../articles/images/gl-example0.gif'/></span></a>, <a class='mintip'>many<span><img src='../articles/images/gl-example1.gif'/></span></a>, <a class='mintip'>many<span><img src='../articles/images/gl-example2.gif'/></span></a> <a class='mintip'>structures<span><img src='../articles/images/gl-example3.gif'/></span></a> that create different results. You can try them on a real chessboard, a piece of paper. Or you could simply launch my simulator at [http://www.adelriosantiago.com:7000](http://www.adelriosantiago.com:7000), sadly this time I couldn't create a submain for it (like ~~simulator.adelriosantiago.com~~) as WebSockets don't play well with Reverse Proxies.
 
 That’s it! With some really simple rules you end up having an living ecosystem (or an artificially living ecosystem to be precise).
 
 This is how the finished project looks like:
 
-<a href='http://alife.adelriosantiago.com'>![](../articles/images/alife-final.PNG)</a>
+<a href='http://www.adelriosantiago.com:7000'>![](../articles/images/alife-final.PNG)</a>
 
 Click on the image to load the simulator and play with it creating some structures, don't forget to set your nickname! As stated previously, note that **the app is real-time collaborative**, every user is actually seeing and interacting with the same board, I made it this way to see how it evolves with time, I plan to leave running this project running for a looong time...
