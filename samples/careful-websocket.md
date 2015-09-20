@@ -4,7 +4,12 @@
 
 # Be careful with websockets!
 
-Websockets are really cool. 
+WebSockets are really cool. This protocol is the ideal solution for one of the very latest tech tendencies in the last years, the trend of **Real-Time Collaboration**, a mindset that has come to stay. Maybe in a few years we will look back and see how "individualistic" our applications were, it will be difficult to find an app that is not *-at least in a very subtle way-* RTC.
+
+
+
+
+---
 
 
 El día de ayer completé mis primeros <a class='mintip'>100 dias seguidos<span><img src='../articles/images/100-days-flame.png'/></span></a> de mi clase online de Italiano en Duolingo y debo mencionar que estoy muy contento con mis avances! Si bien es cierto que el italiano se parece mucho al español, una vez que deseas empezarlo a hablar o escribir resulta bastante difícil. En especial me resulta difícil no saber si una palabra realmente existe en italiano o si la estoy "italianizando" del español.
