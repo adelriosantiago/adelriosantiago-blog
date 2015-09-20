@@ -6,6 +6,8 @@
 
 WebSockets are really cool. This protocol is the ideal solution for one of the very latest tech tendencies in the last years, the trend of **Real-Time Collaboration**, a mindset that has come to stay. Maybe in a few years we will look back and see how "individualistic" our applications were, it will be difficult to find an app that is not *-at least in a very subtle way-* RTC.
 
+In case you don’t know, the WS protocol allows you to manage several thousands of information-hungry users. Without it, when you open a webpage, once it is loaded there is no interaction back and forth. The current technologies, like AJAX, become a bottleneck when moving a high volume of data. So websockets basically allow you to create *living webpages*, see some examples like [this chat], [or this game], or my own made [game of life simulator] to see how they work, be sure to invite someone or simply open them in two different browser tabs.
+
 
 
 
