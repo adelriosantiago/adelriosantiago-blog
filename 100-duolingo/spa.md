@@ -27,6 +27,6 @@ Aun así, debo mencionar que siempre he tenido mis dudas sobre qué tan efectivo
 
 Por experiencia propia, cuando me veo a mi mismo pensando en frases como las anteriores, ya sea aprendiendo un nuevo lenguaje o cualquier otra habilidad, sé que hasta ahí habrá llegado mi aprendizaje y que meses después recordaré solo aquellas palabras o conceptos que por algún momento me fascinaron. Estoy seguro de que en la memoria de muchos de nosotros vagan frases y palabras dispersas de aquellos lenguajes que alguna vez admiramos de manera obsesiva, por un corto tiempo.
 
-En fin, espero seguir teniendo la disciplina para seguir aprendiendo este lenguaje y escribir el próximo artículo que espero se llame "200 días en Duolingo". Si a ti también te gusta aprender lenguajes con Duo no olvides seguirme [https://www.duolingo.com/adelriosantiago](https://www.duolingo.com/adelriosantiago)
+Espero seguir teniendo la disciplina para seguir aprendiendo este lenguaje y escribir el próximo artículo que espero se llame "200 días en Duolingo". Si a ti también te gusta aprender lenguajes con Duo no olvides seguirme [https://www.duolingo.com/adelriosantiago](https://www.duolingo.com/adelriosantiago)
 
 Arrivederci! (Pronunciado "arrivederchi", significa "Hasta pronto!")
