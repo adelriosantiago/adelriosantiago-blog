@@ -8,7 +8,7 @@ I have always been fascinated with artificial life and so I decided to make my o
 
 The Game of Life was created by [the British mathematician John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway). He wanted to find a "self-replicating machine". Conway drastically simplified an earlier <a class='mintip'>automaton by John von Neumann<span><img src='../articles/images/neumann-automaton.gif'/></span></a> which contained several complex rules. The Conway's model appeared on the page 120 of the <a class='mintip'>1970's issue of the Scientific American<span><img src='../articles/images/sa-1970.jpg'/></span></a> and made him instantly famous.
 
-**Most of the cellular automatons have very simple rules**, here is a simple example of these mathematical models work:
+**Most of the cellular automatons have very simple rules**, here is a simple example of how these mathematical models work:
 
 Let's say we have a chessboard grid and a bunch of pawns which we will call *living cells* from now on. If there is a *living cell* on the board that grid square is considered to be alive. If its empty then that square is considered to be dead. These two states are can be easily represented on a computer by using the binary system, so that the equivalence ends up being **1 for a living cell** and **0 for a dead cell**.
 
