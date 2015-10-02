@@ -41,7 +41,7 @@ And then,
 
 And so on, if you keep iterating you will notice that <a class='mintip'>successive generations will make the pattern move away<span><img src='../articles/images/glider-animation.gif'/></span></a> from where it started. This pattern will eventually perish when it reaches the border of the chessboard.
 
-There are <a class='mintip'>several<span><img src='../articles/images/gl-example0.gif'/></span></a>, <a class='mintip'>many<span><img src='../articles/images/gl-example1.gif'/></span></a>, <a class='mintip'>many<span><img src='../articles/images/gl-example2.gif'/></span></a> <a class='mintip'>structures<span><img src='../articles/images/gl-example3.gif'/></span></a> that create different results. You can try them on a real chessboard, a piece of paper. Or you could simply launch my simulator at [http://www.adelriosantiago.com:7000](http://www.adelriosantiago.com:7000).
+There are <a class='mintip'>several<span><img src='../articles/images/gl-example0.gif'/></span></a>, <a class='mintip'>many<span><img src='../articles/images/gl-example1.gif'/></span></a>, <a class='mintip'>many<span><img src='../articles/images/gl-example2.gif'/></span></a> <a class='mintip'>structures<span><img src='../articles/images/gl-example3.gif'/></span></a> that create different results. You can try them on a real chessboard, a piece of paper, or you could simply launch my simulator at [http://www.adelriosantiago.com:7000](http://www.adelriosantiago.com:7000).
 
 That's the beauty of artificial life. **With some really simple rules you end up having an living ecosystem** (or an artificially living ecosystem to be precise).
 
