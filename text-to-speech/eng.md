@@ -4,7 +4,7 @@
 
 # SVOX TTS (Text to Speech) interface in Node.js
 
-Google has a very cool service to convert text to audio via the Google Translate engine. You can easily test it going to the [service webpage](http://translate.google.com), and clicking on the <a class='mintip'>megaphone icon<span><img src='../articles/images/google-tts.png'/></span></a> to read the text aloud. <a class='mintip'>Inspecting the button with the browser toolbar<span><img src='../articles/images/behind-scenes.png'/></span></a> we find how it works. Behind the scenes when you click on it there is a call to an address with the text we want to read aloud, so that when you click on the megaphone you are actually performing a requests like these:
+Google has a very cool service to convert text to audio via the Google Translate engine. You can easily test it going to the [translate service webpage](http://translate.google.com), and clicking on the <a class='mintip'>megaphone icon<span><img src='../articles/images/google-tts.png'/></span></a> to read the text aloud. <a class='mintip'>Inspecting the button with the browser toolbar<span><img src='../articles/images/behind-scenes.png'/></span></a> we find how it works. Behind the scenes when you click on it there is a call to an address with the text we want to read aloud, so that when you click on the megaphone you are actually performing a requests like these:
 
  * [translate.google.com/translate_tts?tl=en&q=hello-world](http://translate.google.com/translate_tts?tl=en&q=hello-world) to read “hello world” in english.
  * [translate.google.com/translate_tts?tl=it&q=buongiorno](http://translate.google.com/translate_tts?tl=it&q=buongiorno) to read aloud “buongiorno” in italian.
