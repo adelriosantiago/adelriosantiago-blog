@@ -4,6 +4,15 @@
 
 # How to sync your Digital Ocean instance with Dropbox
 
+One of the fastest ways to instantly deploy websites is to use Dropbox on your server. For sure you have used Dropbox or at least know how it works. It basically allows you to keep all your files sync'ed. 
+
+One of the fastest ways to sync your local changes and a real server is using Dropbox. 
+
+Una de las maneras mas eficientes que hay para sincronizar una pagina web con tu projecto local es Dropbox. 
+
+I recently tried to use Dropbox to sync one of my projects on my Digital Ocean instance. 
+
+
 Pasos para sync de Dropbox
 •	bajar dropbox en la computadora desktop
 •	saber si es 32 bits o 64 bits la instancia de DO
