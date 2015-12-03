@@ -5,7 +5,16 @@
 # The single most important factor while designing: Consistency
 # Consistency: The single most important factor while designing
 
-•	On this post I would like to explain what I consider to be, the single most important factor while designing. But before I start, let me be clear about this: You are not getting advice from a professional, I am not a designer! I really enjoy designing both in 2D (mainly Inkscape and Illustrator among others) and 3D (Rhino, Blender, etc) but I could easily say that I’m really far from being a “qualified” designer.
+On this post I would like to explain what I consider to be, the single most important factor while designing. But before I start, let me be clear about this: You are not getting advice from a professional. I am not a designer! I really enjoy designing both in 2D (mainly Inkscape and Illustrator among others) and 3D (Rhino, Blender, etc) but I could easily say that I’m really far from being a “qualified” designer. You have been warned!
+
+Consistency is the single most important factor while designing. Every time I see a just-graduate Graphic Designer mixing two completely different themes for a website mockup I kinda feel bad. I think that consistency -or harmony if you like- is not 
+
+<blockquote>Agreement or harmony of parts or features to one another or a whole:  correspondence;
+specifically: ability to be asserted together without contradiction.
+- Merriam webster</blockquote>
+
+ 
+
 •	Still, I feel confident enough with my skills to sustain the theory that consistency is –or should be- the single most important factor while making a new drawing, logo, infographic or drawing.
 •	Every time I see a recent Graphic Designer graduate mixing two completely different themes for a website mockup I feel baffled. It is not necessarily their fault I must say, I’ve seen lack of consistency even on the works of professional creative agencies around here.
 •	
@@ -23,5 +32,5 @@
 •	Before I start let me warn you about one thing: I am not a designer! 
 •	Before I try to explain this design factor let me warn you that I’m not a designer, I’m an engineer (I got a B.S. in Electronics), still I’ve always been very interested in design
 •	Now, let warn you that I am not a designer
-•	I’m not a designer (I got a B.S. in Electronics) and still I know
+•	I’m not a designer (I got a B.S. in Electronics)
 •	I’ve seen so many designs
