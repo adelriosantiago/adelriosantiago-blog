@@ -13,8 +13,15 @@ Consistency is the single most important factor while designing. Every time I se
 specifically: ability to be asserted together without contradiction.
 - Merriam webster</blockquote>
 
- 
+You can start to notice how consistent your design is when the third and fourth element is added. Take for example the following image
 
+[image with 3 icons, one with sharp edges, the other ones flat, rounded]
+
+Is it constent? No, it is not. The first two elements belong the Foundation icon set, which rounds most of the edges. The third element come from the Entypo icon set which uses sharp edges. You better use only foundation icons with round edges or change the first two to their Entypo equivalent. Don't do that and you end up with a really ugly design, that's it. Abundance of consistency or lack of it make the people say "this is a good design" or "this is a bad design".
+
+I believe that 
+In my humble opinion, every single design can be rated as "good" or "bad" just by
+ 
 •	Still, I feel confident enough with my skills to sustain the theory that consistency is –or should be- the single most important factor while making a new drawing, logo, infographic or drawing.
 •	Every time I see a recent Graphic Designer graduate mixing two completely different themes for a website mockup I feel baffled. It is not necessarily their fault I must say, I’ve seen lack of consistency even on the works of professional creative agencies around here.
 •	
