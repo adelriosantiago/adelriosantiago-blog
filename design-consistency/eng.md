@@ -7,7 +7,17 @@
 
 On this post I would like to explain what I consider to be, the single most important factor while designing. But before I start, let me be clear about this: You are not getting advice from a professional. I am not a designer! I really enjoy designing both in 2D (mainly Inkscape and Illustrator among others) and 3D (Rhino, Blender, etc) but I could easily say that I’m really far from being a “qualified” designer. You have been warned!
 
-Consistency is the single most important factor while designing. Every time I see a just-graduate Graphic Designer mixing two completely different themes for a website mockup I kinda feel bad. I think that consistency -or harmony if you like- is not 
+In my opinion, consistency is the single most important factor while designing. Every time I see a just-graduate Graphic Designer mixing two completely different themes for a website mockup I kinda feel bad. 
+
+Precense or absence of consistency can be noticed as soon as the second element is added to your design. Let's see some examples:
+
+[image with 3 icons, one with sharp edges, the other ones flat, rounded]
+
+Is it constent? No, it is not. The first two elements belong the Foundation icon set, which rounds most of the edges. The third element come from the Entypo icon set which uses sharp edges. You better use only foundation icons with round edges or change the first two to their Entypo equivalent. Don't do that and you end up with a really ugly design, that's it. Abundance of consistency or lack of it make the people say "this is a good design" or "this is a bad design".
+
+---
+
+I think that consistency 
 
 <blockquote>Agreement or harmony of parts or features to one another or a whole:  correspondence;
 specifically: ability to be asserted together without contradiction.
