@@ -11,9 +11,16 @@ In my opinion, consistency is the single most important factor while designing. 
 
 Precense or absence of consistency can be noticed as soon as the second element is added to your design. Let's see some examples:
 
+### Example 1
 [image with 3 icons, one with sharp edges, the other ones flat, rounded]
 
-Is it constent? No, it is not. The first two elements belong the Foundation icon set, which rounds most of the edges. The third element come from the Entypo icon set which uses sharp edges. You better use only foundation icons with round edges or change the first two to their Entypo equivalent. Don't do that and you end up with a really ugly design, that's it. Abundance of consistency or lack of it make the people say "this is a good design" or "this is a bad design".
+Is it constent? No, it is not. The first two elements belong the Foundation icon set, which rounds most of the edges. The third element come from the Entypo icon set which uses sharp edges. You better use only foundation icons with round edges or change the first two to their Entypo equivalent. 
+
+### Example 2
+[]
+
+
+Don't do that and you end up with a really ugly design, that's it. Abundance of consistency or lack of it make the people say "this is a good design" or "this is a bad design".
 
 ---
 
