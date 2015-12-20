@@ -5,11 +5,11 @@
 # The single most important factor while designing: Consistency
 # Consistency: The single most important factor while designing
 
-On this post I would like to explain what I consider to be, the single most important factor while designing. But before I start, let me be clear about this: You are not getting advice from a professional. I am not a designer! I really enjoy designing both in 2D (mainly Inkscape and Illustrator among others) and 3D (Rhino, Blender, etc) but I could easily say that I’m really far from being a “qualified” designer. You have been warned!
+On this post I would like to explain what I consider to be, the single most important factor while designing. But before I start, let me be clear about this: You are not getting advice from a professional. I am not a designer! I really enjoy designing both in 2D (mainly Inkscape and Illustrator among others) and 3D (Rhino, Blender, etc) but I could easily say that I’m really far from being a "qualified" designer. You have been warned!
 
 In my opinion, consistency is the single most important factor while designing. Every time I see a just-graduate Graphic Designer mixing two completely different themes for a website mockup I kinda feel bad. 
 
-Precense or absence of consistency can be noticed as soon as the second element is added to your design. Let's see some examples:
+Prescense or absence of consistency can be noticed as soon as the second element is added to your design. Let's see some examples:
 
 ### Example 1
 [image with 3 icons, one with sharp edges, the other ones flat, rounded]
