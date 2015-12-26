@@ -11,10 +11,28 @@ MongoDB is often associated with poor security database deploys, I think the mai
 
 Here is a small checklist to secure your MongoDB instance:
 
-1.- Disable port 27017 via de UFW firewall
-The UFW (or Uncomplicated Firewall) is a very useful, easy-to-use firewall for Linux. Your linux distro may already have this package installed by default. In case you don't, install it with `sudo apt-get install ufw` and then do a `sudo ufw status verbose` to get the firewall current status.
+1.- Disable incoming connections to port 27017
+The UFW (or Uncomplicated Firewall) is a very useful, easy-to-use firewall for Linux. Chances are that your linux distro already have this package installed by default. In case you don't, install it with `sudo apt-get install ufw` and then do a `sudo ufw status verbose` to get the firewall current status.
 
-The thougher security
+It is better to completely disable incoming connections to your database. I do this by doing,
+
+`sudo ufw allow ssh` #If you are connecting through SSH (like AWS EC2 or Digital Ocean) you need to enable this, otherwise you will immediately lose connection to your Ubuntu instance after enabling the firewall.
+`sudo ufw allow [port]` #Replace [port] with any port that you want to be accessed. I allow only 80 (HTTP) and port 3000 where a Node app is running.
+`sudo ufw enable` #Enable UFW
+``
+
+This will disable external connections to the database. You will -of course- be unable to make queries to the database from your app. I really recommend that you create a webservice or API for your app and make the needed calls through that. If you don't want to do that then you can [enable port 27017 only to a single ip]
+
+[http://stackoverflow.com/questions/20459479/default-mongodb-connection-safety]
+[https://www.digitalocean.com/community/questions/how-to-do-mongodb-backups-and-enhance-security]
+[https://www.digitalocean.com/community/tutorials/how-to-securely-configure-a-production-mongodb-server]
+[http://blog.mongodirector.com/10-tips-to-improve-your-mongodb-security/]
+[http://serverfault.com/questions/237762/how-to-make-a-secure-mongodb-server]
+[http://serverfault.com/questions/237762/how-to-make-a-secure-mongodb-server]
+[https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server]
+[]
+[]
+
 
 I usually block the port 27017 (the default MongoDB port) with:
 
