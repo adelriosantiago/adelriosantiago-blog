@@ -18,6 +18,9 @@ Here is a small checklist to secure your MongoDB instance:
 2.- Disable incoming connections to port 27017
 You just disabled external connections on steo 1 but you should anyway block access to the port (just in case). The UFW (or Uncomplicated Firewall) is a very useful, easy-to-use firewall for Linux. Chances are that your linux distro already have this package installed by default. In case you don't, install it with `sudo apt-get install ufw` and then do a `sudo ufw status verbose` to get the firewall current status.
 
+3.- Disable HTTP interface: Apparently MongoDB has a HTTP interface running on port 27018, quite frankly I have never seen it working quite frankly but you should disable it. Editing the mongod.conf to
+`nohttpinterface = true`
+
 It is better to completely disable incoming connections to your database. I do this by doing,
 
 `sudo ufw allow ssh` #If you are connecting through SSH (like AWS EC2 or Digital Ocean) you need to enable this, otherwise you will immediately lose connection to your Ubuntu instance after enabling the firewall.
@@ -31,6 +34,10 @@ Warning: By default all ports are disabled when enabling UFW. Make sure that ssh
 ``
 
 This will disable external connections to the database. You will, of course, be unable to make queries to the database from your app. I really recommend that you create a webservice or API for your app and make the needed calls through that. If you don't want to do that then you can [enable port 27017 only to a single ip] with the command `sudo ufw allow from <target> to <destination> port <port number>` for example `sudo ufw allow from 192.168.0.4 to any port 27017` would allow access from the ip 192.168.0.4; bear in mind that you will need to have a static IP or your service will stop working as soon as a new IP is obtained.
+
+Tips for AWS EC2 users: Instances have it's own firewall, it is called Security Groups inside your Management Console. Also
+
+3.-
 
 
 Resources:
