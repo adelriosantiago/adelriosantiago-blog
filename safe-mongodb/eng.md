@@ -21,6 +21,19 @@ You just disabled external connections on steo 1 but you should anyway block acc
 3.- Disable HTTP interface: Apparently MongoDB has a HTTP interface running on port 27018, quite frankly I have never seen it working quite frankly but you should disable it. Editing the mongod.conf to
 `nohttpinterface = true`
 
+4.- Add a user to the Admin database and connect trghoug it:
+
+`db.createUser({user: "exampleUser", pwd: "examplePass", roles: [{role: "userAdminAnyDatabase", db: "admin"}]})`
+Other available permissions/roles are `role: "read"` and role: "write". Don't replace the "admin" database with your database you want to manage, you will add a user for that later.
+
+Start mongod with authentication enabled `mongod --auth`
+
+Connect to your mongo instance with the command `mongo -u "exampleUser" -p "examplePass" --authenticationDatabase "admin"`.
+
+This is the the admin user, now create a user for a single database:
+
+[create a single user for "exampleDatabase"]
+
 It is better to completely disable incoming connections to your database. I do this by doing,
 
 `sudo ufw allow ssh` #If you are connecting through SSH (like AWS EC2 or Digital Ocean) you need to enable this, otherwise you will immediately lose connection to your Ubuntu instance after enabling the firewall.
@@ -42,6 +55,7 @@ Tips for AWS EC2 users: Instances have it's own firewall, it is called Security 
 
 Resources:
 [https://docs.mongodb.org/manual/administration/security/#SecurityandAuthentication-FirewallRules]
+[https://docs.mongodb.org/v3.0/tutorial/enable-authentication/]
 [http://stackoverflow.com/questions/20459479/default-mongodb-connection-safety]
 [https://www.digitalocean.com/community/tutorials/how-to-securely-configure-a-production-mongodb-server]
 [http://blog.mongodirector.com/10-tips-to-improve-your-mongodb-security/]
