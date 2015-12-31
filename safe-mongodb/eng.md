@@ -10,6 +10,7 @@ MongoDB is often associated with poor security database deploys, I think the mai
 ---
 
 MongoDB offers only basic security.
+I find it funny that the security is not very well documented as other parts of documentation are. I suppose this is because Mongo is still relatively young, security is somethings that grows along with any project.
 
 Here is a small checklist to secure your MongoDB instance:
 
@@ -26,11 +27,19 @@ You just disabled external connections on steo 1 but you should anyway block acc
 
 4.1.- Run `mongod` to run the daemon without access control.
 4.2.- Connect to the instance with `mongo` on another terminal
-4.3.- Create a database administrator user with `db.createUser({user: "exampleAdminUser", pwd: "exampleAdminPass", roles: [{role: "userAdminAnyDatabase", db: "admin"}]})`. This is the admin username, don't change the field *db* yet.
+4.3.- Create a database administrator user with `db.createUser({user: "exampleAdminUser", pwd: "exampleAdminPass", roles: [{role: "root", db: "admin"}]})`. This is the admin username, don't change the field *db* yet. Also note that while the documentation states that you should create the admin user with "userAdminAnyDatabase", (this setting don't seem to work for many people)[http://stackoverflow.com/questions/23943651/mongodb-admin-user-not-authorized].
 4.4.- Close all mongo and mongod terminals.
 4.5.- Run `mongo -u "exampleAdminUser" -p "exampleAdminPass" --authenticationDatabase "admin"` to run the daemon with access control.
-4.6.- Create a database user with `use exampleDatabase `db.createUser({user: "exampleUser", pwd: "examplePass", roles: [{role: "readWrite", db: "exampleDatabase" }]})`
-4.7.- Finally connect to exampleDatabase with this user, like ``
+4.6.- Create a database user with `use exampleDatabase db.createUser({user: "exampleUser", pwd: "examplePass", roles: [{role: "readWrite", db: "exampleDatabase"}]})`
+4.7.- Finally connect to exampleDatabase with this user, like `mongo -u "exampleUser" -p "examplePass" --authenticationDatabase "exampleDatabase"`
+
+You now have two users to remember and document on your password reminder page:
+You now have two users to register on your password notebook. (If you don't have a password notebook you should)[link]:
+
+ - The database administrator account "exampleAdminUser", this user can manage every single database on the MongoDB instance.
+ - The "exampleUser" account, this will have read/write permissions only on the database "exampleDatabase".
+ 
+ 
 
 ---
 
