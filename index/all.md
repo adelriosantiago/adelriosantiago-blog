@@ -5,7 +5,7 @@
 # Index
 
 ### [100 días de italiano en Duolingo](http://www.adelriosantiago.com/blog/100-duolingo)
-Mi experiencia usando Duolingo por 100 dias seguidos aprendiendo italiano.
+Mi experiencia aprendiendo italiano en Duolingo por 100 dias seguidos.
 
 ## 
 
