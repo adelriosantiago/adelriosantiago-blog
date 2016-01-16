@@ -1,11 +1,10 @@
-﻿<permalink>eng</permalink>
+<permalink>eng</permalink>
 <month>9</month>
 <year>2015</year>
 
 # How to sync your Digital Ocean instance with Dropbox
 
 One of the fastest ways to instantly deploy websites is to use Dropbox on your server. For sure you have used Dropbox or at least know how it works. It basically allows you to keep all your files sync'ed.
-Uno de los modos más rapidos para instantaniamente deplorar sitios web es usando dropbox en tu server. De seguro has usado DropBox o al menos sabes cómo funciona. Basicamente de permite manetener todos tus archivos sincronizados
 
 One of the most time consuming tasks while deploying a server is when you have to deploy your localhost changes into the real server and have to login to it and just do a `git pull`. If you are building a simple website, pure html, with no connections to databases and transactions you should try using Dropbox as your deploy tool.
 
