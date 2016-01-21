@@ -28,8 +28,6 @@ Here are the steps to achieve that:
  - Create a soft link from /var/www/html/yoursite to $HOME/Dropbox/yoursite, the index.html path is /var/www/html/yoursite/index.html
  - 
  - 
- - 
- - 
 
 ---
 
