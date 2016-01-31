@@ -9,11 +9,10 @@ Deploying websites with Dropbox is really cool! I've found that this is one of t
 
 Dropbox's security standards are actually high. What makes it insecure is how easy is to make changes to the files, someone with access to your computer could easily create, copy or delete files or folders. If you lose access to your mail associated with it, personal information could end up in wrong hands. By far what makes Dropbox insecure is how easy is to forget to whom you shared an specific folder. If you use Dropbox on a daily basis I bet that there is at least one folder that is shared with a person that shouldn't be there... I once conducted a rather quick and informal poll/test and found that 3 out of 5 people using Dropbox for at least 1 year would end up kicking a person from a folder after I asked them to review their shared folders. You still don't believe me? Go ahead to Dropbox > Sharing to have a "Whaaat! Is he/she still invited to this folder???" moment.
 
-On the other hand there are several times in which deploying several times a day (Lean's continuous deployment) is essential. Deploying websites with the "professional tools"
+On the other hand there are several times in which deploying several times a day (Lean's continuous deployment) is essential, especially if you are building a simple website, pure html, with no connections to databases and/or transactions to other services. Deploying websites with the "professional" tools like GIT, Mercurial and SVN is one of the most time-consuming tasks -you have literally have to login into the server just to do a `git pull`-.
 
 
 
-One of the most time consuming tasks while deploying a server is when you have to deploy your localhost changes into the real server and have to login to it and just do a `git pull`. If you are building a simple website, pure html, with no connections to databases and transactions you should try using Dropbox as your deploy tool.
 
 Now let me be clear about two things: 
  - It is very well know that Dropbox is not exactly the safest tool out there... You should use **only** when the security is not a key factor (like when doing a landing page).
@@ -68,3 +67,5 @@ ln –s
 --- trash
 The Dropbox's security standard is actually high, what makes it insecure is how easy is to change files if some else steals your mail associated with Dropbox , how easy it is for the people to mismanage the collaborators and of course, how easy is to forget about who you shared with your Dropbox folder.
 I've found that one of the fastest ways to instantly deploy websites is to use Dropbox on your server. For sure you have used Dropbox or at least know how it works. It basically allows you to keep all your files sync'ed.
+
+One of the most time consuming tasks while deploying a server is when you have to deploy your localhost changes into the real server and have to login to it and just do a `git pull`. If you are building a simple website, pure html, with no connections to databases and transactions you should try using Dropbox as your deploy tool.
