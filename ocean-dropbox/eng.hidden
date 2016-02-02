@@ -9,7 +9,7 @@ Deploying websites with Dropbox is really cool! I've found that this is one of t
 
 Dropbox's security standards are actually high. What makes it insecure is how easy is to make changes to the files, someone with access to your computer could easily create, copy or delete files or folders. If you lose access to your mail associated with it, personal information could end up in wrong hands. By far what makes Dropbox insecure is how easy is to forget to whom you shared an specific folder. If you use Dropbox on a daily basis I bet that there is at least one folder that is shared with a person that shouldn't be there... I once conducted a rather quick and informal poll/test and found that 3 out of 5 people using Dropbox for at least 1 year would end up kicking a person from a folder after I asked them to review their shared folders. You still don't believe me? Go ahead to Dropbox > Sharing to have a "Whaaat! Is he/she still invited to this folder???" moment.
 
-On the other hand, on some situations deploying several times a day (like on Lean's continuous deployment concept) is essential, especially if you are building a simple website or landing page, pure html, with no connections to databases and/or transactions to other services. On these situations, deploying websites with the professional tools like GIT, Mercurial and SVN is one of the most time-consuming tasks as you have literally have to login into the server just to do a `git pull`. By using Dropbox you are, of course, losing the chances to resolve conflicts like in GIT--- It seems that Dropbox now creates conflict copies.
+On the other hand, on some situations deploying several times a day (see Lean's continuous delivery concept) is essential, especially if you are building a simple website or landing page, pure html, with no connections to databases and/or transactions to other services. On these situations, deploying websites with the professional tools like GIT, Mercurial and SVN is one of the most time-consuming tasks as you have literally have to login into the server just to do a `git pull`. By using Dropbox you are, of course, losing the chances to resolve conflicts like in GIT--- It seems that Dropbox now creates conflict copies.
 
 Here are the steps to achieve that:
 
@@ -19,10 +19,12 @@ Here are the steps to achieve that:
  - Download the Dropbox daemon on your linux machine as explained on [this article](https://www.dropbox.com/install?os=lnx). If you need to know if you are running a 32 or 64 bits machine just type `uname -a`, a 32 bits machine withh throw something like:
  Linux discworld 2.6.38-8-generic #42-Ubuntu SMP Mon Apr 11 03:31:50 UTC 2011 i686 i686 i386 GNU/Linux
  While a 64 bits machine will throw something like:
- Linux discworld 2.6.38-8-generic #42-Ubuntu SMP Mon Apr 11 03:31:50 UTC 2011 x86_64 x86_64 x86_64 GNU/Linux
- - Now run the Dropbox daemon with `~/.dropbox-dist/dropboxd &`
- - Create a soft link from /var/www/html/yoursite to $HOME/Dropbox/yoursite. With this your index.html path would be located at /var/www/html/yoursite/index.html
- - Add some content to your index.html and test them!
+ Linux discworld 2.6.38-8-generic #42-Ubuntu SMP Mon Apr 11 03:31:50 UTC 2011 x86_64 x86_64 x86_64 GNU/Linux 
+ - Now run the Dropbox daemon with `~/.dropbox-dist/dropboxd &`, this should create a folder named "Dropbox" on $HOME.
+ - To link your Apache folder to the actual Dropbox folder create a soft link from /var/www/html/yoursite to $HOME/Dropbox/yoursite.
+ - Create a file on your local machine named index.html and add some content to your index.html and test them on the real address!
+ 
+ 
  
 ---
 <hidden>
