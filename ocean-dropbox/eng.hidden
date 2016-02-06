@@ -13,7 +13,7 @@ On the other hand, on some situations deploying several times a day (see Lean's 
 
 Here are the steps to achieve that:
 
-<hidden>TODO: add some images here!</hidden>
+<hidden>TODO: add some images here?</hidden>
 
  - Download Dropbox on your local machine -_-
  - Download the Dropbox daemon on your linux machine as explained on [this article](https://www.dropbox.com/install?os=lnx). If you need to know if you are running a 32 or 64 bits machine just type `uname -a`, a 32 bits machine withh throw something like:
@@ -24,14 +24,13 @@ Here are the steps to achieve that:
  - To link your Apache folder to the actual Dropbox folder create a soft link from /var/www/html/yoursite to $HOME/Dropbox/yoursite.
  - Create a file on your local machine named index.html and add some content to your index.html and test them on the real address!
  
- 
+Now you can collaboratively edit your websites with your favorite IDE! 
  
 ---
 <hidden>
 some excerpts:
 
 So that created this soft link: ln -s /var/www/html/lumston ./website
-
 
 One of the fastest ways to sync your local changes and a real server is using Dropbox. 
 
