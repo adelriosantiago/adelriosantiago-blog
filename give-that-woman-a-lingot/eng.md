@@ -6,6 +6,11 @@
 
 # Give that woman a lingot
 
+Quick story that made my day: Today I woke up, opened Duolingo and saw more than 100 lingots into my account. *What the heck?* -I asked myself. 
+
+I was about not to publish it fearing that could be unpolite. The moral of the story is: Make more memes.
+
+
 today I woke up, entered Duolingo to complete my daily French routine, and saw an usual increase in lingots [I had about 800, looking for 1000 or more, suddenly I got/saw more than 1000 lingots on my account]. What the...? I thought.
 I got more than 130 lingots by posting a Vladimir Putin meme in response to a comment that literally made my day.
 
