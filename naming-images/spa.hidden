@@ -2,11 +2,14 @@
 <month>3</month>
 <year>2014</year>
 
-# Designers, please slugify your images!
-
+# Diseñadores, slug'ifiquen sus imagenes!
 
 
 --- speed draft
+
+Es muy común encontrar diseñadores que nombran las imagenes con textos como "Flecha arriba.png" o "Flecha abajo.jpg", lo cual genera trabajo extra para los programadores que tienen que "slug-ificar" los nombres para que puedan ser usados en el proyecto web o movil.
+
+---
 
 TLDR: if you don't want to read the reasons why naming images like this is a bad idea then just type the name of the image you are about to send your programmer and rename it with the output, use the app shown below
 this pretends to be a small piece of advice to designers: please slugify your image names!
