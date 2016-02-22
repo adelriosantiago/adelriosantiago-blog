@@ -22,9 +22,9 @@ Here are the steps to achieve that:
  Linux discworld 2.6.38-8-generic #42-Ubuntu SMP Mon Apr 11 03:31:50 UTC 2011 x86_64 x86_64 x86_64 GNU/Linux 
  - Now run the Dropbox daemon with `~/.dropbox-dist/dropboxd &`, this should create a folder named "Dropbox" on $HOME.
  - To link your Apache folder to the actual Dropbox folder create a soft link from /var/www/html/yoursite to $HOME/Dropbox/yoursite.
- - Create a file on your local machine named index.html and add some content to your index.html and test them on the real address!
+ - Now you can collaboratively edit your websites with your favorite IDE! Try creating a file named index.html in your local machine, add some content on it and test it on the real www address.
  
-Now you can collaboratively edit your websites with your favorite IDE! 
+
  
 ---
 <hidden>
