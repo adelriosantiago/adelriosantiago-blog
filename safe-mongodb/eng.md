@@ -24,15 +24,15 @@ You just disabled external connections on steo 1 but you should anyway block acc
 
 4.- Disable HTTP interface: Apparently MongoDB has a HTTP interface running on port 27018, quite frankly I have never seen it working but you should disable it when going into production. Uncomment or add `nohttpinterface = true` the mongod.conf.
 
-5.- Always run mongo with authentication: This is done by running `mongod --auth`. This way you will be prompted your username and password when connecting. Here are are the stummarized steps taken from the article (Enable Client Access Control)[https://docs.mongodb.org/v3.0/tutorial/enable-authentication/]
+5.- Always run mongo with authentication: By running an access control enabled deploy you will be asked the username and password before connecting. However before you can run `mongo --auth` you need to enable access control. Here are the stummarized steps taken from the article (Enable Client Access Control)[https://docs.mongodb.org/v3.0/tutorial/enable-authentication/]
 
-6.1.- Run `mongod` to run the daemon without access control.
-6.2.- Connect to the instance with `mongo` on another terminal
-6.3.- Create a database administrator user with `db.createUser({user: "exampleAdminUser", pwd: "exampleAdminPass", roles: [{role: "root", db: "admin"}]})`. This is the admin username, don't change the field *db* yet. Also note that while the documentation states that you should create the admin user with "userAdminAnyDatabase", (this setting don't seem to work for many people)[http://stackoverflow.com/questions/23943651/mongodb-admin-user-not-authorized].
-6.4.- Close all mongo and mongod terminals.
-6.5.- Run `mongo -u "exampleAdminUser" -p "exampleAdminPass" --authenticationDatabase "admin"` to run the daemon with access control.
-6.6.- Create a database user with `use exampleDatabase db.createUser({user: "exampleUser", pwd: "examplePass", roles: [{role: "readWrite", db: "exampleDatabase"}]})`
-6.7.- Finally connect to exampleDatabase with this user, like `mongo -u "exampleUser" -p "examplePass" --authenticationDatabase "exampleDatabase"`
+5.1.- Run `mongod` to run the daemon without access control.
+5.2.- Connect to the instance with `mongo` on another terminal.
+5.3.- Create a database administrator user with `db.createUser({user: "exampleAdminUser", pwd: "exampleAdminPass", roles: [{role: "root", db: "admin"}]})`. This is the admin username, don't change the field *db* yet. Also note that while the documentation states that you should create the admin user with "userAdminAnyDatabase", (this setting don't seem to work for many people)[http://stackoverflow.com/questions/23943651/mongodb-admin-user-not-authorized].
+5.4.- Close all mongo and mongod terminals.
+5.5.- Run `mongo -u "exampleAdminUser" -p "exampleAdminPass" --authenticationDatabase "admin"` to run the daemon with access control.
+5.6.- Create a database user with `use exampleDatabase db.createUser({user: "exampleUser", pwd: "examplePass", roles: [{role: "readWrite", db: "exampleDatabase"}]})`
+5.7.- Finally connect to exampleDatabase with this user, like `mongo -u "exampleUser" -p "examplePass" --authenticationDatabase "exampleDatabase"`
 
 You now have two users to remember and document on your password reminder page:
 You now have two users to register on your password notebook. (If you don't have a password notebook you should)[link]:
