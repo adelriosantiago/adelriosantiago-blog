@@ -2,16 +2,14 @@
 <month>8</month>
 <year>2015</year>
 
----
-# This article is under construction, when it is finished it will appear in my blog www.adelriosantiago.com/blog.
----
+# Wouldn't it be great to have your own GitHub?
 
-# How to install your own GitHub
-
-See: https://gogs.io/docs/installation
+Well just take a look at: https://gogs.io/
 
 <hidden>
 fast drafting
+
+Installation link: https://gogs.io/docs/installation
 
 Create the database with:
 
