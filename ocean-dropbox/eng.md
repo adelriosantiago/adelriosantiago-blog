@@ -2,7 +2,6 @@
 <month>9</month>
 <year>2015</year>
 
-# How to sync your Digital Ocean instance with Dropbox
 # How to deploy websites on your server with Dropbox
 
 Deploying websites with Dropbox is really cool! I've found that this is one of the fastest ways to instantly deploy websites on your server. But before I jump in and explain the benefits and how you can implement that on your own server, let me be clear about this: Dropbox is not exactly the safest tool out there...
@@ -22,12 +21,17 @@ Here are the steps to achieve that:
  Linux discworld 2.6.38-8-generic #42-Ubuntu SMP Mon Apr 11 03:31:50 UTC 2011 x86_64 x86_64 x86_64 GNU/Linux 
  - Now run the Dropbox daemon with `~/.dropbox-dist/dropboxd &`, this should create a folder named "Dropbox" on $HOME.
  - To link your Apache folder to the actual Dropbox folder create a soft link from /var/www/html/yoursite to $HOME/Dropbox/yoursite.
- - Now you can collaboratively edit your websites with your favorite IDE! Try creating a file named index.html in your local machine, add some content on it and test it on the real www address.
  
+ 
+Now you can collaboratively edit your websites with your favorite IDE! Try creating a file named index.html in your local machine, add some content on it and test it on the real www address.
 
- 
+<hidden>Also, check this article that I wrote: [I need to write this... and put the link here] about how to setup your own Dropbox, just in case you don't want to use it.</hidden>
+
 ---
 <hidden>
+alternative title:
+# How to sync your Digital Ocean instance with Dropbox
+
 some excerpts:
 
 So that created this soft link: ln -s /var/www/html/lumston ./website
@@ -54,7 +58,7 @@ ln –s
 
 
 
---- trash
+--- trash (didn't like these excerpts at the end)
 The Dropbox's security standard is actually high, what makes it insecure is how easy is to change files if some else steals your mail associated with Dropbox , how easy it is for the people to mismanage the collaborators and of course, how easy is to forget about who you shared with your Dropbox folder.
 I've found that one of the fastest ways to instantly deploy websites is to use Dropbox on your server. For sure you have used Dropbox or at least know how it works. It basically allows you to keep all your files sync'ed.
 
