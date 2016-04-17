@@ -4,7 +4,7 @@
 
 # 100 días en Duolingo
 
-El día de ayer completé mis primeros <a class='mintip'>100 dias seguidos<span><img src='../articles/images/100-days-flame.png'/></span></a> de mi clase online de Italiano en [Duolingo](http://www.duolingo.com/) el sitio web para aprender, de manera gratuita, nuevos lenguajes. Debo mencionar que estoy bastante contento con lo que he aprendido, he mejorado bastante mi italiano. Algo que noté es que, si bien es cierto que el italiano se parece mucho al español (intenta escuchar un video en Italiano en YouTube y verás a que me refiero), empezar a hablar y a comunicarte con otras personas resulta bastante difícil.
+El día de ayer completé mis primeros <a class='mintip'>100 dias seguidos<span><img src='100-duolingo/images/100-days-flame.png'/></span></a> de mi clase online de Italiano en [Duolingo](http://www.duolingo.com/) el sitio web para aprender, de manera gratuita, nuevos lenguajes. Debo mencionar que estoy bastante contento con lo que he aprendido, he mejorado bastante mi italiano. Algo que noté es que, si bien es cierto que el italiano se parece mucho al español (intenta escuchar un video en Italiano en YouTube y verás a que me refiero), empezar a hablar y a comunicarte con otras personas resulta bastante difícil.
 
 ![](../articles/images/duo-free.png)
 
