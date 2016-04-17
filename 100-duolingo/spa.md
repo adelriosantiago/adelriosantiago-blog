@@ -4,15 +4,15 @@
 
 # 100 días en Duolingo
 
-El día de ayer completé mis primeros <a class='mintip'>100 dias seguidos<span><img src='100-duolingo/images/100-days-flame.png'/></span></a> de mi clase online de Italiano en [Duolingo](http://www.duolingo.com/) el sitio web para aprender, de manera gratuita, nuevos lenguajes. Debo mencionar que estoy bastante contento con lo que he aprendido, he mejorado bastante mi italiano. Algo que noté es que, si bien es cierto que el italiano se parece mucho al español (intenta escuchar un video en Italiano en YouTube y verás a que me refiero), empezar a hablar y a comunicarte con otras personas resulta bastante difícil.
+El día de ayer completé mis primeros <a class='mintip'>100 dias seguidos<span><img src='/articles/100-duolingo/images/100-days-flame.png'/></span></a> de mi clase online de Italiano en [Duolingo](http://www.duolingo.com/) el sitio web para aprender, de manera gratuita, nuevos lenguajes. Debo mencionar que estoy bastante contento con lo que he aprendido, he mejorado bastante mi italiano. Algo que noté es que, si bien es cierto que el italiano se parece mucho al español (intenta escuchar un video en Italiano en YouTube y verás a que me refiero), empezar a hablar y a comunicarte con otras personas resulta bastante difícil.
 
-![](../articles/images/duo-free.png)
+![](/articles/100-duolingo/images/duo-free.png)
 
 En especial me resulta difícil no saber si una palabra realmente existe en italiano o si simplemente *parece que está* en italiano. Muchas palabras del español las puedes encontrar en italiano con solo agregar una vocal al final. Cerca del 98% de las palabras en italiano terminan en vocal. Y esto muchas veces me hace pensar que puedo "empezare a hablare en italiano agregando una *e* al finale", pero en realidad la mayoría de las veces es una *italianización* del español.
 
 El sistema de enseñanza de Duolingo me parece muy ingenioso. Mis primeras lecciones eran sobre aprender palabras sencillas como *gatto* (*gato*) y *latte* (*leche*), para después, de manera muy natural, empezar a formar frases más complejas como *i miei gatti bevono latte* (*mis gatos beben leche*), esta frase fue por cierto, una de las primeras frases en italiano que aprendí.
 
-![](../articles/images/duo-read-per.png)
+![](/articles/100-duolingo/images/duo-read-per.png)
 
 Justo cuando terminaba el día 100 me enteraba que según los cálculos de Duolingo, ahora puedo leer el 54.3% de los textos en italiano, es una estadística que me impresionó bastante para ser un estudio "informal" al cual le dedico cerca de 10 minutos al día. El sistema de Duolingo es muy inteligente, es difícil explicarlo pero se podría decir que **Duolingo te obliga a tener aciertos** de tal manera que te mantiene siempre interesado en seguir aprendiendo. Una vez que aprendes una nueva palabra no te la pregunta de nuevo segundos después (Duolingo sabe que sabes dicha palabra) pero tampoco se espera a que se te haya olvidado, te la pregunta en el momento justo en el que *por poco la olvidas*, al recordarla satisfactoriamente se queda grabada en la memoria quizás no tanto por el significado de la palabra sino por el buen recuerdo de haber recordado algo que casi olvidas.
 
