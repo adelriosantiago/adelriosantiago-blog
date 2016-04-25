@@ -7,11 +7,6 @@
 ### [100 días de italiano en Duolingo](http://www.adelriosantiago.com/gitblog/spa/100-duolingo)
 Mi experiencia aprendiendo italiano en Duolingo por 100 dias seguidos.
 
-<hidden>## 
-
-### [Real time collaborative artificial life](http://www.adelriosantiago.com/gitblog/eng/artificial)
-The real-time collaborative version of the Conway's Game of Life using Socket.io.
-</hidden>
 ## 
 
 ### [Text to speech interface in Node.js](http://www.adelriosantiago.com/gitblog/eng/text-to-speech)
