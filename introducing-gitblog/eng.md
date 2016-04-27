@@ -2,9 +2,9 @@
 <month>5</month>
 <year>2016</year>
 
-# Introducing GitBlog, my blog git-powered
+# My articles now git-powered
 
-With GitBlog now it is possible to see the different version of each commit in the blog.
+I am migrating all my articles to the git-powered version, where you can see the article as I wrote it.
 
 <hidden>fast drafting</hidden>
 
