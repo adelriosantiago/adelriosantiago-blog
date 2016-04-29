@@ -4,14 +4,14 @@
 
 # SVOX TTS (Text to Speech) interface in Node.js
 
-Google has a very cool service to convert text to audio via the Google Translate engine. You can easily test it going to the [translate service webpage](http://translate.google.com), and clicking on the <a class='mintip'>megaphone icon<span><img src='../articles/images/google-tts.png'/></span></a> to read the text aloud. <a class='mintip'>Inspecting the button with the browser toolbar<span><img src='../articles/images/behind-scenes.png'/></span></a> we find how it works. Behind the scenes when you click on it there is a call to an address with the text we want to read aloud, so that when you click on the megaphone you are actually performing a requests like these:
+Google has a very cool service to convert text to audio via the Google Translate engine. You can easily test it going to the [translate service webpage](http://translate.google.com), and clicking on the <a class='mintip'>megaphone icon<span><img src='/articles/text-to-speech/images/google-tts.png'/></span></a> to read the text aloud. <a class='mintip'>Inspecting the button with the browser toolbar<span><img src='/articles/text-to-speech/images/behind-scenes.png'/></span></a> we find how it works. Behind the scenes when you click on it there is a call to an address with the text we want to read aloud, so that when you click on the megaphone you are actually performing a requests like these:
 
  * [translate.google.com/translate_tts?tl=en&q=hello-world](http://translate.google.com/translate_tts?tl=en&q=hello-world) to read “hello world” in english.
  * [translate.google.com/translate_tts?tl=it&q=buongiorno](http://translate.google.com/translate_tts?tl=it&q=buongiorno) to read aloud “buongiorno” in italian.
 
 And so on with other languages.
 
-However there is a big issue with service. It is the usual story of free services and APIs: *The service was free, people abused from it, it became a paid service...* Google now puts a limit the quantity on audios you can generate to about 15 calls per user (unless the call is made from Chrome), after that limit is reached you will very likely get an <a class='mintip'>unusual traffic<span><img src='../articles/images/deny-tts-google.png'/></span></a> captcha making the service unusable for your app. In order to raise the limit again you would need to solve the captcha. As a student, I once had a situation like this on a project with an Arduino MCU.
+However there is a big issue with service. It is the usual story of free services and APIs: *The service was free, people abused from it, it became a paid service...* Google now puts a limit the quantity on audios you can generate to about 15 calls per user (unless the call is made from Chrome), after that limit is reached you will very likely get an <a class='mintip'>unusual traffic<span><img src='/articles/text-to-speech/images/deny-tts-google.png'/></span></a> captcha making the service unusable for your app. In order to raise the limit again you would need to solve the captcha. As a student, I once had a situation like this on a project with an Arduino MCU.
 
 > "Ohh wait teacher! The project is workin' just lemme answer this captcha to prove that I’m not a robot!”
 > -☉_☉
@@ -27,7 +27,7 @@ Find the project and the installation instructions at the Github repo [https://g
 
 Here is how the finished project looks like:
 
-<a href='http://tts.adelriosantiago.com'>![](../articles/images/tts-final.png)</a>
+<a href='http://tts.adelriosantiago.com'>![](/articles/text-to-speech/images/tts-final.png)</a>
 
 To use simply select the language, the text you wish to convert and click on the URL to get the audio. Feel free to play with the finished project generating some phrases at the address [tts.adelriosantiago.com](http://tts.adelriosantiago.com).
 
