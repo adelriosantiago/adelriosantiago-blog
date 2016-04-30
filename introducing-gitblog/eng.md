@@ -4,7 +4,9 @@
 
 # My articles now git-powered
 
-I am migrating all my articles to the git-powered version, where you can see the article as I wrote it.
+I am migrating all my articles to the git-powered version, where you can see the article versions by dragging the top slider.
+
+![](/articles/introducing-gitblog/images/gitblog.png)
 
 <hidden>fast drafting</hidden>
 
