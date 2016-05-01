@@ -1,0 +1,1 @@
+Do not store images here, store them inside the "images" folder of each article. These folder is only keept because the old non git-powered blog is still available.
