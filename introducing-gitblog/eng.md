@@ -6,17 +6,10 @@ I am migrating all my articles to the git-powered version, where you can see the
 ![](/articles/introducing-gitblog/images/gitblog-animation.gif)
 Try it now!
 
-*More info coming soon*
-<hidden>
-maybe add a gif to this? added
-
-one of the main reasons i wanted to implement git-powered articles is because of 
-
-articles should evolve with time
-
-i was wondering why waiting until having an extremely polished version of your article
-
-crafting a blog article is one of the most difficult things to do
-
-</hidden>
+*More info coming soon*
+<hidden>maybe add a gif to this? added</hidden>
+<hidden>one of the main reasons i wanted to implement git-powered articles is because of</hidden>
+<hidden>articles should evolve with time</hidden>
+<hidden>i was wondering why waiting until having an extremely polished version of your article</hidden>
+<hidden>crafting a blog article is one of the most difficult things to do</hidden>
 <hidden>themes & ideas</hidden>
