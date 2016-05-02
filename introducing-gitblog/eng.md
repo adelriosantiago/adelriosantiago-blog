@@ -3,7 +3,7 @@
 <year>2016</year>
 # My articles now git-powered
 I am migrating all my articles to the git-powered version, where you can see the article versions by dragging the top slider.
-![](/articles/introducing-gitblog/images/gitblog-animation.gif)
+<img alt="" src="/articles/introducing-gitblog/images/gitblog-animation.gif" style="max-width: 50%;">
 Try it now!
 
 *More info coming soon*
