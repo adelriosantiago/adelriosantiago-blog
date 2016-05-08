@@ -2,7 +2,7 @@
 <month>8</month>
 <year>2015</year>
 
-# A must see for those interested in creating the right working culture for your organization
+# A must see for those interested in creating the right working culture for their organizations
 
 Creating the right working culture is essential for any organization. If you are a CEO, CTO or a CIO, this video by the RSA is a must see to understand why your organization needs give their employees more freedom to choose how they want to work.
 
