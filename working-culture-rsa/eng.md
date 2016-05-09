@@ -6,7 +6,9 @@
 
 Creating the right working culture is essential for any organization. If you are a CEO, CTO or a CIO, this video by the RSA is a must see to understand why your organization needs give their employees more freedom to choose how they want to work.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G11t6XAIce0" frameborder="0" allowfullscreen></iframe>
+<div class="text-center"><iframe width="560" height="315" src="https://www.youtube.com/embed/G11t6XAIce0" frameborder="0" allowfullscreen></iframe></div>
+
+
 
 <hidden>fast drafting</hidden>
 
