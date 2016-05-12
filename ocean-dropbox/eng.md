@@ -8,7 +8,19 @@ Deploying websites with Dropbox is really cool! I've found that this is one of t
 
 Dropbox's security standards are actually high. What makes it insecure is how easy is to make changes to the files, someone with access to your computer could easily create, copy or delete files or folders. If you lose access to your mail associated with it, personal information could end up in wrong hands. By far what makes Dropbox insecure is how easy is to forget to whom you shared an specific folder. If you use Dropbox on a daily basis I bet that there is at least one folder that is shared with a person that shouldn't be there... I once conducted a rather quick and informal poll/test and found that 3 out of 5 people using Dropbox for at least 1 year would end up kicking a person from a folder after I asked them to review their shared folders. You still don't believe me? Go ahead to Dropbox > Sharing to have a "Whaaat! Is he/she still invited to this folder???" moment.
 
-On the other hand, on some situations deploying several times a day (see Lean's continuous delivery concept) is essential, especially if you are building a simple website or landing page, pure html, with no connections to databases and/or transactions to other services. On these situations, deploying websites with the professional tools like GIT, Mercurial and SVN is one of the most time-consuming tasks as you have literally have to login into the server just to do a `git pull`. By using Dropbox you are, of course, losing the chances to resolve conflicts like in GIT--- It seems that Dropbox now creates conflict copies.
+On the other hand, deploying several times a day is essential for startups (see Lean's **continuous integration** & **continuos delivery** concepts). I found this quote about CI:
+
+*"Continuous Integration is a software development practice where members of a team integrate their work frequently, usually each person integrates at least daily."*
+
+And this one about CD:
+
+*"Continuous Delivery is the natural extension of Continuous Integration: an approach in which teams ensure that every change to the system is releasable, and that we can release any version at the push of a button."*
+
+Both quotes from Martin Fowler @ [ThoughtWorks](https://www.thoughtworks.com/continuous-delivery)
+
+Bear in mind that by using Dropbox you are losing the chances to resolve conflicts like in GIT, so far Dropbox only creates a conflicted copy of your work that you will have to merge manually or with a merging tool. ~~Also, bear in mind that with Dropbox there is no way to go back in history. **Once you lose a file version, its gone, forever**.~~ A very nice feature that seems to be added recently allows you to go back in history!
+
+<hidden>It seems that Dropbox now creates conflict copies.</hidden>
 
 Here are the steps to achieve that:
 
@@ -72,3 +84,5 @@ Now let me be clear about two things:
  Also I think it using Dropbox as your version control system would look very unprofesional... Aside from that, if you are just rocking your startup, what are you waiting to use Dropbox as your deploy tool!?
  
 </hidden>
+
+<hidden>If you are building a simple website or landing page, pure html, with no connections to databases and/or transactions to other services. On these situations, deploying websites with the professional tools like GIT, Mercurial and SVN is one of the most time-consuming tasks as you have literally have to login into the server just to do a `git pull`.</hidden>
