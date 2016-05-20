@@ -1,10 +1,18 @@
 <permalink>spa</permalink>
-<month>8</month>
-<year>2015</year>
+<month>5</month>
+<year>2016</year>
 
 # Venezuela en la obscuridad
 
-El dia de hoy el presidente de Venezuela, Nicolas Maduro, ordena una jornada laboral de solo 2 dias para ahorrar energía.
+El dia de hoy el presidente de Venezuela, Nicolas Maduro, ordena una jornada laboral de solo 2 dias para ahorrar energía. 
+
+<img alt="" src="/articles/venezuela-en-la-obscuridad/images/venezuela-1.png" style="max-width: 80%;">
+
+<img alt="" src="/articles/venezuela-en-la-obscuridad/images/venezuela-2.png" style="max-width: 80%;">
+
+<img alt="" src="/articles/venezuela-en-la-obscuridad/images/venezuela-3.png" style="max-width: 80%;">
+
+<img alt="" src="/articles/venezuela-en-la-obscuridad/images/venezuela-4.png" style="max-width: 80%;">
 
 <hidden>
 fast drafting
