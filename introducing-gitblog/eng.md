@@ -3,10 +3,8 @@
 <year>2016</year>
 # My articles now git-powered
 I am migrating all my articles to the git-powered version, where you can see the article versions by dragging the top slider.
-<img alt="" src="/articles/introducing-gitblog/images/gitblog-animation.gif" style="max-width: 50%;">
-Try it now!
-
-*More info coming soon*
+<img alt="" src="/articles/introducing-gitblog/images/gitblog-animation.gif" style="max-width: 60%;">
+Try it now!
 <hidden>maybe add a gif to this? added</hidden>
 <hidden>one of the main reasons i wanted to implement git-powered articles is because of</hidden>
 <hidden>articles should evolve with time</hidden>

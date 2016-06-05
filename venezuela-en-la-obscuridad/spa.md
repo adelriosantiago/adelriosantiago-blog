@@ -6,7 +6,7 @@
 
 El dia de hoy 28 de Abril del 2016 el presidente de Venezuela, Nicolas Maduro, ordena una jornada laboral de solo 2 dias para ahorrar energía. 
 
-Más de 2 millones de trabajadores públicos, empleados, trabajadores y dueños de negocios ahora tienen fines de semana de 5 dias. El fin de semana inicia el miércoles y termina el domingo. Solo se trabajan los lunes y martes. Y bueno  -agrega Maduro- también los miércoles pero solo cuando "haya actividades absolutamente necesarias y fundamentales a realizar".
+Más de 2 millones de trabajadores públicos, empleados, trabajadores y dueños de negocios ahora tienen fines de semana de 5 dias. El fin de semana inicia el miércoles y termina el domingo. Solo se trabajan los lunes y martes. Y bueno -agrega Maduro- también los miércoles pero solo cuando "haya actividades absolutamente necesarias y fundamentales a realizar".
 
 <img alt="" src="/articles/venezuela-en-la-obscuridad/images/venezuela-1.png" style="max-width: 80%;">
 <center><a href="http://www.chron.com/news/world/article/Venezuela-orders-2-day-work-week-to-stave-off-7377344.php">Fernando Llano, AP; Chron</a></center>
