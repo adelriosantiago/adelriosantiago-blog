@@ -11,6 +11,13 @@ A simple Node.js API interface to convert text to speech for your personal proje
 
 ##
 
+### [How to create the right working culture at your organization](http://www.adelriosantiago.com/gitblog/eng/working-culture-rsa)
+A must see video from the RSA to anyone interested in creating an amazing working culture.
+
+<a href="http://www.adelriosantiago.com/gitblog/eng/working-culture-rsa"><img src="/articles/images/index-working-culture.png" alt="" style="max-width: 50%;"></a>
+
+##
+
 ### [My articles now git-powered](http://www.adelriosantiago.com/gitblog/eng/introducing-gitblog)
 All my articles, now git-powered.
 
