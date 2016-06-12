@@ -5,13 +5,13 @@
 <hidden># A must see for those interested in creating the right working culture for their organizations</hidden>
 # How to create the right working culture at your organization
 
-Creating the right working culture is essential for any organization. If you are a CEO, CTO or a CIO, this video by the RSA is a must see to understand why your organization needs give their employees more freedom to choose how they want to work.
-
-There are a lot of organizations with similar values and similar missions. All of them hire more or less the same kind of people, similar skills and similar mindsets. They all create products that are *-in most of the cases-* similar to other existing products. These organizations work more or less with the same tools than others. <hidden>Also their ultimate purpose is, surprisingly the same: They all "want to be different".</hidden> Interestingly, their ultimate purpose is also the same: **They all want be different.**
+Creating the right working culture is essential for any organization. If you are a CEO, CTO or a CIO, this video by **Mr. Dave Coplin** ([@dcoplin](https://twitter.com/dcoplin)) and the RSA is a must see to understand why your organization needs give their employees more freedom to choose how they want to work.
 
 <div class="text-center"><iframe width="650" height="366" src="https://www.youtube.com/embed/G11t6XAIce0" frameborder="0" allowfullscreen></iframe></div>
 
-<hidden>By Mr. Dave Coplin (@dcoplin)</hidden>
+<br/>
+
+There are a lot of organizations with similar values and similar missions. All of them hire more or less the same kind of people, similar skills and similar mindsets. They all create products that are *-in most of the cases-* similar to other existing products. These organizations work more or less with the same tools than others. <hidden>Also their ultimate purpose is, surprisingly the same: They all "want to be different".</hidden> Interestingly, their ultimate purpose is also the same: **They all want be different.**
 
 <hidden>It is alarming to know that 71% of the US workers is not happy at work. Technology is part of the problem.</hidden>
 
