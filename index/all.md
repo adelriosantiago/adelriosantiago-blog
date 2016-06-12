@@ -11,8 +11,15 @@ A simple Node.js API interface to convert text to speech for your personal proje
 
 ##
 
-### [How to create the right working culture at your organization](http://www.adelriosantiago.com/gitblog/eng/working-culture-rsa)
-A must see video from the RSA to anyone interested in creating an amazing working culture.
+### [Real time collaborative artificial life](http://www.adelriosantiago.com/gitblog/eng/artificial)
+The real-time collaborative version of the Conway's Game of Life using Socket.io.
+
+<a href="http://www.adelriosantiago.com/gitblog/eng/artificial"><img src="/articles/images/index-artificial.png" alt="" style="max-width: 50%;"></a>
+
+##
+
+### [How to create the right workplace culture at your organization](http://www.adelriosantiago.com/gitblog/eng/working-culture-rsa)
+A must see video from the RSA to anyone interested in creating an amazing work culture.
 
 <a href="http://www.adelriosantiago.com/gitblog/eng/working-culture-rsa"><img src="/articles/images/index-working-culture.png" alt="" style="max-width: 50%;"></a>
 
@@ -29,10 +36,3 @@ All my articles, now git-powered.
 Mi experiencia aprendiendo italiano en Duolingo por 100 dias seguidos.
 
 <a href="http://www.adelriosantiago.com/gitblog/spa/100-duolingo"><img src="/articles/images/index-duo.png" alt="" style="max-width: 50%;"></a>
-
-##
-
-### [Real time collaborative artificial life](http://www.adelriosantiago.com/gitblog/eng/artificial)
-The real-time collaborative version of the Conway's Game of Life using Socket.io.
-
-<a href="http://www.adelriosantiago.com/gitblog/eng/artificial"><img src="/articles/images/index-artificial.png" alt="" style="max-width: 50%;"></a>
