@@ -9,7 +9,7 @@ Creating the right working culture is essential for any organization. If you are
 
 There are a lot of organizations with similar values and similar missions. All of them hire more or less the same kind of people, similar skills and similar mindsets. They all create products that are *-in most of the cases-* similar to other existing products. These organizations work more or less with the same tools than others. <hidden>Also their ultimate purpose is, surprisingly the same: They all "want to be different".</hidden> Interestingly, their ultimate purpose is also the same: **They all want be different.**
 
-<div class="text-center"><iframe width="560" height="315" src="https://www.youtube.com/embed/G11t6XAIce0" frameborder="0" allowfullscreen></iframe></div>
+<div class="text-center"><iframe width="650" height="366" src="https://www.youtube.com/embed/G11t6XAIce0" frameborder="0" allowfullscreen></iframe></div>
 
 <hidden>By Mr. Dave Coplin (@dcoplin)</hidden>
 
