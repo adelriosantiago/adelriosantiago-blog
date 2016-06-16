@@ -10,6 +10,8 @@ Deploying your code several times a day is essential for tech startups (see Lean
 
 Quote from Martin Fowler @ [ThoughtWorks](https://www.thoughtworks.com/continuous-delivery)
 
+<hidden>TODO: add some quote images here?</hidden>
+
 There are several professional tools to implement CI. Tools like Jenkins and Travis allow you to do that. Or you can also follow this [tutorial on how to do implement your own basic CI with GIT hooks](http://https://www.digitalocean.com/community/tutorials/how-to-use-git-hooks-to-automate-development-and-deployment-tasks). If you want to try an out-of-the-box tool, try Dropbox, a tool that although not meant to be a professional CI/CD tool, is both easy to install and powerful.
 
 <hidden>TODO: add some images here?</hidden>
@@ -25,6 +27,8 @@ Here are the steps to start deploying websites with Dropbox:
  - Finally, to link your Apache folder to the actual Dropbox folder create a soft-link from /var/www/html/yoursite to $HOME/Dropbox/yoursite.
 
 Now you can invite your team and start developing websites together.
+
+Bear in mind that by using Dropbox you are losing the chances to resolve conflicts like in GIT, so far Dropbox only creates a conflicted copy of your work that you will have to merge manually or with a merging tool. ~~Also, bear in mind that with Dropbox there is no way to go back in history. **Once you lose a file version, its gone, forever**.~~ A very nice feature that seems to be added recently allows you to go back in history, but still, bear in mind that Dropbox is not a replacement of GIT.
  
 <hidden>fast drafting</hidden>
 
