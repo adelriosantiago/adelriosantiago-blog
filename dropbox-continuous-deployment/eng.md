@@ -24,7 +24,7 @@ Here are the steps to start deploying websites with Dropbox:
  While a 64 bits machine will throw something like:
  Linux discworld 2.6.38-8-generic #42-Ubuntu SMP Mon Apr 11 03:31:50 UTC 2011 x86_64 x86_64 x86_64 GNU/Linux 
  - Now run the Dropbox daemon with `~/.dropbox-dist/dropboxd &`, this should create a folder named "Dropbox" on $HOME.
- - Finally, to link your Apache folder to the actual Dropbox folder create a soft-link from /var/www/html/yoursite to $HOME/Dropbox/yoursite.
+ - Create a soft-link shortcut between your Apache folder and the actual Dropbox folder, so that the content is mirrored between /var/www/html/yoursite and $HOME/Dropbox/yoursite.
 
 Now you can invite your team and start developing websites together.
 
