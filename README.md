@@ -1,5 +1,5 @@
-# My personal git-powered blog
+# My personal blog in Git
 
-Here are the markdown articles that I render on my personal git blog at www.adelriosantiago.com/gitblog.
+Here are the markdown articles that I render on my personal Git blog at ![www.adelriosantiago.com/gitblog](www.adelriosantiago.com/gitblog).
 
-![Git-powered articles](http://www.adelriosantiago.com/articles/introducing-gitblog/images/gitblog.png)
+![Personal blog in Git](http://www.adelriosantiago.com/articles/introducing-gitblog/images/gitblog.png)
