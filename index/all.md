@@ -25,6 +25,13 @@ A must see video from the RSA to anyone interested in creating an amazing work c
 
 ##
 
+### [Venezuela en la obscuridad](http://www.adelriosantiago.com/gitblog/spa/venezuela-en-la-obscuridad)
+El legado del comandante Hugo Chavez.
+
+<a href="http://www.adelriosantiago.com/gitblog/spa/venezuela-en-la-obscuridad"><img src="/articles/images/chavez.png" alt="" style="max-width: 50%;"></a>
+
+##
+
 ### [My articles now git-powered](http://www.adelriosantiago.com/gitblog/eng/introducing-gitblog)
 All my articles, now git-powered.
 
