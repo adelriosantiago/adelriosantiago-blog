@@ -37,3 +37,7 @@ La medida anunciada por Nicolas Maduro es casí cómica para uno de los paises c
 **Pero ninguno de estos paises tienen una jornada laboral de tan solo dos dias**. En Venezuela miles de personas hacen filas todos los dias hasta por 3 horas solo para intentar conseguir los productos más básicos; y al decir "intentar" realmente quiero decir eso pues es común que para cuando la persona llega, por fin, al inicio de la cola ya no haya lo que buscan, que va desde desde leche, aceite y azucar, hasta el papel de baño.
 
 Al gobierno de Venezuela no le queda mucho tiempo, es un pais al borde de la guerra civil y la razón dicha situación es sin duda el proyecto fallido de Hugo Chavez, la llamada Revolución Bolivariana que inició hace varias décadas y que hasta el dia de hoy sigue siendo solamente una promesa que aún está por cumplirse. Todos los venezolanos viven a la espera de una utopía socialista que nunca se hará realidad, y todos los que vivimos una democracía capitalista deberiamos estar agradecidos por vivir en dichas condiciones.
+
+<img alt="" src="/articles/venezuela-en-la-obscuridad/images/chavez.png" style="max-width: 50%;">
+
+<br/>
