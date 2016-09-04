@@ -2,9 +2,19 @@
 <month>3</month>
 <year>2014</year>
 
-# Designers please slug-ify your files!
+# Designers: Please slugify your files!
 
 It is very common for designers to name their files with names like "Left Arrow (6)" or "Background & Color Palette for XYZ". These naming conventions might be good to share the files withing the same design department; however, these assets need to be shared *-most of the times-* with the programming department that will then, upload the resources to the website or Android/iOS app.
+
+<html>
+<p>abc</p>
+<input id="input"></input>
+<script>
+	$('#input').on('keyup', function (el) {
+		console.log($(this).val())
+	});
+</script>
+
 
 There are several reasons why naming your images like this is definitively a bad idea, especially for web and mobile projects.
 
