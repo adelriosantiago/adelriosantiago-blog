@@ -7,8 +7,11 @@
 It is very common for designers to name their files with names like "Left Arrow (6)" or "Background & Color Palette for XYZ". These naming conventions might be good to share the files withing the same design department; however, these assets need to be shared *-most of the times-* with the programming department that will then, upload the resources to the website or Android/iOS app.
 
 <html>
-<p>abc</p>
+<p>Input:</p>
 <input id="input"></input>
+<p class="panel">
+	<p>output</p>
+</p>
 <script>
 	$('#input').on('keyup', function (el) {
 		console.log($(this).val())
