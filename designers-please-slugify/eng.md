@@ -4,22 +4,42 @@
 
 # Designers: Please slugify your files!
 
-It is very common for designers to name their files with names like "Left Arrow (6)" or "Background & Color Palette for XYZ". These naming conventions might be good to share the files withing the same design department; however, these assets need to be shared *-most of the times-* with the programming department that will then, upload the resources to the website or Android/iOS app.
+It is very common for designers to name their files with names like "Left Arrow (6)" or "Background & Color Palette for XYZ". These naming conventions might be good to share the files withing the same design department; however, these assets need to be shared *-most of the times-* with the software department that will then, try to use the resources in a website or Android/iOS app.
 
-<html>
-<p>Input:</p>
-<input id="input"></input>
-<p class="panel">
-	<p>output</p>
-</p>
+There are several reasons why naming your images like this is a bad idea, especially for web and mobile projects. Image resources with special characters create ugly web requests. On mobile development, it is not even possible to add resources with strange characters. The chances are that the programmers will end up changing all your file names, and this can be time consuming.
+
+<hidden>add the reasons why it is a bad idea here</hidden>
+
+Here is a small tool you can use to slugify your files:
+
+<form>
+	<div class="row">
+		<div class="large-12 columns">
+			<label>Input
+				<input class="in" type="text" placeholder="large-12.columns" />
+		</label>
+		</div>
+	</div>
+	<div class="row">
+		<div class="large-12 columns">
+			<label>Standard slug
+				<input class="standard" type="text" readonly="readonly" />
+			</label>
+		</div>
+	</div>
+</form>
+
+<script src="/articles/designers-please-slugify/js/slug.js"></script>
 <script>
-	$('#input').on('keyup', function (el) {
-		console.log($(this).val())
+	$(function () {
+		$('input.in').on('keyup', function (el) {
+			console.log($(this).val());
+			$('input.standard').val(slug($(this).val()));
+		});
 	});
 </script>
 
-
-There are several reasons why naming your images like this is definitively a bad idea, especially for web and mobile projects.
+<br/>
 
 <hidden>
 
