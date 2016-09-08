@@ -9,6 +9,7 @@ It is very common for designers to name their files with names like "Left Arrow 
 There are several reasons why naming your images like this is a bad idea, especially for web and mobile projects. Image resources with special characters create ugly web requests. On mobile development, it is not even possible to add resources with strange characters. The chances are that the programmers will end up changing all your file names, and this can be time consuming.
 
 <hidden>add the reasons why it is a bad idea here</hidden>
+<hidden>todo: implement http://foundation.zurb.com/sites/docs/v/5.5.3/components/forms.html input label with .com </hidden>
 
 Here is a small tool you can use to slugify your files:
 
@@ -17,13 +18,23 @@ Here is a small tool you can use to slugify your files:
 		<div class="large-12 columns">
 			<label>Input
 				<input class="in" type="text" placeholder="large-12.columns" />
-		</label>
+			</label>
 		</div>
 	</div>
 	<div class="row">
 		<div class="large-12 columns">
-			<label>Standard slug
-				<input class="standard" type="text" readonly="readonly" />
+			<label>Pretty slug (good for websites in general)
+				<input class="pretty-slug" type="text" readonly="readonly" />
+			</label>
+		</div>
+		<div class="large-12 columns">
+			<label>RFC3986 slug
+				<input class="rfc3986-slug" type="text" readonly="readonly" />
+			</label>
+		</div>
+		<div class="large-12 columns">
+			<label>Android slug (a very restrictive slug, for Android mobile app resources)
+				<input class="android-slug" type="text" readonly="readonly" />
 			</label>
 		</div>
 	</div>
@@ -34,7 +45,9 @@ Here is a small tool you can use to slugify your files:
 	$(function () {
 		$('input.in').on('keyup', function (el) {
 			console.log($(this).val());
-			$('input.standard').val(slug($(this).val()));
+			$('input.pretty-slug').val(slug($(this).val()));
+			$('input.rfc3986-slug').val(slug($(this).val(), { mode: "rfc3986" }));
+			$('input.android-slug').val(_.lowerCase(slug($(this).val(), { mode: "pretty" })));
 		});
 	});
 </script>
