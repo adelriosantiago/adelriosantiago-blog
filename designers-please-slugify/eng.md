@@ -11,39 +11,40 @@ There are several reasons why naming your images like this is a bad idea, especi
 <hidden>add the reasons why it is a bad idea here</hidden>
 <hidden>todo: implement http://foundation.zurb.com/sites/docs/v/5.5.3/components/forms.html input label with .com </hidden>
 
-Here is a small tool you can use to slugify your files:
+Here is a small tool you can use to slugify your file names:
 
 <form>
 	<div class="row">
 		<div class="large-12 columns">
-			<label>Input
+			<label>String to slugify
 				<input class="in" type="text" placeholder="large-12.columns" />
 			</label>
 		</div>
 	</div>
 	<div class="row">
 		<div class="large-12 columns">
-			<label>Pretty slug (good for websites in general)
+			<label>Pretty slug (good for website assets in general)
 				<input class="pretty-slug" type="text" readonly="readonly" />
 			</label>
 		</div>
 		<div class="large-12 columns">
-			<label>RFC3986 slug
+			<label>RFC3986 slug (same as above, accepts dots)
 				<input class="rfc3986-slug" type="text" readonly="readonly" />
 			</label>
 		</div>
 		<div class="large-12 columns">
-			<label>Android slug (a very restrictive slug, for Android mobile app resources)
+			<label>Android images (a restrictive pattern for Android mobile app resources)
 				<input class="android-slug" type="text" readonly="readonly" />
 			</label>
 		</div>
 	</div>
 </form>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.15.0/lodash.min.js"></script>
 <script src="/articles/designers-please-slugify/js/slug.js"></script>
 <script>
 	$(function () {
-		$('input.in').on('keyup', function (el) {
+		$('input.in:visible').on('keyup', function (el) {
 			console.log($(this).val());
 			$('input.pretty-slug').val(slug($(this).val()));
 			$('input.rfc3986-slug').val(slug($(this).val(), { mode: "rfc3986" }));
