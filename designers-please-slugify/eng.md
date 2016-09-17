@@ -4,15 +4,15 @@
 
 # Designers: Please slugify your files!
 
-It is very common for designers to name their files with names like "Left Arrow (6)" or "Background & Color Palette for XYZ". These naming conventions might be good to share the files withing the same design department; however, these assets need to be shared *-most of the times-* with the software department that will then, try to use the resources in a website or Android/iOS app.
+It is very common for designers to name their files with spaces and special characters like "Left Arrow (6)" or "Background & Color Palette for XYZ!". These names are OK if you are only planning to share these files within the design department. However, most of the times, these assets are required by de software & mobile department, who will then build a website or mobile app. 
 
-There are several reasons why naming your images like this is a bad idea, especially for web and mobile projects. Image resources with special characters create ugly web requests. On mobile development, it is not even possible to add resources with strange characters. The chances are that the programmers will end up changing all your file names, and this can be time consuming.
+There are several reasons why naming your images with special characters and spaces is a bad idea, especially for mobile projects. Image resources with special characters create ugly-looking web requests and for mobile development -especially Android- file names are restricted to only alphanumerics (a-z, 0-9 and _).
 
 <hidden>add the reasons why it is a bad idea here</hidden>
 <hidden>todo: implement http://foundation.zurb.com/sites/docs/v/5.5.3/components/forms.html input label with .com </hidden>
 
-Here is a small tool you can use to slugify your file names:
-
+Here is a small tool you can use to slugify your file and folder names. Use it to save some time to your software development team. It will also help you having a *cleaner and better organized computer desk*.
+ 
 <form>
 	<div class="row">
 		<div class="large-12 columns">
