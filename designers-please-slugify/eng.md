@@ -6,7 +6,7 @@
 
 It is very common for designers to name their files with spaces and special characters like "Left Arrow (6)" or "Background & Color Palette for XYZ!". These names are OK if you are only planning to share these files within the design department. However, most of the times, these assets are required by de software & mobile department, who will then build a website or mobile app. 
 
-There are several reasons why naming your images with special characters and spaces is a bad idea, especially for mobile projects. Image resources with special characters create ugly-looking web requests and for mobile development -especially Android- file names are restricted to only alphanumerics (a-z, 0-9 and _).
+There are several reasons why naming your images with special characters and spaces is a bad idea, especially for mobile projects. Image resources with special characters create ugly-looking web requests and for mobile development -especially Android- file names are restricted to only alphanumerics (a-z, 0-9, . and _).
 
 <hidden>add the reasons why it is a bad idea here</hidden>
 <hidden>todo: implement http://foundation.zurb.com/sites/docs/v/5.5.3/components/forms.html input label with .com </hidden>
@@ -16,26 +16,22 @@ Here is a small tool you can use to slugify your file and folder names. Use it t
 <form>
 	<div class="row">
 		<div class="large-12 columns">
-			<label>String to slugify
-				<input class="in" type="text" placeholder="large-12.columns" />
-			</label>
+			<p>String to slugify</p>
+			<input class="in" type="text" placeholder="large-12.columns" />
 		</div>
 	</div>
 	<div class="row">
 		<div class="large-12 columns">
-			<label>Pretty slug (good for website assets in general)
-				<input class="pretty-slug" type="text" readonly="readonly" />
-			</label>
+			<p>Pretty slug (good for website assets in general)</p>
+			<input class="pretty-slug" type="text" readonly="readonly" />
 		</div>
 		<div class="large-12 columns">
-			<label>RFC3986 slug (same as above, accepts dots)
-				<input class="rfc3986-slug" type="text" readonly="readonly" />
-			</label>
+			<p>Android images (a restrictive pattern for Android mobile app resources)</p>
+			<input class="android-slug" type="text" readonly="readonly" />
 		</div>
 		<div class="large-12 columns">
-			<label>Android images (a restrictive pattern for Android mobile app resources)
-				<input class="android-slug" type="text" readonly="readonly" />
-			</label>
+			<p>RFC3986 slug (the URI generic syntax, see more at the incredibly ugly <a href="https://www.ietf.org/rfc/rfc3986.txt](https://www.ietf.org/rfc/rfc3986.txt]">Internet Engineering Task Force</a> page</p>
+			<input class="rfc3986-slug" type="text" readonly="readonly" />
 		</div>
 	</div>
 </form>
