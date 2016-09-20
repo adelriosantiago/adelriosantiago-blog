@@ -16,21 +16,21 @@ Here is a small tool you can use to slugify your file and folder names. Use it t
 <form>
 	<div class="row">
 		<div class="large-12 columns">
-			<p>String to slugify</p>
-			<input class="in" type="text" placeholder="large-12.columns" />
+			<p class="no-margin">String to slugify</p>
+			<input class="in" type="text" placeholder="Write your filename here" value="I <3 New York City KEBAB food trucks!"/>
 		</div>
 	</div>
 	<div class="row">
 		<div class="large-12 columns">
-			<p>Pretty slug (good for website assets in general)</p>
+			<p class="no-margin">Pretty slug (good for website assets in general)</p>
 			<input class="pretty-slug" type="text" readonly="readonly" />
 		</div>
 		<div class="large-12 columns">
-			<p>Android images (a restrictive pattern for Android mobile app resources)</p>
+			<p class="no-margin">Android images (a restrictive pattern for Android mobile app resources)</p>
 			<input class="android-slug" type="text" readonly="readonly" />
 		</div>
 		<div class="large-12 columns">
-			<p>RFC3986 slug (the URI generic syntax, see more at the incredibly ugly <a href="https://www.ietf.org/rfc/rfc3986.txt](https://www.ietf.org/rfc/rfc3986.txt]">Internet Engineering Task Force</a> page</p>
+			<p class="no-margin">RFC3986 slug (the URI generic syntax, learn more at the incredibly ugly <a href="https://www.ietf.org/rfc/rfc3986.txt](https://www.ietf.org/rfc/rfc3986.txt]">Internet Engineering Task Force</a> page)</p>
 			<input class="rfc3986-slug" type="text" readonly="readonly" />
 		</div>
 	</div>
