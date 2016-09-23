@@ -17,35 +17,50 @@ Here is a small tool you can use to slugify your file and folder names. Use it t
 	<div class="row">
 		<div class="large-12 columns">
 			<p class="no-margin">String to slugify</p>
-			<input class="in" type="text" placeholder="Write your filename here" value="I <3 New York City KEBAB food trucks!"/>
+			<input class="in" type="text" placeholder="Write your filename here" value="The top 3 &quot;KEBAB&quot; food TRUCK's in New Y脰RK" />
 		</div>
 	</div>
+	<br/>
 	<div class="row">
 		<div class="large-12 columns">
 			<p class="no-margin">Pretty slug (good for website assets in general)</p>
 			<input class="pretty-slug" type="text" readonly="readonly" />
 		</div>
 		<div class="large-12 columns">
-			<p class="no-margin">Android images (a restrictive pattern for Android mobile app resources)</p>
-			<input class="android-slug" type="text" readonly="readonly" />
+			<p class="no-margin">Lowercase <a href="https://en.wikipedia.org/wiki/Snake_case">Snake case</a> (for Android image resources)</p>
+			<input class="snakecase-slug" type="text" readonly="readonly" />
 		</div>
 		<div class="large-12 columns">
-			<p class="no-margin">RFC3986 slug (the URI generic syntax, learn more at the incredibly ugly <a href="https://www.ietf.org/rfc/rfc3986.txt](https://www.ietf.org/rfc/rfc3986.txt]">Internet Engineering Task Force</a> page)</p>
+			<p class="no-margin">Standard <a href="https://en.wikipedia.org/wiki/CamelCase">Camel case</a> (think about iPhone, macOS, eCommerce)</p>
+			<input class="camelcase-slug" type="text" readonly="readonly" />
+		</div>
+		<div class="large-12 columns">
+			<p class="no-margin">RFC3986 slug (the URI generic syntax, learn more at the incredibly ugly <a href="https://www.ietf.org/rfc/rfc3986.txt">Internet Engineering Task Force</a> page</p>
 			<input class="rfc3986-slug" type="text" readonly="readonly" />
 		</div>
 	</div>
 </form>
 
+Until next time!
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.15.0/lodash.min.js"></script>
 <script src="/articles/designers-please-slugify/js/slug.js"></script>
 <script>
+	var scripts = document.getElementsByTagName('script'),
+		thisScript = scripts[scripts.length - 1],
+		thisArticle = $(thisScript.parentElement); //This gets the parent article, we should use this from now on
+	
 	$(function () {
-		$('input.in:visible').on('keyup', function (el) {
-			console.log($(this).val());
-			$('input.pretty-slug').val(slug($(this).val()));
-			$('input.rfc3986-slug').val(slug($(this).val(), { mode: "rfc3986" }));
-			$('input.android-slug').val(_.lowerCase(slug($(this).val(), { mode: "pretty" })));
+		thisArticle.find('input.in').on('keyup', function (el) {
+			var input = $(this).val();
+			
+			console.log("Converting: " + input);
+			thisArticle.find('input.pretty-slug').val(slug(input));
+			thisArticle.find('input.snakecase-slug').val(_.snakeCase(input.toLowerCase()));
+			thisArticle.find('input.camelcase-slug').val(_.camelCase(input));
+			thisArticle.find('input.rfc3986-slug').val(slug(input, { mode: "rfc3986" }));
 		});
+		thisArticle.find('input.in').trigger('keyup');
 	});
 </script>
 
@@ -53,7 +68,13 @@ Here is a small tool you can use to slugify your file and folder names. Use it t
 
 <hidden>
 
-Es muy com鷑 encontrar dise馻dores que nombran las imagenes con textos como "Flecha arriba.png" o "Flecha abajo.jpg", lo cual genera trabajo extra para los programadores que tienen que "slug-ificar" los nombres para que puedan ser usados en el proyecto web o movil.
+testing letters
+
+`脛脣脰
+a茅谩茅铆贸
+没没i么
+
+Es muy com煤n encontrar dise帽eres que nombran las imagenes con textos como "Flecha arriba.png" o "Flecha abajo.jpg", lo cual genera trabajo extra para los programadores que tienen que "slug-ificar" los nombres para que puedan ser usados en el proyecto web o movil.
 
 TLDR: if you don't want to read the reasons why naming images like this is a bad idea then just type the name of the image you are about to send your programmer and rename it with the output, use the app shown below
 this pretends to be a small piece of advice to designers: please slugify your image names!
