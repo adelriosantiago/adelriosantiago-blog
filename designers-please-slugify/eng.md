@@ -39,6 +39,7 @@ Here is a small tool you can use to slugify your file and folder names. Use it t
 			<input class="rfc3986-slug" type="text" readonly="readonly" />
 		</div>
 	</div>
+	<br/>
 </form>
 
 Until next time!
