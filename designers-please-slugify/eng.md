@@ -35,7 +35,7 @@ Here is a small tool you can use to slugify your file and folder names. Use it t
 			<input class="camelcase-slug" type="text" readonly="readonly" />
 		</div>
 		<div class="large-12 columns">
-			<p class="no-margin">RFC3986 slug (the URI generic syntax, learn more at the incredibly ugly <a href="https://www.ietf.org/rfc/rfc3986.txt">Internet Engineering Task Force</a> page</p>
+			<p class="no-margin">RFC3986 slug (the URI generic syntax, learn more at the incredibly ugly <a href="https://www.ietf.org/rfc/rfc3986.txt">Internet Engineering Task Force</a> page)</p>
 			<input class="rfc3986-slug" type="text" readonly="readonly" />
 		</div>
 	</div>
