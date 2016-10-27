@@ -17,7 +17,7 @@ Here is a small tool you can use to slugify your file and folder names. Use it t
 	<div class="row">
 		<div class="large-12 columns">
 			<p class="no-margin">String to slugify</p>
-			<input class="in" type="text" placeholder="Write your filename here" value="The top 3 &quot;KEBAB&quot; food TRUCK's in New YÃ–RK" />
+			<input class="in" type="text" placeholder="Write your filename here" value="The top 3 &quot;KEBAB&quot; food TRUCK's in New YÖRK" />
 		</div>
 	</div>
 	<br/>
