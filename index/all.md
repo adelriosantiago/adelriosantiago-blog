@@ -4,17 +4,19 @@
 
 # Index
 
-### [Text to speech interface in Node.js](http://www.adelriosantiago.com/gitblog/eng/text-to-speech)
-A simple Node.js API interface to convert text to speech for your personal projects using the SVOX engine.
-
-<a href="http://www.adelriosantiago.com/gitblog/eng/text-to-speech"><img src="/articles/images/index-tts.png" alt="" style="max-width: 50%;"></a>
-
 ##
 
 ### [Real time collaborative artificial life](http://www.adelriosantiago.com/gitblog/eng/artificial)
 The real-time collaborative version of the Conway's Game of Life using Socket.io.
 
 <a href="http://www.adelriosantiago.com/gitblog/eng/artificial"><img src="/articles/images/index-artificial.png" alt="" style="max-width: 50%;"></a>
+
+##
+
+### [Text to speech interface in Node.js](http://www.adelriosantiago.com/gitblog/eng/text-to-speech)
+A simple Node.js API interface to convert text to speech for your personal projects using the SVOX engine.
+
+<a href="http://www.adelriosantiago.com/gitblog/eng/text-to-speech"><img src="/articles/images/index-tts.png" alt="" style="max-width: 50%;"></a>
 
 ##
 
@@ -43,6 +45,13 @@ All my articles, now git-powered.
 Mi experiencia aprendiendo italiano en Duolingo por 100 dias seguidos.
 
 <a href="http://www.adelriosantiago.com/gitblog/spa/100-duolingo"><img src="/articles/images/index-duo.png" alt="" style="max-width: 50%;"></a>
+
+##
+
+### [Designers: Please slugify your files!](http://www.adelriosantiago.com/gitblog/eng/designers-please-slugify)
+A small tool you can use to slugify your file and folder names.
+
+<a href="http://www.adelriosantiago.com/gitblog/eng/designers-please-slugify"><img src="/articles/images/slugs.png" alt="" style="max-width: 50%;"></a>
 
 ##
 
