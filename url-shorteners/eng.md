@@ -2,15 +2,24 @@
 <month>10</month>
 <year>2015</year>
 
-# Using URL shorteners to get link click analytics
+# The social media marketing unsung heroes
 
-Using a URL shortener are not only helpful to make long links pretty but are also a great tool to get analytics of your audience.
+Time ago, Hootsuite called URL shorteners the [The Unsung Heroes Of Social Media Marketing](https://goo.gl/W9IQKX) for a good reason.
+
+Using an URL shortener not only makes your links look pretty. They are also a great tool to get analytics
 Despite of how easy it is to shorten your URL's most of the people don't do it, probably because they don't know how or maybe because they don't understand its usefulness.
 
-Time ago, Hootsuite called the URL shorteners the [The Unsung Heroes Of Social Media Marketing](https://blog.hootsuite.com/what-are-url-shorteners/)
 
----
+<hidden>
+
 quick-draft and reminders: 
+
+advantages of url shorteners are:
+
+ - make you link look pretty
+ - easy to use
+ - click count
+ - which country
 
 an easy way to track your tweet performance is by using link shorteners like goo.gl. With Goo.gl you can basically track 2 things:
 - how many users clicked your link
@@ -23,9 +32,7 @@ The Goo.gl url shortener can help you track clicks and gives you analytics like 
 
 just be careful to select an address that is not associated with spam, i think that the best url shortener is goo.gl 
 
----
 
-<hidden>
 catchy twitter titles
 One simple tip to understand your Twitter audience that most people don't use
 
