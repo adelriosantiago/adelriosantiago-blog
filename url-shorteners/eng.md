@@ -10,6 +10,8 @@ Despite of how easy it is to shorten your URL's most of the people don't do it, 
 Time ago, Hootsuite called the URL shorteners the [The Unsung Heroes Of Social Media Marketing](https://blog.hootsuite.com/what-are-url-shorteners/)
 
 ---
+quick-draft and reminders: 
+
 an easy way to track your tweet performance is by using link shorteners like goo.gl. With Goo.gl you can basically track 2 things:
 - how many users clicked your link
 - where they are from
