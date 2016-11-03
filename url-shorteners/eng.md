@@ -2,16 +2,16 @@
 <month>10</month>
 <year>2015</year>
 
-# The social media marketing unsung heroes
+# A ten second trick to understand your Twitter audience better
 
 Time ago, Hootsuite called URL shorteners the [The Unsung Heroes Of Social Media Marketing](https://goo.gl/W9IQKX) for a good reason.
 
-Using an URL shortener not only makes your links look pretty. They are also a great tool to get analytics
-Despite of how easy it is to shorten your URL's most of the people don't do it, probably because they don't know how or maybe because they don't understand its usefulness.
+<hidden>[tweet image with shortened URL]</hidden>
 
+Using an URL shortener not only makes your links look pretty. They are also a great tool to get analytics.
+<hidden>Despite how easy it is to shorten a link, most of the people don't do it, probably because they don't know how or maybe because they don't know it is a.</hidden>
 
 <hidden>
-
 quick-draft and reminders: 
 
 advantages of url shorteners are:
@@ -37,4 +37,10 @@ catchy twitter titles
 One simple tip to understand your Twitter audience that most people don't use
 
 This 10 second tip can help you understand your Twitter audience
+
+Do this 10 second trick to know your twitter audience
+
+A 10 second trick to understand your Twitter audience better
+
+
 </hidden>
