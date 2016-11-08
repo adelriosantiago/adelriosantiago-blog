@@ -8,8 +8,15 @@ Time ago, Hootsuite called URL shorteners the [The Unsung Heroes Of Social Media
 
 <hidden>[tweet image with shortened URL]</hidden>
 
-Using an URL shortener not only makes your links look pretty. They are also a great tool to get analytics.
+Using an URL shortener not only makes your links look prettier. You can also get some useful insights about your audience. 
+It also helps you to understand you Twitter audience better by tracking these properties:
+
+ - Platform: Is your audience using iOS, Android or Windows?
+ - Browser: Is your content seen on Firefox, Chrome or Opera?
+ - Referrer: On which page was the user?
+
 <hidden>Despite how easy it is to shorten a link, most of the people don't do it, probably because they don't know how or maybe because they don't know it is a.</hidden>
+<hidden>Add something related to this: https://megalytic.com/blog/dangers-of-shortened-urls-for-analytics</hidden>
 
 <hidden>
 quick-draft and reminders: 
@@ -20,6 +27,9 @@ advantages of url shorteners are:
  - easy to use
  - click count
  - which country
+ - brower
+ - referrer
+ - platform
 
 an easy way to track your tweet performance is by using link shorteners like goo.gl. With Goo.gl you can basically track 2 things:
 - how many users clicked your link
