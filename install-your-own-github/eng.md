@@ -53,7 +53,7 @@ Should I include this?
 
 <hidden>
 themes & ideas
-
+http://jbrodriguez.io/gogs-an-alternative-to-gitlab/
 
 </hidden>
 

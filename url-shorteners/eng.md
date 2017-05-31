@@ -9,7 +9,7 @@ Time ago, Hootsuite called URL shorteners the [The Unsung Heroes Of Social Media
 <hidden>[tweet image with shortened URL]</hidden>
 
 Using an URL shortener not only makes your links look prettier. You can also get some useful insights about your audience. 
-It also helps you to understand you Twitter audience better by tracking these properties:
+It also helps you to understand you Twitter audience better by tracking these properties that can help you improve your brand:
 
  - Platform: Is your audience using iOS, Android or Windows?
  - Browser: Is your content seen on Firefox, Chrome or Opera?
@@ -19,6 +19,14 @@ It also helps you to understand you Twitter audience better by tracking these pr
 <hidden>Add something related to this: https://megalytic.com/blog/dangers-of-shortened-urls-for-analytics</hidden>
 
 <hidden>
+really good one: http://coschedule.com/blog/link-shorteners/
+
+will shorteners hhurt your seo? http://www.oncrawl.com/url-shorteners-seo/
+
+where does this link go: http://wheredoesthislinkgo.com/
+
+implement your own url redirect with yourls: http://yourls.org/
+
 quick-draft and reminders: 
 
 advantages of url shorteners are:
