@@ -41,6 +41,13 @@ All my articles, now git-powered.
 
 ##
 
+### [Litepad](http://www.adelriosantiago.com/gitblog/eng/litepad)
+A minimalist real-time collaborative code editor in Node.JS
+
+<a href="http://www.adelriosantiago.com/gitblog/eng/litepad"><img src="http://adelriosantiago.com/articles/litepad/images/cover.png" alt="" style="max-width: 50%;"></a>
+
+##
+
 ### [100 días de italiano en Duolingo](http://www.adelriosantiago.com/gitblog/spa/100-duolingo)
 Mi experiencia aprendiendo italiano en Duolingo por 100 dias seguidos.
 
