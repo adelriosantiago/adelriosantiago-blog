@@ -4,7 +4,7 @@
 
 # Litepad, the ultra minimalist real-time collaborative editor
 
-Litepad is the lightest-ever implementation of a real time collaborative editor in Node.JS. It uses sockets to share messages across all the connected clients. Litepad is only about 100 lines of code, yet it allows you to play around with your own mini Google Docs for code.
+Litepad is the lightest-ever implementation of a real time collaborative editor in Node.JS. It uses sockets to share messages across all the connected clients. Litepad is only about 100 lines of code and supports more that 1,000 simultaneous users.
 
 ![Litepad image](/articles/litepad/images/litepad.PNG)
 
