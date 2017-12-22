@@ -1,6 +1,6 @@
 <permalink>eng</permalink>
-<month>8</month>
-<year>2015</year>
+<month>12</month>
+<year>2017</year>
 
 # Important dates in Bitcoin history
 
@@ -15,4 +15,3 @@ These are the most important dates in bitcoin history:
 <hidden>fast drafting</hidden>
 
 <hidden>themes & ideas</hidden>
-
