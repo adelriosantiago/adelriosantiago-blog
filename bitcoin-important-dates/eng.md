@@ -4,7 +4,7 @@
 
 # Important dates in Bitcoin history
 
-These are the most important dates in bitcoin history:
+These are the most important dates in Bitcoin history:
 
 1. October 31st, 2008: Bitcoin whitepaper
 2. January 3rd, 2009: The Genesis block
