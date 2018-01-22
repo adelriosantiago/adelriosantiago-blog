@@ -8,7 +8,7 @@ These are the most important dates that everyone interested in the field of bloc
 
 ###### 1.- October 31st, 2008: Bitcoin whitepaper
 
-This was the day Satoshi Nakamoto published a scientific paper that started the whole bitcoin movement.
+This was the day Satoshi Nakamoto published a scientific paper that started the whole bitcoin movement. See [Bitcoin: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto](http://https://bitcoin.org/bitcoin.pdf)
 
 ###### 2.- January 3rd, 2009: The Genesis block
 
@@ -24,9 +24,9 @@ The first bitcoin purchase. A man named Laszlo Hanyecz purchased 2 pizzas for 10
 
 The day one bitcoin was worth 1,000USD. A few days later, the price dropped below this mark for almost 5 years.
 
-###### 5. March 2nd, 2017: 1 Bitcoin = 1Oz of Gold
+###### 5. March 2nd, 2017: 1 Bitcoin = 1 Oz of Gold
 
-That day one bitcoin was worth more than 10 ounces of gold.
+That day one bitcoin was worth more than 1 ounce of gold.
 
 <hidden>
 fast drafting
