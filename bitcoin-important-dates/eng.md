@@ -14,11 +14,11 @@ This was the day Satoshi Nakamoto published a scientific paper that started the 
 
 The genesis block was the first published block in the blockchain. The block contained the text *"The Times 03/Jan/2009 Chancellor on brink of second bailout for banks."*
 
-The hash of the block is "000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f", which contained more leading zeros than required for that date.
+The hash of the block is "000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f". It contained more leading zeros than required for that date.
 
 ###### 3. May 22nd, 2010: The pizza day
 
-The first bitcoin purchase. A man named Laszlo Hanyecz purchased 2 pizzas for 10,000 bitcoins. The bitcoin value was $41 at the time of the offer.
+The first bitcoin purchase. A man named Laszlo Hanyecz purchased 2 pizzas for 10,000 bitcoins. The bitcoin value was $0.08 at the time of the offer.
 
 ###### 4. November 28th, 2013: 1 Bitcoin = 1,000USD
 
