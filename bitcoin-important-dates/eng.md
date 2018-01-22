@@ -18,13 +18,24 @@ The hash of the block is "000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1
 
 ###### 3. May 22nd, 2010: The pizza day
 
-The first bitcoin purchase. A man named Laszlo Hanyecz purchased 2 pizzas for 10,000 bitcoins. The bitcoin value was $0.08 at the time of the offer.
+The first bitcoin purchase. A man named Laszlo Hanyecz purchased 2 pizzas for 10,000 bitcoins. The bitcoin value was approximately $0.08 at the time of the offer.
 
 ###### 4. November 28th, 2013: 1 Bitcoin = 1,000USD
 
+The day one bitcoin was worth 1,000USD. A few days later, the price dropped below this mark for almost 5 years.
 
 ###### 5. March 2nd, 2017: 1 Bitcoin = 1Oz of Gold
 
-<hidden>fast drafting</hidden>
+That day one bitcoin was worth more than 10 ounces of gold.
+
+<hidden>
+fast drafting
+
+###### 5. January 30th, 2017: 1 Bitcoin = 1,000USD for second time
+
+This day the price 
+
+
+</hidden>
 
 <hidden>themes & ideas</hidden>

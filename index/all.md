@@ -6,6 +6,9 @@
 
 ##
 
+### [Important dates in Bitcoin history](http://www.adelriosantiago.com/gitblog/eng/bitcoin-important-dates)
+Five important dates in bitcoin history that everyone should know.
+
 ### [Real time collaborative artificial life](http://www.adelriosantiago.com/gitblog/eng/artificial)
 The real-time collaborative version of the Conway's Game of Life using Socket.io.
 
