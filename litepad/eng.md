@@ -8,7 +8,8 @@ Litepad is the lightest-ever implementation of a real time collaborative editor 
 
 ![Litepad image](http://adelriosantiago.com/articles/litepad/images/litepad.png)
 
-Check out the [demo](http://litepad.adelriosantiago.com/) and the [repository](https://github.com/adelriosantiago/litepad)
+Check out the [demo](http://litepad.adelriosantiago.com/) and the [repository](https://github.com/adelriosantiago/litepad).
+
 
 <hidden>
 fast drafting
