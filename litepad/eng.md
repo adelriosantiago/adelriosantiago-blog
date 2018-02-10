@@ -6,10 +6,9 @@
 
 Litepad is the lightest-ever implementation of a real time collaborative editor in Node.JS. It uses sockets to share messages across all the connected clients. Litepad is only about 100 lines of code and supports more that 1,000 simultaneous users.
 
-![Litepad image](http://adelriosantiago.com/articles/litepad/images/litepad.png)
+<a href='http://litepad.adelriosantiago.com/'>![Litepad image](http://adelriosantiago.com/articles/litepad/images/litepad.png)</a>
 
 Check out the [demo](http://litepad.adelriosantiago.com/) and the [repository](https://github.com/adelriosantiago/litepad).
-
 
 <hidden>
 fast drafting
