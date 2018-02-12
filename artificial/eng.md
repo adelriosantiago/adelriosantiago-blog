@@ -45,10 +45,9 @@ There are <a class='mintip'>several<span><img src='/articles/artificial/images/g
 
 That's the beauty of artificial life. **With some really simple rules you end up having an living ecosystem** (or an artificially living ecosystem to be precise).
 
-This is how the finished project looks like:
+This is how the automata looks like:
 
 <a href='http://www.adelriosantiago.com:7000'>![](/articles/artificial/images/alife-final.PNG)</a>
 
-Click on the image to load the simulator and play with it creating some structures, don't forget to set your nickname and invite a friend! Note that this time I couldn't create a subdomain for it (like ~~simulator.adelriosantiago.com~~) since WebSockets don't play well with Reverse Proxies...
 
 As stated previously, note that **the app is real-time collaborative**, every user is actually seeing and interacting with the same board, I made it this way to see how it evolves with time, I plan to leave running this project running for a looong time...
