@@ -6,6 +6,11 @@
 
 ##
 
+### [Los 5 principios de Lean Startup](http://www.adelriosantiago.com/gitblog/spa/lean-startup-principles)
+Los 5 principios de Lean Startup explicados
+
+##
+
 ### [Important dates in Bitcoin history](http://www.adelriosantiago.com/gitblog/eng/bitcoin-important-dates)
 Five important dates in bitcoin history that everyone should know.
 
