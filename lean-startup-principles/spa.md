@@ -6,6 +6,8 @@
 
 El concepto o la metodología de Lean Start Up, ha ido aumentando su popularidad en los últimos años con la aparición de las Start ups enfocadas en el mercado digital, pocos tienen conocimiento que este método ya tiene varios años aplicándose en empresas como General Electric, Toyota, Dropbox, entre otros. Su objetivo es reducir el riesgo en el lanzamiento de nuevos productos o servicios, a través de la experimentación, validación e iteración con los clientes. Sus cinco principios nos invitan a conocer más a fondo este proceso.
 
+<hr/>
+
 ### Los emprendedores están en todas partes
 
 Este principio parte de la idea que no es necesario tener en mente el plan de formar una
@@ -71,7 +73,9 @@ aspecto no tan divertido dentro de este concepto. ¿Y cómo hacerlo? Buscando la
 preguntas correctas en el momento preciso: ¿Cómo se debe medir el proceso? ¿De qué
 manera se deben priorizar las tareas? ¿De qué manera definimos las fases o etapas de
 lanzamiento del producto? Todo esto requiere de un nuevo tipo de contabilidad, un
-timing, tiempos establecidos de inicio, ejecución y culminación de la obra. Aquí también
+timing, tiempos establecidos de inicio, ejecución y culminación de la obra.
+
+Aquí también
 se mide el comportamiento del consumidor objetivo, su movilización o cambios de
 preferencias con el tiempo, se toma en cuenta el feedback ofrecido por los consumidores
 y permite someter a prueba constante el producto, siempre con el objetivo de conseguir
@@ -88,7 +92,9 @@ corazón de todo emprendimiento, lo que hace bombear el resto de las ideas y pro
 envuelve toda la mecánica de lanzar un producto al mínimo costo posible, medir el nivel
 de aceptación o rechazo por parte del consumidor y posteriormente hacer los ajustes
 necesarios, para mejorar o para descartar la idea (pivotaje, si la empresa decide cambiar o
-pivotar de estrategia, deberá reiniciar todo el proceso desde cero). Un comienzo exitoso
+pivotar de estrategia, deberá reiniciar todo el proceso desde cero).
+
+Un comienzo exitoso
 deberá orientarnos hacia la aceleración del sistema de retroalimentación. No es necesario
 esperar hasta conseguir el *producto perfecto*, bastará con que sea lo suficiente bueno,
 para darlo a conocer al mercado y hacer las primeras mediciones, en esto se basa la idea
@@ -100,7 +106,7 @@ de aprendizaje posible en el menor tiempo y al menor esfuerzo.
 
 <hr/>
 
-Para cerrar, el emprendimiento sólo requiere de determinación, disciplina y compromiso, deseos de empezar a hacer o de mejorar algo ya existente. Un ejemplo de esto lo apreciamos en la empresa Dropbox, partieron de un producto mínimo viable (MVP), el diseño de 3 simples pantallas, de la idea que posteriormente se convertiría en la herramienta que hoy conocemos, lo publicaron en Hackers News en el año 2007 y lograron captar la atención inmediata, con muy buen feedback que les permitió seguir desarrollando el proyecto. Inicialmente presentaron una página de inicio muy básica que motivaba a la gente a registrarse, un video demo y lograron que su lista de espera pasara de 5,000 a 75,000 en un solo día.
+En suma, el emprendimiento requiere de determinación, disciplina y compromiso, deseos de empezar a hacer o de mejorar algo ya existente. Un ejemplo de esto lo apreciamos en la empresa Dropbox, partieron de un producto mínimo viable (MVP), el diseño de 3 simples pantallas, de la idea que posteriormente se convertiría en la herramienta que hoy conocemos, lo publicaron en Hackers News en el año 2007 y lograron captar la atención inmediata, con muy buen feedback que les permitió seguir desarrollando el proyecto. Inicialmente presentaron una página de inicio muy básica que motivaba a la gente a registrarse, un video demo y lograron que su lista de espera pasara de 5,000 a 75,000 en un solo día.
 
 <hidden>fast drafting</hidden>
 
