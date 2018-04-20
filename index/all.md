@@ -14,6 +14,8 @@ Los 5 principios de Lean Startup explicados
 ### [Important dates in Bitcoin history](http://www.adelriosantiago.com/gitblog/eng/bitcoin-important-dates)
 Five important dates in bitcoin history that everyone should know.
 
+<a href="http://www.adelriosantiago.com/gitblog/eng/bitcoin-important-dates"><img src="/articles/images/bitcoin-important-dates.png" alt="" style="max-width: 50%;"></a>
+
 ##
 
 ### [Real time collaborative artificial life](http://www.adelriosantiago.com/gitblog/eng/artificial)
