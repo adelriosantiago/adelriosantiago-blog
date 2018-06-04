@@ -20,9 +20,8 @@ También quiero agregar, que si hoy fueran las elecciones, votaría (no muy conv
 
 Asumo que ya conoces la situación de Venezuela, pero en caso de que no, dejo aquí algunos videos que se extienden más acerca de la situación actual, divido en estilos:
 
- -Un documental que considero bastante aproximado a la realidad: 
-https://www.youtube.com/watch?v=_22FeI4172s
- - Un video explicativo de 8 minutos, qué explica más o menos el origen del problema https://www.youtube.com/watch?v=7udbzg-sr6Y
+ - El documental que considero más completo y objetivo, en ingles [link]
+ - Un buen documental, más o menos corto y que explica lo que ocurre [link]
  - Si te gusta algo más light y divertido: Luisito comunica: El famoso YouTuber describe la crisis del dinero en Venezuela.
 Capitalismo Vs Socialismo
 Dar puntos de vista políticos matizados refleja madurez y crean consenso, el extremismo refleja inmadurez y enciende discusiones, por lo que deseo analizar una posible candidatura sin apasionamientos, intentando evitar en la medida de lo posible los prejuicios subjetivos. Las siguientes líneas intentan describir esta situación con peras y manzanas, así que iniciaré desde lo más simple: describiendo las diferencias entre capitalismo y socialismo.
@@ -33,7 +32,7 @@ EL CAPITALISMO según el diccionario de la Real Academia Española es un “sist
 
 Mientras que EL SOCIALISMO es un “sistema de organización social y económico basado en la  propiedad y administración colectiva o estatal de los medios de producción y distribución de bienes”. 
 
-Dicho en otras palabras, dentro del capitalismo podemos ver la oferta y la demanda, los medios de producción o empresas que pertenecen a individuos cuya inversión es de carácter privado (autofinanciado o auto gestionado). Históricamente está vinculado con términos financieros como inversión, privatización, emprendimiento y más recientemente, Startups. Se dice que un sistema es capitalista porque está destinado a la generación de capital, a partir de la venta de un bien o prestación de un servicio, es decir, como intercambio por la prestación del servicio o venta de determinado bien, la empresa obtiene dinero.
+Dicho en otras palabras, dentro del capitalismo podemos ver la oferta y la demanda, los medios de producción o empresas pertenecen a individuos cuya inversión es de carácter privado (autofinanciado o auto gestionado). Históricamente está vinculado con términos financieros como inversión, privatización, emprendimiento y más recientemente, Startups. Se dice que un sistema es capitalista porque está destinado a la generación de capital, a partir de la venta de un bien o prestación de un servicio, es decir, como intercambio por la prestación del servicio o venta de determinado bien, la empresa obtiene dinero.
  
 Mientras que en el socialismo la propiedad es pública o gubernamental. Se le asocia con expropiación o nacionalización de empresas privadas, la izquierda, subsidios, repartición de bienes entre la clase obrera, etc. Cuando las empresas pasan a ser dirigidas por el gobierno (expropiadas o nacionalizadas, se busca reducir costos para hacerlos más accesibles a los ciudadanos, este sistema persigue el beneficio social por encima del beneficio económico, no busca la riqueza. A través de los subsidios (pagos) que hace el gobierno hacia diferentes sectores económicos se intenta reducir el costo final de la producción de un bien o servicio y como consecuencia (en teoría), esto representa un beneficio para los consumidores que adquieren dicho bien.
 
@@ -63,11 +62,11 @@ Mucha gente ha tomado este video como la profecía de AMLO para describir lo que
 A raíz de la crisis en Venezuela han surgido políticos que han querido revertir lo que hizo Chávez pero lamentablemente no han tenido mucho éxito, por ejemplo, en este corto video se muestra a María Corina Machado en uno de los momentos que yo consideraría de mayor "impotencia" que puede haber, no solo se nota que no existe respeto hacia un pensamiento distinto como el de María Corina Machado, si no que Chávez recurre a un ataque de proporciones épicas que resulta en aplausos de un congreso mayoritariamente chavista, izquierdista. Véase el siguiente video: https://www.youtube.com/watch?v=D8pPP3yiJzQ
 
 Diferencias  entre AMLO y Chávez
-Aunque en lo referente a la ideología política y propuestas de gobierno tanto Chávez como AMLO, parecen compartir puntos en común, es importante destacar de igual modo, las características que los distancian:
+Aunque en lo referente a la ideología política y propuestas de gobierno tanto Chávez como AMLO, parecen compartir puntos en común, es importante destacar de igual modo las características que los distancian:
 
 1. Hugo Chávez fue un estratega militar que llevó a cabo un fallido golpe de estado el 4 de febrero de 1992, durante el mandato del presidente Carlos Andrés Pérez (presidente electo constitucional y democráticamente). Durante su periodo presidencial siempre manejó todo como un militar, le dio más presencia a las fuerzas armadas dentro de la administración pública y además de las expropiaciones, este hecho siempre fue objeto de crítica por sus opositores. López Obrador es un politólogo y escritor, no ha participados en actos de insurgencia y hasta ahora no se le conoce con claridad cuál es su plan para las fuerzas armadas.
 2. Chávez gozaba de una gran simpatía desde que se le conoció como golpista a raíz de los acontecimientos del 4F, a pesar de que éste fue a la cárcel por ello. AMLO no tiene antecedente previo de haber intentado llegar al poder por la fuerza, su carrera política se ha desarrollado únicamente a través de la vía constitucional y democrática.
-3. Aunque los archivos de video recopilados a través de la red, demuestran que Chávez mintió en muchas de las cosas que prometió no hacer, siempre se caracterizó por tener una gran elocuencia y contestar sin titubeos cualquier interrogante, incluso se podría decir que con cierta arrogancia por delante. Mientras que en el primer debate presidencial México 2018 realizado el pasado mes de abril, AMLO se mostró con respuestas flojas, titubeantes y repetitivas que ni eran convincentes ni eran concretas.
+3. Aunque los archivos de video recopilados a través de la red, demuestran que Chávez mintió en muchas de las cosas que prometió no hacer, siempre se caracterizó por tener una gran elocuencia y contestar sin titubeos cualquier interrogante, incluso se podría decir que con cierta arrogancia por delante. Mientras que en el primer debate presidencial México 2018 realizado el pasado mes de abril, AMLO se mostró con respuestas flojas, titubeantes y repetitivas que ni convencían ni daba respuestas concretas a lo que se le preguntaba.
 4. Chávez no tenía experiencia previa de gobierno, pero su ideología política siempre fue abiertamente Marxista (en varias de sus innumerables cadenas de televisión quedó evidenciado este hecho). AMLO tiene experiencia previa de gobierno como gobernador del Distrito Federal de México para el periodo (2000 -2005). En base a los cambios y resultados obtenidos durante esa gestión, se podría inferir cómo sería su mandato en la presidencia, de cristalizarse su deseo de convertirse en el próximo presidente de México.
 Resumiendo
 
@@ -79,7 +78,11 @@ Es difícil determinar quién tiene la razón entorno a todo este debate mediát
 
 Un ejemplo de socialismo bien aplicado, es Alemania en su sistema de salud. ¿Podría darse el caso de que AMLO convierta a México en Alemania? No lo sabemos. De hecho, muy poca gente tiene conocimiento de que Alemania cuenta con partidos abiertamente de izquierda (die Linke) o La izquierda, y que el sistema de salud alemán es un sistema en extremo socialista. Sin embargo, es importante considerar que Alemania tiene un sistema económico totalmente capitalista con un mar de empresas privadas como BMW, Volkswagen, etc. Empresas que serían muy difíciles o casi imposibles de sustentar bajo un modelo económico socialista.
 
-¿Podría AMLO convertir a México en una potencia como Alemania? Pudiese ser, o al menos tomar algunos ejemplos de referencia.
+¿Haría AMLO lo mismo que hizo Chávez? Sí, en el sentido de llevar a cabo la expropiación de la empresa petrolera.
+¿Sería bueno para México regresar a una expropiación del petróleo? Probablemente no.
+¿Podría AMLO ser un buen presidente? Podría serlo.
+¿Podría AMLO ser un Chávez 2? Quizá sí o quizá no.
+¿Podría AMLO convertir a México una potencia como Alemania? Pudiese ser, o al menos tomar algunos ejemplos de referencia.
 ¿Podría AMLO convertir a México en Venezuela? No podemos asegurarlo con certeza, las posibilidades son infinitas. Estas preguntas quedan abiertas y ante los acontecimientos y hechos históricos aquí presentados; saquen ustedes, mis estimados lectores, sus propias conclusiones.
 
 
