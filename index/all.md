@@ -9,6 +9,8 @@
 ### [Los 5 principios de Lean Startup](http://www.adelriosantiago.com/gitblog/spa/lean-startup-principles)
 Los 5 principios de Lean Startup explicados
 
+<a href="http://www.adelriosantiago.com/gitblog/spa/lean-startup-principles"><img src="/articles/images/lean-startup.png" alt="" style="max-width: 50%;"></a>
+
 ##
 
 ### [Important dates in Bitcoin history](http://www.adelriosantiago.com/gitblog/eng/bitcoin-important-dates)
