@@ -55,6 +55,13 @@ All my articles, now git-powered.
 
 ##
 
+### [Today is a gift](http://www.adelriosantiago.com/gitblog/eng/today-is-a-gift)
+Today is a gift
+
+<a href="http://www.adelriosantiago.com/gitblog/eng/today-is-a-gift"><img src="/articles/images/today-is-a-gift.png" alt="" style="max-width: 50%;"></a>
+
+##
+
 ### [Litepad](http://www.adelriosantiago.com/gitblog/eng/litepad)
 A minimalist real-time collaborative code editor in Node.JS
 
