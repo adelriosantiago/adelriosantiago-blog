@@ -4,7 +4,7 @@
 
 # Today is a gift
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VQEUUI9FRLk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="text-center"><iframe width="560" height="315" src="https://www.youtube.com/embed/VQEUUI9FRLk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 <hidden>fast drafting</hidden>
 
