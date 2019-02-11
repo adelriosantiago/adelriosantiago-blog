@@ -4,6 +4,8 @@
 
 # Title
 
+![](/articles/artificial/images/chessboard-gen0.PNG)
+
 <hidden>fast drafting</hidden>
 
 <hidden>themes & ideas</hidden>
