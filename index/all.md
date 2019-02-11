@@ -62,6 +62,13 @@ Today is a gift
 
 ##
 
+### [A first Blender scene](http://www.adelriosantiago.com/gitblog/eng/a-first-model-in-blender)
+A low-poly scene in Blender
+
+<a href="http://www.adelriosantiago.com/gitblog/eng/a-first-model-in-blender"><img src="/articles/a-first-model-in-blender/images/cover.png" alt="" style="max-width: 50%;"></a>
+
+##
+
 ### [Litepad](http://www.adelriosantiago.com/gitblog/eng/litepad)
 A minimalist real-time collaborative code editor in Node.JS
 
