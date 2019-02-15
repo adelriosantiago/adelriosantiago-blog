@@ -4,9 +4,9 @@
 
 # A first model in Blender
 
-I started on Blender, my inspiration were all the scenes found on my Low poly art pinterest folder: https://www.pinterest.com.mx/adelriosantiago/low-poly-art/
+I started on Blender, my inspiration were all the scenes found in my [Low poly art](https://www.pinterest.com.mx/adelriosantiago/low-poly-art/) Pinterest folder.
 
-![](/articles/a-first-model-in-blender/images/render03.png)
+![](/articles/a-first-model-in-blender/images/render04.png)
 
 Follow me on Pinterest: https://www.pinterest.com.mx/adelriosantiago/
 
