@@ -9,8 +9,3 @@ I started on Blender, my inspiration were all the scenes found in my [Low poly a
 ![](/articles/a-first-model-in-blender/images/render04.png)
 
 Follow me on Pinterest: https://www.pinterest.com.mx/adelriosantiago/
-
-<hidden>fast drafting</hidden>
-
-<hidden>themes & ideas</hidden>
-
