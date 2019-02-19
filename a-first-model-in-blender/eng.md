@@ -8,4 +8,6 @@ I started on Blender, my inspiration were all the scenes found in my [Low poly a
 
 ![](/articles/a-first-model-in-blender/images/render09.png)
 
+![](/articles/a-first-model-in-blender/images/angle01.png)
+
 Follow me on Pinterest: https://www.pinterest.com.mx/adelriosantiago/
