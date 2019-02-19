@@ -6,6 +6,6 @@
 
 I started on Blender, my inspiration were all the scenes found in my [Low poly art](https://www.pinterest.com.mx/adelriosantiago/low-poly-art/) Pinterest folder.
 
-![](/articles/a-first-model-in-blender/images/render08.png)
+![](/articles/a-first-model-in-blender/images/render09.png)
 
 Follow me on Pinterest: https://www.pinterest.com.mx/adelriosantiago/
