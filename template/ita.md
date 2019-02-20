@@ -4,7 +4,7 @@
 
 # Title
 
-![](/articles/artificial/images/chessboard-gen0.PNG)
+![](/articles/artificial/images/chessboard-gen0.png)
 
 <hidden>fast drafting</hidden>
 
