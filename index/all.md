@@ -6,7 +6,7 @@
 
 ##
 
-### [Three things you first arrive in Switzerland](http://www.adelriosantiago.com/gitblog/eng/amazing-switzerland)
+### [Three things you notice when you first arrive in Switzerland](http://www.adelriosantiago.com/gitblog/eng/amazing-switzerland)
 The real-time collaborative version of the Conway's Game of Life using Socket.io.
 
 <a href="http://www.adelriosantiago.com/gitblog/eng/amazing-switzerland"><img src="/articles/images/amazing-switzerland.png" alt="" style="max-width: 50%;"></a>

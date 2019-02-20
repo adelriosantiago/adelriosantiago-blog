@@ -2,7 +2,7 @@
 <month>11</month>
 <year>2018</year>
 
-# Three things you first arrive in Switzerland
+# Three things you notice when you first arrive in Switzerland
 
 It has been around 10 days that I moved Switzerland as a tech tech consultant. Here are a few things that you notice after first arriving this amazing country.
 
