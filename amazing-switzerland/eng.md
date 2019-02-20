@@ -4,7 +4,7 @@
 
 # Three things you notice when you first arrive in Switzerland
 
-It has been around 10 days that I moved Switzerland as a tech tech consultant. Here are a few things that you notice after first arriving this amazing country.
+It has been around 10 days since I moved to Switzerland as a tech consultant. Here are a few things that you notice after arriving this amazing country.
 
 ### 1.- Trains departing on second precision
 
