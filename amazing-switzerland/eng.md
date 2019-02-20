@@ -28,6 +28,7 @@ This one is quite strange given that Swiss culture praises and adores low noise 
 
 <img src="/articles/amazing-switzerland/images/insomnia.gif" alt="" style="width: 70%;">
 
+
 Fun thing is that you will start to like them after a while.
 
 <hidden>fast drafting</hidden>
