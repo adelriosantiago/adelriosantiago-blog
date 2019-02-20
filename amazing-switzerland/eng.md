@@ -8,26 +8,27 @@ It has been around 10 days since I moved to Switzerland as a tech consultant. He
 
 ### 1.- Trains departing on second precision
 
-Seriously, don't subestimate Swiss punctuality, especially at the metro station. Trains depart at the right second and arrive at the right minute or earlier.
+Seriously, don't subestimate Swiss punctuality, especially at the metro station. Trains depart at the right second and arrive at the right minute or earlier. Trains are so precise that people even use them as clocks.
 
 <img src="/articles/amazing-switzerland/images/train.gif" alt="" style="width: 70%;">
 
 ### 2.- Really really good chocolate
 
-Swiss chocolate is very good. Even chocolate bars like Toblerone that you can find almost anywhere seem to taste different.
+Swiss chocolate is very good. Even chocolate bars like Toblerone that you can find almost anywhere seem to taste different. The best chocolate is *-of course-* local traditional chocolate.
 
 <img src="/articles/amazing-switzerland/images/chocolate.gif" alt="" style="width: 70%;">
 
 By the way did you know that there is a bear in its logo? It has always been right there.
 
-<img src="/articles/amazing-switzerland/images/toblerone.png" alt="" style="width: 70%;">
+<img src="/articles/amazing-switzerland/images/toblerone.png" alt="" style="width: 50%;">
 
 ### 3. Church bells sounds all the time
 
-This one is quite strange given that Swiss culture praises and adores low noise environments. Speaking loudly is quite disapproved here. But the expection are church bells. They will sound everywhere, **at any time** for completely unexpected reasons.
+This one is quite strange given that Swiss culture praises and adores low-noise environments. Speaking loudly is quite disapproved here, doing noise on Sundays may result in a visit from the police. Everyone is expected be tranquil, except for the church bells. They will sound everywhere, **at any time** for completely unexpected reasons.
 
 <img src="/articles/amazing-switzerland/images/insomnia.gif" alt="" style="width: 70%;">
 
+<br/>
 
 Fun thing is that you will start to like them after a while.
 
