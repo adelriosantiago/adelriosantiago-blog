@@ -4,11 +4,16 @@
 
 # Three things you notice when you first arrive in Switzerland
 
-It has been around 10 days since I moved to Switzerland as a tech consultant. Here are a few things that you notice after arriving this amazing country.
+It has been around 10 days since I moved Switzerland as a Agile consultant and Node.JS developer. After arriving I was curious about the first "only in Switzerland" things that I would discover. Here are a few things, if you have been there, this will surely serve as a reminder:
 
 ### 1.- Trains departing on second precision
 
-Seriously, don't subestimate Swiss punctuality, especially at the metro station. Trains depart at the right second and arrive at the right minute or earlier. Trains are so precise that people even use them as clocks.
+Seriously, never underestimate Swiss punctuality! Especially at the metro station. Other services, like shops may open a bit late (meaning 2 or 3 minutes late) but trains seem to always, **always** depart at the right second and arrive at the right minute or earlier. Trains are so precise that you see people using them as clocks:
+
+ - *What time is it?*
+ - *Hm, I don't know, I don't have a watch... Ohh wait, **that** train is passing by, it is 15:33...*
+
+Picture of me *-coming from a Latin Américan country-* during my first days in CH:
 
 <img src="/articles/amazing-switzerland/images/train.gif" alt="" style="width: 70%;">
 
