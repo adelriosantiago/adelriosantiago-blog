@@ -2,7 +2,7 @@
 <month>11</month>
 <year>2018</year>
 
-# Three things you notice when you first arrive in Switzerland
+# Four things you notice when you first arrive in Switzerland
 
 It has been around 10 days since I moved Switzerland as a Agile consultant and Node.JS developer. After arriving I was curious about the first "only in Switzerland" things that I would discover. Here are a few things, if you have been there, this will surely serve as a reminder:
 
@@ -40,6 +40,14 @@ Everyone is expected be serene tranquil and peaceful. **Except for the church be
 I initially thought I was the only one who noted this. But no, apparently there are, many [reports of people -mainly tourists- being annoyed by the church bells](https://www.swissinfo.ch/eng/for-whom-toll-the-bells-_church-bells-charm-and-annoy-their-listeners/408072880). Which led to a [Swiss rule prohibing churchs to ring their bells every 15 minutes](https://www.expatica.com/ch/sw-church-bells-must-cut-back-at-night-in-swiss-town/). But at the end, [the Swiss court finally decided that church bells can chime at night](https://www.bbc.com/news/world-europe-42347033).
 
 https://www.bbc.com/news/world-europe-42347033
+
+### 4. People obeying traffic lights in the middle of the night
+
+Everyone waits for the traffic lights, even birds.
+
+<img src="/articles/amazing-switzerland/images/waiting-traffic-light.gif" alt="" style="width: 70%;">
+
+Beware if you come *-like me-* from an American country where ignoring pedestrian lights is "not a bad thing". In Confoederatio Helvetica everyone will will happily wait for the green light even in the middle of the night.
 
 <br/>
 
