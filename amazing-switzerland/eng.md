@@ -19,19 +19,27 @@ Picture of me *-coming from a Latin Américan country-* during my first days in 
 
 ### 2.- Really really good chocolate
 
-Swiss chocolate is very good. Even chocolate bars like Toblerone that you can find almost anywhere seem to taste different. The best chocolate is *-of course-* local traditional chocolate.
+Swiss chocolate is really good. Even chocolate bars like Toblerone, chocolate that you can find almost anywhere, seem to taste a little bit different. Maybe it is just the psycholgolical effect of being in a country that is known for its chocolate. Or Perhaps transporting chocolate so many kilometers actually has an effect on it.
 
 <img src="/articles/amazing-switzerland/images/chocolate.gif" alt="" style="width: 70%;">
 
 By the way did you know that there is a bear in its logo? It has always been right there.
 
+Tip: Want to taste the best Swiss chocolate? Try the local-made, ugly-boxed chocolate bars. You won't regret it.
+
 <img src="/articles/amazing-switzerland/images/toblerone.png" alt="" style="width: 50%;">
 
 ### 3. Church bells sounds all the time
 
-This one is quite strange given that Swiss culture praises and adores low-noise environments. Speaking loudly is quite disapproved here, doing noise on Sundays may result in a visit from the police. Everyone is expected be tranquil, except for the church bells. They will sound everywhere, **at any time** for completely unexpected reasons.
+This one is quite strange given that Swiss culture praises and admires low-noise environments. For example, cutting the grass on Sundays may result in a visit from the police. Speaking loudly is quite disapproved here. This is always an issue for some loud speaking americans, who find themselves being scolded by the waitresses inside the restaurants.
+
+Everyone is expected be serene tranquil and peaceful. **Except for the church bells**. Seriously, they will sound everywhere, **at any time** for completely unexpected reasons. Also, they will wake you up like this:
 
 <img src="/articles/amazing-switzerland/images/insomnia.gif" alt="" style="width: 70%;">
+
+I initially thought I was the only one who noted this. But no, apparently there are, many [reports of people -mainly tourists- being annoyed by the church bells](https://www.swissinfo.ch/eng/for-whom-toll-the-bells-_church-bells-charm-and-annoy-their-listeners/408072880). Which led to a [Swiss rule prohibing churchs to ring their bells every 15 minutes](https://www.expatica.com/ch/sw-church-bells-must-cut-back-at-night-in-swiss-town/). But at the end, [the Swiss court finally decided that church bells can chime at night](https://www.bbc.com/news/world-europe-42347033).
+
+https://www.bbc.com/news/world-europe-42347033
 
 <br/>
 
