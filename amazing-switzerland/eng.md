@@ -2,7 +2,7 @@
 <month>11</month>
 <year>2018</year>
 
-# Four things you notice when you first arrive in Switzerland
+# Five things you notice when you first arrive in Switzerland
 
 It has been around 10 days since I moved Switzerland as a Agile consultant and Node.JS developer. After arriving I was curious about the first "only in Switzerland" things that I would discover. Here are a few things, if you have been there, this will surely serve as a reminder:
 
@@ -49,9 +49,15 @@ Everyone waits for the traffic lights, even birds.
 
 Beware if you come *-like me-* from an American country where ignoring pedestrian lights is "not a bad thing". In Confoederatio Helvetica everyone will will happily wait for the green light even in the middle of the night.
 
-<br/>
+### 5. Big and fat cats!
 
-Fun thing is that you will start to like them after a while.
+Quite strange, funny, weird, peculiar and simply unusual. **Swiss cats are big**, really big. Cats are so big that, at distance, I once mistaked one for a dog, until I came close to it and I realized it was a big, meaty, obese and slow fat cat.
+
+<img src="/articles/amazing-switzerland/images/fat-cat.gif" alt="" style="width: 70%;">
+
+Switzerland is an amazing country. I will keep adding more and more items as time goes by.
+
+<br/>
 
 <hidden>fast drafting</hidden>
 
