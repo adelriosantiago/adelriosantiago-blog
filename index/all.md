@@ -27,6 +27,12 @@ Five important dates in bitcoin history that everyone should know.
 
 ##
 
+### [Wikipedia, wordclouds and MongoDB to diagnose diseases](http://www.adelriosantiago.com/gitblog/eng/wikipedia-healthcare)
+
+<a href="http://www.adelriosantiago.com/gitblog/eng/wikipedia-healthcare"><img src="http://cdn.adelriosantiago.com/wikipedia-symptoms-index.png" alt="" style="max-width: 50%;"></a>
+
+##
+
 ### [Real time collaborative artificial life](http://www.adelriosantiago.com/gitblog/eng/artificial)
 The real-time collaborative version of the Conway's Game of Life using Socket.io.
 
