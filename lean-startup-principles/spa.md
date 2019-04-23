@@ -2,7 +2,7 @@
 <month>8</month>
 <year>2015</year>
 
-# Lean startup principles
+# Principios de Lean Startup
 
 El concepto o la metodología de Lean Start Up, ha ido aumentando su popularidad en los últimos años con la aparición de las Start ups enfocadas en el mercado digital, pocos tienen conocimiento que este método ya tiene varios años aplicándose en empresas como General Electric, Toyota, Dropbox, entre otros. Su objetivo es reducir el riesgo en el lanzamiento de nuevos productos o servicios, a través de la experimentación, validación e iteración con los clientes. Sus cinco principios nos invitan a conocer más a fondo este proceso.
 
