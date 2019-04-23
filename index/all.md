@@ -11,6 +11,9 @@ A few things that you notice when you first arrive this lovely country.
 
 <a href="http://www.adelriosantiago.com/gitblog/eng/amazing-switzerland"><img src="/articles/images/amazing-switzerland.png" alt="" style="max-width: 50%;"></a>
 
+<span class="pill">#random</span>
+<span class="pill">#travel</span>
+
 ##
 
 ### [Los 5 principios de Lean Startup](http://www.adelriosantiago.com/gitblog/spa/lean-startup-principles)
