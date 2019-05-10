@@ -123,7 +123,6 @@ El legado del comandante Hugo Chavez.
 <span class="pill">#fuerzavenezuela</span>
 <span class="pill">#FueraMaduro</span>
 <span class="pill">#SocialismSucks</span>
-<span class="pill">#crypto</span>
 
 <a href="http://www.adelriosantiago.com/gitblog/spa/venezuela-en-la-obscuridad"><img src="/articles/images/chavez.png" alt="" style="max-width: 50%;"></a>
 
