@@ -8,7 +8,7 @@ I am migrating all my articles to the git-powered version, where you can see the
 
 <img alt="" src="/articles/introducing-gitblog/images/gitblog-animation.gif" style="max-width: 60%;">
 
-See how git-powered articles work at my repo: https://github.com/adelriosantiago/adelriosantiago-webpage, and feel free to use them if you want.
+See how git-powered articles work at my repo: https://github.com/adelriosantiago/adelriosantiago-webpage, and feel free to use the engine if you want.
 
 Cheers!
 
