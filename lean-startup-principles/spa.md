@@ -104,6 +104,8 @@ obtener el aprendizaje que nos conduzca al éxito lo más pronto posible. Esto e
 conoce como el Producto mínimo viable, a través del cual recogeremos la mayor cantidad
 de aprendizaje posible en el menor tiempo y al menor esfuerzo.
 
+<img src="http://cdn.adelriosantiago.com/construye-mide-aprende.jpg" alt="Imagen de construye-mide-aprende" style="width: 50%;">
+
 <hr/>
 
 En suma, el emprendimiento requiere de determinación, disciplina y compromiso, deseos de empezar a hacer o de mejorar algo ya existente. Un ejemplo de esto lo apreciamos en la empresa Dropbox, partieron de un producto mínimo viable (MVP), el diseño de 3 simples pantallas, de la idea que posteriormente se convertiría en la herramienta que hoy conocemos, lo publicaron en Hackers News en el año 2007 y lograron captar la atención inmediata, con muy buen feedback que les permitió seguir desarrollando el proyecto. Inicialmente presentaron una página de inicio muy básica que motivaba a la gente a registrarse, un video demo y lograron que su lista de espera pasara de 5,000 a 75,000 en un solo día.
