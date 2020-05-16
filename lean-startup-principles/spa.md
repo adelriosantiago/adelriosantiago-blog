@@ -104,7 +104,7 @@ obtener el aprendizaje que nos conduzca al éxito lo más pronto posible. Esto e
 conoce como el Producto mínimo viable, a través del cual recogeremos la mayor cantidad
 de aprendizaje posible en el menor tiempo y al menor esfuerzo.
 
-<img src="http://cdn.adelriosantiago.com/construye-mide-aprende.jpg" alt="Imagen de construye-mide-aprende" style="width: 50%;">
+<img src="http://cdn.adelriosantiago.com/construye-mide-aprende.jpg" alt="Imagen de construye-mide-aprende" style="width: 90%;">
 
 <hr/>
 
