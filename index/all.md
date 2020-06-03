@@ -7,7 +7,7 @@
 ##
 
 ### [Five things you notice when you first arrive in Switzerland](http://www.adelriosantiago.com/gitblog/eng/amazing-switzerland)
-A few things that you notice when you first arrive this lovely country.
+A few things that you notice when you first arrive in this amazing country.
 
 <span class="pill">#random</span>
 <span class="pill">#travel</span>
