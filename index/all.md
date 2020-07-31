@@ -6,6 +6,23 @@
 
 ##
 
+### [A galaxy generator in THREE.js](http://www.adelriosantiago.com/gitblog/eng/strange-attractors)
+An implementation of the Lorenz attractor in THREE.js.
+
+<span class="pill">#coding</span>
+<span class="pill">#three.js</span>
+<span class="pill">#visual</span>
+<span class="pill">#galaxy</span>
+<span class="pill">#procedural</span>
+<span class="pill">#gaming</span>
+<span class="pill">#chaos</span>
+<span class="pill">#attractor</span>
+<span class="pill">#dynamical systems</span>
+
+<a href="http://www.adelriosantiago.com/gitblog/eng/strange-attractors"><img src="http://cdn.adelriosantiago.com/strange-attractor-index.png" alt="" style="max-width: 50%;"></a>
+
+##
+
 ### [Five things you notice when you first arrive in Switzerland](http://www.adelriosantiago.com/gitblog/eng/amazing-switzerland)
 A few things that you notice when you first arrive in this amazing country.
 
