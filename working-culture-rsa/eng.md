@@ -16,5 +16,7 @@ Here are a few points that I personally recommend to any startup founder wanting
 
 2.- **Be innovative:** Many big companies are not afraid to change the rules of the game. Why wouldn't you dare to do the same in your startup then? There are more efficient communication tools like Telegram, HipChat and more recently, Microsoft Teams. These tools may help organization mitigate issues that may happen when using email. Mails allow sending private information, *intentionally or unintentionally*, to any person outside the organization, possibly causing intellectual property damages.
 
-3.- **Repeat and repeat again the new culture ideals:** Making a culture change inside an organization is hard. It is essentially changing how people think. The problem is that, it is part of our human nature to be afraid of change. We fear change because changes may bring mistakes. And be fear mistakes because mistakes are heavily penalized in old work cultures. New workplace cultures focus more on *preventing mistakes* rather than castigating them.
+3.- **Repeat and repeat again the new culture ideals:** Making a culture change inside an organization is hard. It is essentially changing how people think. The problem is that, it is part of our human nature to be afraid of change. We fear change because changes may bring mistakes. And be fear mistakes because mistakes are heavily penalized in old work cultures. New workplace cultures focus more on *preventing mistakes* rather than castigating them. Instead of being *reactive* to mistakes, be *proactive* on how to prevent them.
+
+
 
