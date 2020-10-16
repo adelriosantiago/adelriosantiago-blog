@@ -6,9 +6,13 @@
 
 Czech Republic could be of the most underrated destinations in the world. It has beautiful landscapes, great job opportunities, amazing entertainment 
 
-### 1.- Cobblestones
+### 1.- Cobblestones everywhere
 
 The first thing you notice is that all streets are made of cobblestones. It looks simply beautiful. I have to say that I am not 100% sure that all cities in Czechia do the same but this holds true for Prague.
+
+### 5. Great public transportation service
+
+others: a hauntingly interesting metro system, metro stairs that make you dizzy, strange/semi-erotical art and sense of humor
 
 ### 2.- Really good beer
 
@@ -22,9 +26,7 @@ The first thing you notice is that all streets are made of cobblestones. It look
 
 
 
-### 5. Great public transportation service
 
-others: a hauntingly interesting metro system, metro stairs that make you dizzy, strange/semi-erotical art and sense of humor
 
 
 
