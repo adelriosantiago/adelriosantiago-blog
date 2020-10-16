@@ -12,7 +12,7 @@ The first thing you notice is that all streets are made of cobblestones. It look
 
 ### 2. A great public transportation service
 
-Public transport is just flawless. It is extremely affordable and it works extremely well. A word of caution: As in most of public transport systems in the EU there is no system to check that you really purchased a metro or bus ticket but don't follow the advice of 
+Public transport is just flawless. It is extremely affordable and it works extremely well. A word of caution: As in most of public transport systems in the EU there is no system to check that you really purchased a metro or bus ticket. Don't try to trick the system
 
 others: a hauntingly interesting metro system, metro stairs that make you dizzy, strange/semi-erotical art and sense of humor
 
