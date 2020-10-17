@@ -20,7 +20,7 @@ I am not a *connoisseur* or beer but even with my limited beer-tasting skills I 
 
 ### 4. Lots of graffities (not what you think)
 
-It really surprised me to see lots of graffities in Prague.
+It really surprised me to see lots of graffities in Prague. However these graffities have a different feeling. They are not the usual "fuck off" graffities that you would see in a bad neighborhood.
 
 ### 5. A mix of cultures
 
