@@ -20,7 +20,7 @@ I am not a *connoisseur* or beer but even with my limited beer-tasting skills I 
 
 ### 4. Lots of graffities (not what you think)
 
-
+It really surprised me to see lots of graffities in Prague.
 
 ### 5. A mix of cultures
 
