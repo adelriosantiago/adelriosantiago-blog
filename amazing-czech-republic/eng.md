@@ -22,6 +22,10 @@ I am not a *connoisseur* or beer but even with my limited beer-tasting skills I 
 
 It really surprised me to see lots of graffities in Prague. However these graffities have a different feeling. They are not the usual "fuck off" graffities that you would see in a bad neighborhood. They feel more like revolution graffities. Some of them are really impressive and even "intellectual" to some point.
 
+
+
+![FA ČVUT: CTU in Prague, Faculty of Architecture | Architecture, Prague,  Modern architecture](https://i.pinimg.com/originals/0f/7f/53/0f7f534a925204b06e0f7bf774621efc.jpg)
+
 ### 5. A mix of cultures
 
 others: a hauntingly interesting metro system, metro stairs that make you dizzy, strange/semi-erotical art and sense of humor
