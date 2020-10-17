@@ -16,7 +16,7 @@ Public transport is just flawless. It is extremely affordable and it works extre
 
 ### 3.- Really good beer
 
-
+I am not a *connoisseur* or beer but even with my limited beer-tasting skills I could easily know that Czech beer is among the best.
 
 ### 4. Lots of graffities (not what you think)
 
