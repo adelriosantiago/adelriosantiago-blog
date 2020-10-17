@@ -22,7 +22,7 @@ I am not a *connoisseur* or beer but even with my limited beer-tasting skills I 
 
 It really surprised me to see lots of graffities in Prague. However these graffities have a different feeling. They are not the usual "fuck off" graffities that you would see in a bad neighborhood. They feel more like revolution graffities. Some of them are really impressive and even "intellectual" to some point.
 
-
+Here is a picture of the (*České vysoké učení technické*) CVUT library, 
 
 ![FA ČVUT: CTU in Prague, Faculty of Architecture | Architecture, Prague,  Modern architecture](https://i.pinimg.com/originals/0f/7f/53/0f7f534a925204b06e0f7bf774621efc.jpg)
 
