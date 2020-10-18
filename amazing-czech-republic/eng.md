@@ -14,7 +14,11 @@ The first thing you notice is that all streets are made of cobblestones. It look
 
 Public transport is just flawless. It is extremely affordable and it works extremely well. A word of caution: As in most of public transport systems in the EU there is no system to check that you really purchased a metro or bus ticket. Don't try to trick the system! Penalties for not purchasing the ticket go up to 1000 Czech Korunas. While 1000 CZK (around 50 USD) is not a huge amount of money, it is a lot for the usual price of a ticket (around 1 USD). So don't even try it!
 
-Prague's subway metro system is interesting in a strange way. Most of the people will get dizzy when going downstairs first-time. This happens because the pictures on the walls are angled, creating a strange affect of leaning forwards (when going down) or backwards (when going up).
+Prague's subway metro system is interesting in a strange way. Most of the people will get dizzy when going downstairs first-time. This happens because the pictures on the walls are angled, creating a strange affect of leaning forwards (when going down) or backwards (when going up). Here is a quick GIF of them which show more or less the effect:
+
+[add gif]
+
+Source: https://www.youtube.com/watch?v=LOiyDdtIbUY
 
 ### 3.- Really good beer
 
