@@ -4,7 +4,7 @@
 
 # Five things you notice when you first arrive in Czech Republic
 
-Czech Republic could be of the most underrated destinations in the world. It has beautiful landscapes, great job opportunities, a quite large expatisan community, amazing entertainment opportunities
+Czech Republic could be of the most underrated destinations in the world. It has beautiful landscapes, great job opportunities especially in the area of IT, a quite large expatisan community, amazing entertainment opportunities
 
 ### 1.- Cobblestones everywhere
 
