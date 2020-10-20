@@ -44,4 +44,6 @@ Prague feels pretty much like New York City in the sense that it is a mix of man
 
 > Quick note: This is my very first article written recording every change with *gitblog*.
 
+
+
 others: a hauntingly interesting metro system, metro stairs that make you dizzy, strange/semi-erotical art and sense of humor
