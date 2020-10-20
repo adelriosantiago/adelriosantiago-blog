@@ -42,6 +42,6 @@ The graffities belong to the *České vysoké učení technické* (CVUT) library
 
 Prague feels pretty much like New York City in the sense that it is a mix of many cultures converging into a single point at the same time. On any single day you will meet people from at least 30 different countries, no joke.
 
-
+> Quick note: This is my very first article written recording every change with *gitblog*.
 
 others: a hauntingly interesting metro system, metro stairs that make you dizzy, strange/semi-erotical art and sense of humor
