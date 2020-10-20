@@ -4,6 +4,8 @@
 
 # Five things you notice when you first arrive in Czech Republic
 
+> Quick note: This is my very first article written recording every change with *gitblog*.
+
 Czech Republic is probably one of the most underrated destinations in the world. It has beautiful landscapes, great job opportunities especially in the area of IT, a quite large expatiate community, amazing entertainment opportunities.
 
 Here area few things you notice as soon as you arrive.
