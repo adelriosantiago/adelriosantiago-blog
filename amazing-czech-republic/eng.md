@@ -6,6 +6,8 @@
 
 Czech Republic is probably one of the most underrated destinations in the world. It has beautiful landscapes, great job opportunities especially in the area of IT, a quite large expatisan community, amazing entertainment opportunities.
 
+Here area few things you notice as soon as you arrive.
+
 ### 1.- Cobblestones everywhere
 
 The first thing you notice is that all streets are made of cobblestones. It looks simply beautiful. I have to say that I am not 100% sure that all cities in Czechia do the same but this holds true for Prague.
