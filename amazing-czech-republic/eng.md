@@ -40,6 +40,6 @@ The graffities belong to the *České vysoké učení technické* (CVUT) library
 
 ### 5. A mix of cultures
 
-The feeling of Prague
+Prague feels pretty much like New York City in the sense that it is a mix of many cultures converging into a single point
 
 others: a hauntingly interesting metro system, metro stairs that make you dizzy, strange/semi-erotical art and sense of humor
