@@ -4,7 +4,7 @@
 
 # Five things you notice when you first arrive in Czech Republic
 
-Czech Republic is probably one of the most underrated destinations in the world. It has beautiful landscapes, great job opportunities especially in the area of IT, a quite large expatisan community, amazing entertainment opportunities.
+Czech Republic is probably one of the most underrated destinations in the world. It has beautiful landscapes, great job opportunities especially in the area of IT, a quite large expatistan community, amazing entertainment opportunities.
 
 Here area few things you notice as soon as you arrive.
 
@@ -41,5 +41,7 @@ The graffities belong to the *České vysoké učení technické* (CVUT) library
 ### 5. A mix of cultures
 
 Prague feels pretty much like New York City in the sense that it is a mix of many cultures converging into a single point at the same time. On any single day you will meet people from at least 30 different countries, no joke.
+
+
 
 others: a hauntingly interesting metro system, metro stairs that make you dizzy, strange/semi-erotical art and sense of humor
