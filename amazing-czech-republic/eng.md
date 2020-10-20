@@ -40,6 +40,6 @@ The graffities belong to the *České vysoké učení technické* (CVUT) library
 
 ### 5. A mix of cultures
 
-
+The feeling of Prague
 
 others: a hauntingly interesting metro system, metro stairs that make you dizzy, strange/semi-erotical art and sense of humor
