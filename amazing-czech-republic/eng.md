@@ -26,6 +26,10 @@ Prague's subway metro system is interesting in a strange way. Most of the people
 
 Source: https://www.youtube.com/watch?v=LOiyDdtIbUY
 
+
+
+[add video where that talks about the voices of Prague's metro]
+
 ### 3.- Really good beer
 
 I am not a *"connoisseur"* or beer but even with my limited beer-tasting skills I could easily know that Czech beer is among the best. For those who know more about beer they will enjoy the multiple choices and the fact that beer is actually cheaper than water.
