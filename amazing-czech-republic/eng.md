@@ -28,7 +28,7 @@ Source: https://www.youtube.com/watch?v=LOiyDdtIbUY
 
 ### 3.- Really good beer
 
-I am not a *"connoisseur"* or beer but even with my limited beer-tasting skills I could easily know that Czech beer is among the best. 
+I am not a *"connoisseur"* or beer but even with my limited beer-tasting skills I could easily know that Czech beer is among the best. For those who know more about beer they will enjoy the multiple choices
 
 ### 4. Lots of graffities (not what you think)
 
