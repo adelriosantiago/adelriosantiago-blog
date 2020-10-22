@@ -46,9 +46,13 @@ The graffities belong to the *České vysoké učení technické* (CVUT) library
 
 ### 5. A mix of cultures
 
-Prague feels pretty much like New York City in the sense that it is a mix of many cultures converging into a single point at the same time. On any single day you will meet people from at least 30 different countries, no joke.
+Prague feels pretty much like New York City in the sense that it is a mix of many cultures converging into a single point at the same time. On any single day can meet people from at least 30 different countries, no joke.
 
 ![The fall of Prague: 'Drunk tourists are acting like they've conquered our  city' | World news | The Guardian](https://i.guim.co.uk/img/media/dcc00000e1352d6f05d39848f340de6b26a07b41/47_284_3886_2332/master/3886.jpg?width=700&quality=85&auto=format&fit=max&s=0b7b20c5920150adb2f6c7637cb42579)
+
+
+
+
 
 > Aside: This is my very first article written recording every change with *gitblog*.
 
