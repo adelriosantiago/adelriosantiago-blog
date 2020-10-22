@@ -36,7 +36,7 @@ I am not a *"connoisseur"* or beer but even with my limited beer-tasting skills 
 
 ![16 Places to Drink Craft Beer in Prague, Czech Republic - Jetsetting Fools  | Czech beer, Prague, Beer](https://i.pinimg.com/originals/6b/6b/a4/6b6ba466426a52ff96913eb85c30d07a.jpg)
 
-### 4. Lots of graffities (although not the kind you think)
+### 4. Lots of graffities (although not the kind you think of)
 
 It really surprised me to see lots of graffities in Prague. However these graffities have a different feeling. They are not the usual "fuck off" graffities that you would see in a bad neighborhood. They feel more like revolution graffities. Some of them are really impressive and even "intellectual" to some point.
 
