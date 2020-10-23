@@ -32,7 +32,7 @@ GIF obtained from [Prague Morning](https://www.youtube.com/channel/UCiyq7F72tCih
 
 ### 3.- Really good beer
 
-I am not a *"connoisseur"* or beer but even with my limited beer-tasting skills I could easily know that Czech beer is among the best. For those who know more about beer they will enjoy the multiple choices and the fact that beer is actually cheaper than water.
+I am not a *"connoisseur"* of beer but even with my limited beer-tasting skills I could easily know that Czech beer is among the best. For those who know more about beer they will enjoy the multiple choices and the fact that beer is actually cheaper than water.
 
 ![16 Places to Drink Craft Beer in Prague, Czech Republic - Jetsetting Fools  | Czech beer, Prague, Beer](https://i.pinimg.com/originals/6b/6b/a4/6b6ba466426a52ff96913eb85c30d07a.jpg)
 
