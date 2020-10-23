@@ -32,7 +32,7 @@ GIF obtained from [Prague Morning](https://www.youtube.com/channel/UCiyq7F72tCih
 
 ### 3.- Really good beer
 
-I am not a beer *"connoisseur"* but even with my limited beer-tasting skills I could easily know that Czech beer is among the best. For those who know more about beer they will enjoy the multiple choices and the fact that beer is actually cheaper than water. The culture towards beer is different from any other country. 
+I am not a beer *"connoisseur"* but even with my limited beer-tasting skills I could easily know that Czech beer is among the best. For those who know more about beer they will enjoy the multiple choices and the fact that beer is actually cheaper than water. The culture towards beer is different from any other country. Here drinking beer during the evening is very normal. Be careful though: Drinking beer is normal here, being drunk is not.
 
 ![16 Places to Drink Craft Beer in Prague, Czech Republic - Jetsetting Fools  | Czech beer, Prague, Beer](https://i.pinimg.com/originals/6b/6b/a4/6b6ba466426a52ff96913eb85c30d07a.jpg)
 
