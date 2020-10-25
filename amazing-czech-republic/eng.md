@@ -24,7 +24,7 @@ Prague's subway metro system is interesting in a strange way. Most of the people
 
 [add gif from cdn]
 
-GIF obtained from [Prague Morning](https://www.youtube.com/channel/UCiyq7F72tCihtzDC7z8NFAQ) (https://www.youtube.com/watch?v=LOiyDdtIbUY)
+GIF obtained from [Prague Morning](https://www.youtube.com/channel/UCiyq7F72tCihtzDC7z8NFAQ)'s video (https://www.youtube.com/watch?v=LOiyDdtIbUY)
 
 
 
