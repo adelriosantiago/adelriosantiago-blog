@@ -22,7 +22,7 @@ Public transport is just flawless. It is extremely affordable and it works reall
 
 Prague's subway metro system is interesting in a strange way. Most of the people will get dizzy when going downstairs first-time. This happens because the pictures on the walls are angled, creating a strange affect of leaning forwards (when going down) or backwards (when going up). Here is a quick GIF of them which show more or less the effect:
 
-![Prague Metro dizzy effect]()
+![Prague Metro dizzy effect](http://cdn.adelriosantiago.com/prague-metro-skew.gif)
 
 GIF obtained from [Prague Morning](https://www.youtube.com/channel/UCiyq7F72tCihtzDC7z8NFAQ)'s video (https://www.youtube.com/watch?v=LOiyDdtIbUY)
 
