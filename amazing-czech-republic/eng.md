@@ -26,10 +26,6 @@ Prague's subway metro system is interesting in a strange way. Most of the people
 
 GIF obtained from [Prague Morning](https://www.youtube.com/channel/UCiyq7F72tCihtzDC7z8NFAQ)'s video (https://www.youtube.com/watch?v=LOiyDdtIbUY)
 
-
-
-[add video where that talks about the voices of Prague's metro]
-
 ### 3.- Really good beer
 
 I am not a beer *"connoisseur"* but even with my limited beer-tasting skills I could easily know that Czech beer is among the best. For those who know more about beer they will enjoy the multiple choices and the fact that beer is actually cheaper than water. The culture towards beer is different from any other country. Here drinking beer during the evening is very normal. Be careful though: Drinking beer is normal here, *being drunk is not*. Being drunk is socially unacceptable across all Czechia. It is also very annoying for Czechs, some of whom believe foreigners just come to the city to get drunk and cause troubles.
