@@ -40,7 +40,7 @@ In my opinion the best graffities belong to the walls of the National Technical 
 
 ![FA ČVUT: CTU in Prague, Faculty of Architecture | Architecture, Prague,  Modern architecture](https://i.pinimg.com/originals/0f/7f/53/0f7f534a925204b06e0f7bf774621efc.jpg)
 
-See the history of these drawings in [this post about the National Technical Library](https://erasmusu.com/en/erasmus-prague/what-to-see/national-technical-library-2525).
+Read a bit about the library itself and a little bit about the story behind these drawings in [this post about the National Technical Library](https://erasmusu.com/en/erasmus-prague/what-to-see/national-technical-library-2525).
 
 ### 5. A mix of cultures
 
