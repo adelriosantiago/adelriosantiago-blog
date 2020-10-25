@@ -36,7 +36,7 @@ I am not a beer *"connoisseur"* but even with my limited beer-tasting skills I c
 
 It really surprised me to see lots of graffities in Prague. However these graffities have a different feeling. They are not the usual "fuck off" graffities that you would see in a bad neighborhood. Don't be scared about the amount of graffities you will see since [Czech Republic is the 8 safest country in the world](https://worldpopulationreview.com/country-rankings/safest-countries-in-the-world). It is even safer than Switzerland. (Related: [Five things you notice when you first arrive in Switzerland](http://adelriosantiago.com/gitblog/eng/amazing-switzerland)). Gaffities in Czechia feel more like "revolution" graffities. Some of them are really impressive and even "intellectual" to some degree.
 
-The best graffities belong to the National Technical Library (*Národní technická knihovna* or just NTK library). Y
+In my opinion the best graffities belong to the walls of the National Technical Library (*Národní technická knihovna* or just NTK for short).
 
 ![FA ČVUT: CTU in Prague, Faculty of Architecture | Architecture, Prague,  Modern architecture](https://i.pinimg.com/originals/0f/7f/53/0f7f534a925204b06e0f7bf774621efc.jpg)
 
