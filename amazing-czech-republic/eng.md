@@ -12,7 +12,7 @@ The first thing you notice is that all streets are made of cobblestones and it l
 
 ![The clean, old cobblestone streets of Prague by Robert Ruggiero. Photo  stock - Snapwire](https://images.snapwi.re/6017/57bf2d38b6b187d1097b23c6.w800.jpg)
 
-Many times it happened to me that, while walking I would suddenly take a look back and see a beautiful scenery with castles and old buildings like taken out from a renaissance story. Many architectural gems from the Gothic, Renaissance and Baroque era remain intact because the city was not destroyed during the First and Second World Wars.
+Many times it happened to me that, while walking I would suddenly take a look back and see a beautiful scenery with castles and old buildings like taken out from a renaissance storybook. Many architectural gems from the Gothic, Renaissance and Baroque era remain intact because the city was not destroyed during the First and Second World Wars.
 
 ### 2. A great public transportation service
 
