@@ -16,7 +16,7 @@ Many times it happened to me that, while walking I would suddenly take a look ba
 
 ### 2. A great public transportation service
 
-Public transport is just flawless. It is extremely affordable and it works really well. A word of caution: As in most of public transport systems in the EU there is no system to check that you really purchased a metro or bus ticket. But don't try to trick the system! Many people try it, specially tourists. Penalties for not purchasing the ticket go up to 1000 Czech Korunas. While 1000 CZK (around 50 USD) is not a huge amount of money, it is a lot for the usual price of a ticket (around 1 USD). So, trust me and don't even try it no matter how easy it looks to do so.
+Public transport runs flawlessly here. It is extremely affordable and it works really well. A word of caution: As in most of public transport systems in the EU there is no system to check that you really purchased a metro or bus ticket. But don't try to trick the system! Many people try it, specially tourists. Penalties for not purchasing the ticket go up to 1000 Czech Korunas. While 1000 CZK (around 50 USD) is not a huge amount of money, it is a lot for the usual price of a ticket (around 1 USD). So, trust me and don't even try it no matter how easy it looks to do so.
 
 Prague's subway metro system is interesting in a strange way. Most of the people will get dizzy when going downstairs first-time. This happens because the pictures on the walls are angled, creating a strange affect of leaning forwards (when going down) or backwards (when going up). Here is a quick GIF of them which show more or less the effect:
 
