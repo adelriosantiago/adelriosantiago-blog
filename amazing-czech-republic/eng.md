@@ -54,4 +54,4 @@ Prague feels pretty much like New York City in the sense that it is a mix of man
 
 
 
-others: a hauntingly interesting metro system, metro stairs that make you dizzy, strange/semi-erotical art and sense of humor
+others: a hauntingly interesting metro system, strange/semi-erotical art and sense of humor
