@@ -10,7 +10,9 @@ Czech Republic is probably one of the most underrated destinations in the world.
 
 The first thing you notice is that all streets are made of cobblestones and it looks beautiful. I have to say that I am not 100% sure that all cities in Czechia do the same but this holds true for Prague. 
 
-![The clean, old cobblestone streets of Prague by Robert Ruggiero. Photo  stock - Snapwire](https://images.snapwi.re/6017/57bf2d38b6b187d1097b23c6.w800.jpg)
+![prague-cobblestones](http://cdn.adelriosantiago.com/prague-cobblestones.jpg)
+
+> Image source [here](https://elizabethbrocker.wordpress.com/2017/09/06/cobblestone-street-prague-czech-republic/).
 
 Many times it happened to me that, while walking I would suddenly take a look back and see a beautiful scenery with castles and old buildings like taken out from a renaissance storybook. Many architectural gems from the Gothic, Renaissance and Baroque era remain intact because the city was not destroyed during the First and Second World Wars.
 
