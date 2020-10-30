@@ -46,7 +46,7 @@ Read a bit about the library itself and a little bit about the story behind thes
 
 Prague feels pretty much like New York City in the sense that it is a mix of many cultures converging into a single point at the same time. On any single day can easily meet people from at least 30 different countries. I may be wrong but I think there are even more diverse cultures in Prague than in New York City. This could be because of geographical reasons, being on the center of Europe you could find an airplane from London to Czechia in 20 dollars. This is not a typo, last minute flight seats inside Europe get as low as 8 dollars.
 
-![](http://cdn.adelriosantiago.com/charles-bridge-crowd.jpg))
+![](http://cdn.adelriosantiago.com/charles-bridge-crowd.jpg)
 
 
 
