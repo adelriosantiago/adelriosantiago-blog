@@ -48,9 +48,11 @@ Prague feels pretty much like New York City in the sense that it is a mix of man
 
 ![](http://cdn.adelriosantiago.com/charles-bridge-crowd.jpg)
 
+>
 
 
 
+As said before, Czech Republic is a hidden gem. Truly a place a to visit and never forget.
 
 > Aside: This is my very first article written recording every change with *gitblog*.
 
