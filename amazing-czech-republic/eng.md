@@ -48,7 +48,7 @@ Prague feels pretty much like New York City in the sense that it is a mix of man
 
 ![](http://cdn.adelriosantiago.com/charles-bridge-crowd.jpg)
 
->Image source by *Ken & Karen go around the world*'s' [post](http://www.nextstopworld.com/2014/02/03/prague-by-the-guidebook/img_1433-charles-bridge-crowd/).
+>Image source by *Ken & Karen go around the world*'s [post](http://www.nextstopworld.com/2014/02/03/prague-by-the-guidebook/img_1433-charles-bridge-crowd/).
 
 
 
