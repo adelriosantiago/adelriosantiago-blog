@@ -100,20 +100,6 @@ The real-time collaborative version of the Conway's Game of Life using Socket.io
 
 ##
 
-### [Text to speech interface in Node.js](http://www.adelriosantiago.com/gitblog/eng/text-to-speech)
-A simple Node.js API interface to convert text to speech for your personal projects using the SVOX engine.
-
-<span class="pill">#tts</span>
-<span class="pill">#ubuntu</span>
-<span class="pill">#linux</span>
-<span class="pill">#nodeJS</span>
-<span class="pill">#texttospeech</span>
-<span class="pill">#api</span>
-
-<a href="http://www.adelriosantiago.com/gitblog/eng/text-to-speech"><img src="/articles/images/index-tts.png" alt="" style="max-width: 50%;"></a>
-
-##
-
 ### [How to create the right workplace culture at your organization](http://www.adelriosantiago.com/gitblog/eng/working-culture-rsa)
 A must see video from the RSA to anyone interested in creating an amazing work culture.
 
