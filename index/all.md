@@ -21,6 +21,23 @@ An implementation of the Lorenz attractor in THREE.js.
 
 <a href="http://www.adelriosantiago.com/gitblog/eng/strange-attractors"><img src="http://cdn.adelriosantiago.com/strange-attractor-index.png" alt="" style="max-width: 50%;"></a>
 
+
+
+##
+
+### [Five things you notice when you first arrive in Czech Republic](http://www.adelriosantiago.com/gitblog/eng/amazing-czech-republic)
+
+A few things that you notice when you first arrive in this amazing country.
+
+<span class="pill">#travel</span>
+<span class="pill">#prague</span>
+<span class="pill">#czech republic</span>
+<span class="pill">#praha</span>
+<span class="pill">#random</span>
+<span class="pill">#brno</span>
+
+<a href="http://www.adelriosantiago.com/gitblog/eng/amazing-czech-republic"><img src="http://cdn.adelriosantiago.com/amazing-czech-republic-index.png" alt="" style="max-width: 50%;"></a>
+
 ##
 
 ### [Five things you notice when you first arrive in Switzerland](http://www.adelriosantiago.com/gitblog/eng/amazing-switzerland)
