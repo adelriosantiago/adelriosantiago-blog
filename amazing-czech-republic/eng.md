@@ -50,12 +50,7 @@ Prague feels pretty much like New York City in the sense that it is a mix of man
 
 >Image source by *Ken & Karen go around the world*'s [post](http://www.nextstopworld.com/2014/02/03/prague-by-the-guidebook/img_1433-charles-bridge-crowd/).
 
+Czech Republic is a hidden gem, truly a place to never forget. I am looking forward to return back someday.
 
-
-As said before, Czech Republic is a hidden gem. Truly a place a to visit and never forget.
-
-> Aside: This is my very first article written recording every change with *gitblog*.
-
-
-
-others: a hauntingly interesting metro system, strange/semi-erotical art and sense of humor
+*Aside: This is my very first article in [gitblog](http://adelriosantiago.com/gitblog/eng/introducing-gitblog) written recording every change with my NPM module [git-as-dropbox](https://www.npmjs.com/package/git-as-dropbox).*
+![](http://cdn.adelriosantiago.com/lots-of-commits.jpg)
