@@ -52,5 +52,4 @@ Prague feels pretty much like New York City in the sense that it is a mix of man
 
 Czech Republic is a hidden gem, truly a place to never forget. I am looking forward to return back someday.
 
-*Aside: This is my very first article in [gitblog](http://adelriosantiago.com/gitblog/eng/introducing-gitblog) written recording every change with my NPM module [git-as-dropbox](https://www.npmjs.com/package/git-as-dropbox).*
-![](http://cdn.adelriosantiago.com/lots-of-commits-gad.jpg)
+*Aside: This is my very first article in [gitblog](http://adelriosantiago.com/gitblog/eng/introducing-gitblog) written recording every change with my NPM module [git-as-dropbox](https://www.npmjs.com/package/git-as-dropbox). Take a look at the top bar to see how this article was written.*
