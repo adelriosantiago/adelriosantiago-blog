@@ -30,9 +30,9 @@ I hope they never align those pictures! It is like a Prague's metro trademark.
 
 ### 3.- Really good beer
 
-I am not a beer *"connoisseur"*  but even with my limited beer-tasting skills I could immediately know that Czech beer must be among the best of the best. For those who know more about beer... Well... they will enjoy the multiple choices and the fact that [beer is actually cheaper than water here](https://www.esquire.com/food-drink/drinks/a17262/beer-water-czech-15020039/#:~:text=Right%20now%2C%20at%20your%20average,Beer%20costs%20less%20than%20water.). The culture towards beer is different from any other country thou. Here drinking beer during the evening, and even in the morning, is very normal. Another word of caution: Drinking beer is normal here, *being drunk is not*. Being drunk is socially unacceptable across all Czechia. It is also very annoying for Czechs, some of whom believe foreigners just come to the city just to get drunk and cause troubles.
+I am not a beer *"connoisseur"*  but even with my limited beer-tasting skills I could immediately know that Czech beer must be among the best of the best. For those who know more about beer... Well... they will enjoy the multiple choices and the fact that [beer is actually cheaper than water here](https://www.esquire.com/food-drink/drinks/a17262/beer-water-czech-15020039/#:~:text=Right%20now%2C%20at%20your%20average,Beer%20costs%20less%20than%20water.). The culture towards beer is different from any other country thou. Here drinking beer during the evening, and even in the morning, is very normal. Another word of caution: Drinking beer is normal here, *being drunk is not*. Being drunk is socially unacceptable across all Czechia. It is also very annoying for Czechs, some of whom believe foreigners come to the city just to get drunk and cause troubles.
 
-![16 Places to Drink Craft Beer in Prague, Czech Republic - Jetsetting Fools  | Czech beer, Prague, Beer](https://i.pinimg.com/originals/6b/6b/a4/6b6ba466426a52ff96913eb85c30d07a.jpg)
+![16 Places to Drink Craft Beer in Prague, Czech Republic - Jetsetting Fools  | Czech beer, Prague, Beer](http://cdn.adelriosantiago.com/slovak-beer.jpg)
 
 ### 4. Lots of graffities (although not the kind you think about)
 
@@ -40,7 +40,7 @@ It really surprised me to see lots of graffities in Prague. However these graffi
 
 In my opinion the best graffities belong to the walls of the National Technical Library (*Národní technická knihovna* or just NTK for short).
 
-![FA ČVUT: CTU in Prague, Faculty of Architecture | Architecture, Prague,  Modern architecture](https://i.pinimg.com/originals/0f/7f/53/0f7f534a925204b06e0f7bf774621efc.jpg)
+![FA ČVUT: CTU in Prague, Faculty of Architecture | Architecture, Prague,  Modern architecture](http://cdn.adelriosantiago.com/ntk-library.jpg)
 
 Read a bit about the library itself and a little bit about the story behind these drawings in [this post about the National Technical Library](https://erasmusu.com/en/erasmus-prague/what-to-see/national-technical-library-2525).
 
