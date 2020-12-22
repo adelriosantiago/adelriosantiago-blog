@@ -27,7 +27,7 @@ An implementation of the Lorenz attractor in THREE.js.
 
 ### [Five things you notice when you first arrive in Czech Republic](http://www.adelriosantiago.com/gitblog/eng/amazing-czech-republic)
 
-A few things that you notice when you first arrive in this amazing country.
+By far one of the best European countries to live and work. Here are few odd things you will notice when you first arrive.
 
 <span class="pill">#travel</span>
 <span class="pill">#prague</span>
