@@ -4,4 +4,4 @@
 
 # Deploying websites in real-time with GIT
 
-Long long time ago I wrote about [how to deploy websites using Dropbox](http://adelriosantiago.com/gitblog/eng/dropbox-continuous-deployment) in order to release multiples times a day. 
+Long long time ago I wrote about [how to deploy websites using Dropbox](http://adelriosantiago.com/gitblog/eng/dropbox-continuous-deployment) in order to release multiples times a day. I recently decided to create my own cheap-Dropbox alternative that allows me to do so without depending on a third party.
