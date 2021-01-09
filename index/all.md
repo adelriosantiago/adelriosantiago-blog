@@ -21,6 +21,23 @@ An implementation of the Lorenz attractor in THREE.js.
 
 <a href="http://www.adelriosantiago.com/gitblog/eng/strange-attractors"><img src="http://cdn.adelriosantiago.com/strange-attractor-index.png" alt="" style="max-width: 50%;"></a>
 
+
+
+##
+
+### [Five things you notice when you first arrive in Czech Republic](http://www.adelriosantiago.com/gitblog/eng/amazing-czech-republic)
+
+By far one of the best European countries to live and work. Here are few odd things you will notice when you first arrive.
+
+<span class="pill">#travel</span>
+<span class="pill">#prague</span>
+<span class="pill">#czech republic</span>
+<span class="pill">#praha</span>
+<span class="pill">#random</span>
+<span class="pill">#brno</span>
+
+<a href="http://www.adelriosantiago.com/gitblog/eng/amazing-czech-republic"><img src="http://cdn.adelriosantiago.com/amazing-czech-republic-index.png" alt="" style="max-width: 50%;"></a>
+
 ##
 
 ### [Five things you notice when you first arrive in Switzerland](http://www.adelriosantiago.com/gitblog/eng/amazing-switzerland)
@@ -97,20 +114,6 @@ The real-time collaborative version of the Conway's Game of Life using Socket.io
 <span class="pill">#nodeJS</span>
 
 <a href="http://www.adelriosantiago.com/gitblog/eng/artificial"><img src="/articles/images/index-artificial.png" alt="" style="max-width: 50%;"></a>
-
-##
-
-### [Text to speech interface in Node.js](http://www.adelriosantiago.com/gitblog/eng/text-to-speech)
-A simple Node.js API interface to convert text to speech for your personal projects using the SVOX engine.
-
-<span class="pill">#tts</span>
-<span class="pill">#ubuntu</span>
-<span class="pill">#linux</span>
-<span class="pill">#nodeJS</span>
-<span class="pill">#texttospeech</span>
-<span class="pill">#api</span>
-
-<a href="http://www.adelriosantiago.com/gitblog/eng/text-to-speech"><img src="/articles/images/index-tts.png" alt="" style="max-width: 50%;"></a>
 
 ##
 
