@@ -4,9 +4,11 @@
 
 # My personal SWOT
 
+I started the Innovation MBA about one month ago at the University Of Louisville in Kentucky. The innovation [MBA is the ranked #25 in the U.S. by the Princeton Review](https://business.louisville.edu/academics-programs/graduate-programs/imba/#:~:text=Ranked%20%2325%20in%20the%20U.S.,only%2030%20students%20per%20cohort.), admission to the program is competitive, with only 30 students per cohort.
+
+---
 
 
-in one of the assignatures by professor Daniel Holt (@DanielTHolt) 
 
 SWOT, or Strength, Weaknesses, Opportunities and Threats is a tool generally used by companies to asses themselves and their competitors. 
 
@@ -16,11 +18,11 @@ A SWOT helps potential creditors take important investing decisions. But this an
 
 We are the CEO of our own lives!
 
-> You are the CEO of your own life, you are the captain of your ship, you are the commander. - Extract from [Source](https://www.awakenthegreatnesswithin.com/)
+> You are the CEO of your own life, you are the captain of your ship, you are the commander. - From [this blog](https://www.awakenthegreatnesswithin.com/)
 
 
 
-
+### SWOT
 
 |                 | Helpful | Harmful |
 | --------------- | ------- | ------- |
@@ -28,6 +30,12 @@ We are the CEO of our own lives!
 | External origin |         |         |
 
 
+
+
+
+Further actions:
+
+- Follow @DanielTHolt, @ATGWSuccess, or myself at @adelriosantiago.
 
 
 
