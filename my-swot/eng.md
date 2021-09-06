@@ -27,15 +27,15 @@ We are the CEO of our own lives!
       <td>Internal</td>
       <td>
         <ul>
-          <li>B.Sc in Electronics and Computer Science</li>
-          <li>Extremeely entrepreneurial</li>
-          <li></li>
+          <li>Extreme discipline <sup>1</sup></li>
+          <li>My degree in B.Sc in Electronics and Computer Science <sup>2</sup></li>
+          <li>Entrepreneurial mindset <sup>3</sup></li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Quite unpunctual</li>
-          <li></li>
+          <li>Quite unpunctual <sup>6</sup></li>
+          <li>Very mercurial <sup>7</sup></li>
         </ul>
       </td>
     </tr>
@@ -43,11 +43,14 @@ We are the CEO of our own lives!
       <td>External</td>
       <td>
         <ul>
-          <li>The iMBA itself</li>
+          <li>Working towards my Innovation MBA</li>
+          <li>The AI and ML uprising <sup>11</sup></li>
+          <li></li>
         </ul>
       </td>
       <td>
         <ul>
+          <li>COVID (and all of its variants) <sup>234</sup></li>
           <li></li>
         </ul>
       </td>
@@ -57,7 +60,10 @@ We are the CEO of our own lives!
 
 Description of each item:
 
-- [1]:
+- _1_: I've always said that _"discipline is my second name"_. Whenever I start something I _usually_ finish it. This is the case of [my Duolingo streak](http://adelriosantiago.com/gitblog/spa/100-duolingo) which started as a 10 day streak that I couldn't stop. As I write this my duolingo streak is of 2320 days. I truly believe that habits are the single most important tool every person has.
+- _1_: This is a degree that may be useful to advance my carrer in the area of IT.
+- _11_: I have been investing a lot of time an effort in learning AI and ML. Most recently by getting ML certified by HarvardX. It seems that the actual benefits of AI and ML have been finally taking-off in recent years.
+- _234_: I am fully vaccinated (twice Pfizer shot) but recent mutations have shown COVID to be a threat even to those already vaccinated.
 
 Further reading/actions:
 
