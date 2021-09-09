@@ -4,9 +4,7 @@
 
 I started an MBA about one month ago at the University Of Louisville in Kentucky. The [Innovation MBA is the ranked #25 in the U.S. by the Princeton Review](https://business.louisville.edu/academics-programs/graduate-programs/imba/#:~:text=Ranked%20%2325%20in%20the%20U.S.,only%2030%20students%20per%20cohort.), admission to the program is competitive, with only 30 students per cohort.
 
-SWOT, or Strength, Weaknesses, Opportunities and Threats is a tool generally used by companies to asses themselves and their competitors.
-
-During Strategic Analysis by Prof. PhD. Daniel T. Holt ([@DanielTHolt](https://twitter.com/danieltholt)) we reviewed the SWOT framework as a tool to help potential creditors take important investing decisions.
+During Strategic Analysis by Prof. PhD. Daniel T. Holt ([@DanielTHolt](https://twitter.com/danieltholt)) we reviewed the SWOT framework. SWOT stands for Strengths, Weaknesses, Opportunities and Threats is a tool generally used by companies to asses themselves and their competitors.
 
 This analysis can be applied to multiple entities, not only companies, but also individuals. In this article I publish my personal SWOT, an analysis of my own Strengths, Weaknesses, Opportunities and Threats. After all, each of us is a company itself.
 
