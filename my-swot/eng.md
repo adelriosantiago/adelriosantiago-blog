@@ -2,7 +2,7 @@
 
 # My personal SWOT
 
-I started the Innovation MBA about one month ago at the University Of Louisville in Kentucky. The Innovation [MBA is the ranked #25 in the U.S. by the Princeton Review](https://business.louisville.edu/academics-programs/graduate-programs/imba/#:~:text=Ranked%20%2325%20in%20the%20U.S.,only%2030%20students%20per%20cohort.), admission to the program is competitive, with only 30 students per cohort.
+I started an MBA about one month ago at the University Of Louisville in Kentucky. The [Innovation MBA is the ranked #25 in the U.S. by the Princeton Review](https://business.louisville.edu/academics-programs/graduate-programs/imba/#:~:text=Ranked%20%2325%20in%20the%20U.S.,only%2030%20students%20per%20cohort.), admission to the program is competitive, with only 30 students per cohort.
 
 SWOT, or Strength, Weaknesses, Opportunities and Threats is a tool generally used by companies to asses themselves and their competitors.
 
@@ -12,14 +12,14 @@ This analysis can be applied to multiple entities, not only companies, but also 
 
 > You are the CEO of your own life, you are the captain of your ship, you are the commander. - From [this blog](https://www.awakenthegreatnesswithin.com/)
 
-### My personal SWOT
+### Alejandro's SWOT
 
 <table>
   <tbody>
     <tr>
       <th></th>
       <th align="center">Usually positive</th>
-      <th align="right">Usually negative</th>
+      <th align="center">Usually negative</th>
     </tr>
     <tr>
       <td>Internal</td>
@@ -71,7 +71,3 @@ Further reading/actions:
 
 - Follow me at [@adelriosantiago](https://twitter.com/adelriosantiago).
 -
-
-<hidden>fast drafting</hidden>
-
-<hidden>themes & ideas</hidden>
