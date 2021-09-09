@@ -27,15 +27,15 @@ We are the CEO of our own lives!
       <td>Internal</td>
       <td>
         <ul>
-          <li>Extreme discipline <sup>1</sup></li>
-          <li>My degree in B.Sc in Electronics and Computer Science <sup>2</sup></li>
+          <li>Extremely disciplined <sup>1</sup></li>
+          <li>Degree in B.Sc in Electronics and Computer Science <sup>2</sup></li>
           <li>Entrepreneurial mindset <sup>3</sup></li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Quite unpunctual <sup>6</sup></li>
-          <li>Very mercurial <sup>7</sup></li>
+          <li>Generalized unpunctuality <sup>6</sup></li>
+          <li>Mercurial personality <sup>7</sup></li>
         </ul>
       </td>
     </tr>
@@ -43,7 +43,7 @@ We are the CEO of our own lives!
       <td>External</td>
       <td>
         <ul>
-          <li>Working towards my Innovation MBA</li>
+          <li>Working towards an MBA <sup>5566</sup></li>
           <li>The AI and ML uprising <sup>11</sup></li>
           <li></li>
         </ul>
@@ -60,11 +60,14 @@ We are the CEO of our own lives!
 
 Description of each item:
 
-- _1_: I've always said that _"discipline is my second name"_. Whenever I start something I _usually_ finish it. This is the case of [my Duolingo streak](http://adelriosantiago.com/gitblog/spa/100-duolingo) which started as a 10 day streak that I couldn't stop. As I write this my duolingo streak is of 2320 days. I truly believe that habits are the single most important tool every person has.
+- _1_: I've always said that _"discipline is my second name"_. Whenever I start something I _usually_ finish it. This is the case of [my Duolingo streak](http://adelriosantiago.com/gitblog/spa/100-duolingo) which started as a 100 day streak that I couldn't stop. As I write this my duolingo streak is of 2320 days. I believe habits are the single most important tool every person has to build his/her future.
 - _1_: This is a degree that may be useful to advance my carrer in the area of IT.
-- _6_: I am not afraid to mention it: I am quite unpuctual. And I need to work on this. I have written about this in other articles, I would miss almost every single train while living in Switzerland. I think I never realized how differently I perceived time until until I lived in the CH.
-- _11_: I have been investing a lot of time an effort in learning AI and ML. Most recently by getting ML certified by HarvardX. It seems that the actual benefits of AI and ML have been finally taking-off in recent years.
-- _234_: I am fully vaccinated (twice Pfizer shot) but recent mutations have shown COVID to be a threat even to those already vaccinated. Nobody is expempt to randomly dying of COVID.
+- _6_: I am not afraid to mention it: I am quite unpuctual. And I need to work on this. [I wrote about this before](http://adelriosantiago.com/gitblog/eng/amazing-switzerland). While working in Switzerland I would miss almost every single train. I never realized how different I perceived time until until I lived by the swiss watch.
+- _11_: I have been investing a lot of time an effort in learning AI and ML. With the most recent step, by getting [ML certified by HarvardX]().
+- _5566_: ...
+- _234_: I am fully vaccinated (twice with a Pfizer shot). Nevertheless recent mutations have shown COVID to be a threat even to those already vaccinated. Nobody is expempt to randomly dying of COVID. _Unsettling and comical sidenote: [WHO runs out of COVID names, announces new naming system.](https://www.bbc.com/news/world-57308592)_
+
+- ...
 
 Further reading/actions:
 
