@@ -2,7 +2,7 @@
 
 # My personal SWOT
 
-I started an MBA about one month ago at the University Of Louisville in Kentucky. The [Innovation MBA is the ranked #25 in the U.S. by the Princeton Review](https://business.louisville.edu/academics-programs/graduate-programs/imba/#:~:text=Ranked%20%2325%20in%20the%20U.S.,only%2030%20students%20per%20cohort.), admission to the program is competitive, with only 30 students per cohort.
+I started an MBA about one month ago at the University Of Louisville in Kentucky. The [Innovation MBA](https://business.louisville.edu/academics-programs/graduate-programs/imba/#:~:text=Ranked%20%2325%20in%20the%20U.S.,only%2030%20students%20per%20cohort.) is ranked #25 in the U.S. by the Princeton Review, admission to the program is competitive, with only 30 students per cohort.
 
 During Strategic Analysis by Prof. PhD. Daniel T. Holt ([@DanielTHolt](https://twitter.com/danieltholt)) we reviewed the SWOT framework. SWOT stands for Strengths, Weaknesses, Opportunities and Threats is a tool generally used by companies to asses themselves and their competitors.
 
@@ -12,7 +12,7 @@ This analysis can be applied to multiple entities, not only companies, but also 
 
 ### Alejandro's SWOT
 
-<table>
+<table style="border: none;">
   <tbody>
     <tr>
       <th></th>
@@ -52,7 +52,7 @@ This analysis can be applied to multiple entities, not only companies, but also 
   </tbody>
 </table>
 
-Description of each item:
+### Description of each item
 
 - _1_: I've always said that _"discipline is my second name"_. Whenever I start something I _usually_ finish it. This is the case of [my Duolingo streak](http://adelriosantiago.com/gitblog/spa/100-duolingo) which started as a 100 day streak that I couldn't stop. As I write this my duolingo streak is of 2320 days. I believe habits are the single most important tool every person has to build his/her future.
 - _2_: This is a degree that may be useful to advance my carrer in the area of IT.
@@ -61,8 +61,8 @@ Description of each item:
 - _5_: I have been investing a lot of time an effort in learning AI and ML. With the most recent step, by getting [ML certified by HarvardX]().
 - _6_: I am not afraid to mention it: I am quite unpuctual. And I need to work on this. [I wrote about this before](http://adelriosantiago.com/gitblog/eng/amazing-switzerland). While working in Switzerland I would miss almost every single train. I never realized how different I perceived time until until I lived by the swiss watch.
 - _7_: ...
-- _8_: I am fully vaccinated (twice with a Pfizer shot). Nevertheless recent mutations have shown COVID to be a threat even to those already vaccinated. Nobody is expempt to randomly dying of COVID. _Unsettling and comical sidenote: [WHO runs out of COVID names, announces new naming system.](https://www.bbc.com/news/world-57308592)_
+- _8_: I am fully vaccinated (twice with a Pfizer shot). Nevertheless recent mutations have shown COVID to be a threat even to those already vaccinated. Nobody is expempt to randomly dying of COVID. _Unsettling sidenote: [WHO runs out of COVID names, announces new naming system.](https://www.bbc.com/news/world-57308592)_
 
-Further reading/actions:
+I hope to find a way to circumvent my weaknesses. However my plan is capitalize my strengths.
 
-- Follow me at [@adelriosantiago](https://twitter.com/adelriosantiago).
+Follow me at [@adelriosantiago](https://twitter.com/adelriosantiago).
