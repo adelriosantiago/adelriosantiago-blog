@@ -55,14 +55,20 @@ This analysis can be applied to multiple entities, not only companies, but also 
 ### Description of each item
 
 - _1_: I've always said that _"discipline is my second name"_. Whenever I start something I _usually_ finish it. This is the case of [my Duolingo streak](http://adelriosantiago.com/gitblog/spa/100-duolingo) which started as a 100 day streak that I couldn't stop. As I write this my Duolingo streak is of 2320 days. I believe habits are the single most important tool every person has to build his/her future.
+
 - _2_: This degree has helped me land job opportunities in many countries. I graduated with a score of 90/100, equivalent to 3.7 GPA. This is score, while not particularly impressing, was big achievement for me.
+
 - _3_: I am an entrepreneur by heart. I love being challenged to stay out of my comfort zone. I must say that I have my limits though. I hate time-constrained environments. I would rather write an entire book about a subject I know nothing about for one year than to answer a difficult one hour math exam.
+
 - _4_: I believe this MBA will be a game-changer for my career. I see a lot of opportunities to make my ideas come true.
 - _5_: I have been investing a lot of time and effort in learning AI and ML. This poses a good opportunity for everyone in specialized in this area given that [the world's most valuable resource is no longer oil, but data](https://www.forbes.com/sites/forbestechcouncil/2019/11/15/data-is-the-new-oil-and-thats-a-good-thing/).
+
 - _6_: I am not afraid to mention it: I am quite unpunctual. And I need to work on this. [I wrote about this before](http://adelriosantiago.com/gitblog/eng/amazing-switzerland). While working in Switzerland I would miss almost every single train. I never realized how different I perceived time until until I worked in CH.
-- _7_: ...
-- _8_: I am fully vaccinated (twice with a Pfizer shot). Nevertheless recent mutations have shown COVID to be a threat even to those already vaccinated. Nobody is expempt to randomly dying of COVID. _Unsettling sidenote: [WHO runs out of COVID names, announces new naming system.](https://www.bbc.com/news/world-57308592)_
 
-I hope to find a way to circumvent my weaknesses. However my plan is capitalize my strengths.
+- _7_: I often find myself being overly excited or overly pessimistic about things. I wish I was more emotionally predictable.
 
-Follow me at [@adelriosantiago](https://twitter.com/adelriosantiago).
+- _8_: I am strong believer of the efficacy of vaccines. I got fully vaccinated with a 2x Pfizer shot. Recent mutations have shown COVID to be a threat even to those already vaccinated. Nobody is expempt to dying of COVID. _Unsettling sidenote: [WHO runs out of COVID names, announces new naming system with greek letters.](https://www.bbc.com/news/world-57308592)_
+
+I don't plan to spend too much time focusing on fixing my weaknesses. I plan to find a way to circumvent my faults and find ways to capitalize on my strengths.
+
+Follow me at [@adelriosantiago](https://twitter.com/adelriosantiago) to stay tuned.
