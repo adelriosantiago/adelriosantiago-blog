@@ -44,11 +44,11 @@ I am not a beer *"connoisseur"*  but even with my limited good-beer/bad-beer tas
 
 
 
-### 4. Lots of graffities (although not the kind you think about)
+### 4. Lots of graffiti (although not the kind you think about)
 
-It was really surprised to see a lot of graffities in Prague. However these graffities had a different feeling. They were not the usual "fuck off" graffities that you would see in a bad neighborhood. Don't be scared about the amount of graffities you will see since [Czech Republic is the 10th safest country in the world](https://news.expats.cz/weekly-czech-news/the-czech-republic-is-the-worlds-tenth-safest-country-sixth-in-europe/), even above Switzerland and [its five things you notice when you first arrive](http://adelriosantiago.com/gitblog/eng/amazing-switzerland). Graffities across Czechia feel more like "revolution" graffities. Some of them are really impressive and even "intellectual" to some degree. Considering that Czech Republic is a pretty young country since the fall of the communist regime, it really gives graffities a special feeling, you can feel the struggle of the people.
+It was really surprised to see a lot of graffiti in Prague. However these graffiti had a different feeling. They were not the usual "fuck off" graffiti that you would see in a bad neighborhood. Don't be scared about the amount of graffiti you will see since [Czech Republic is the 10th safest country in the world](https://news.expats.cz/weekly-czech-news/the-czech-republic-is-the-worlds-tenth-safest-country-sixth-in-europe/), even above Switzerland and [its five things you notice when you first arrive](http://adelriosantiago.com/gitblog/eng/amazing-switzerland). Graffiti across Czechia feel more like "revolution" drawings. Some of them are really impressive and even "intellectual" to some degree. Considering that Czech Republic is a pretty young country since the fall of the communist regime, it really gives these drawings a special feeling, you can feel the struggle of the people.
 
-The best graffities/drawings belong to the walls of the National Technical Library (*Národní technická knihovna* or just NTK for short).
+The best drawings belong to the walls of the National Technical Library (*Národní technická knihovna* or just NTK for short).
 
 ![FA ČVUT: CTU in Prague, Faculty of Architecture | Architecture, Prague,  Modern architecture](http://cdn.adelriosantiago.com/ntk-library.jpg)
 
