@@ -83,24 +83,6 @@ Five important dates in bitcoin history that everyone should know.
 
 ##
 
-### [Wikipedia, wordclouds and MongoDB to diagnose diseases](http://www.adelriosantiago.com/gitblog/eng/wikipedia-healthcare)
-
-A simple word-count algorithm applied to disease diagnosis using only wikipedia articles.
-
-<span class="pill">#healthcare</span>
-<span class="pill">#wordcount</span>
-<span class="pill">#wordcloud</span>
-<span class="pill">#d3</span>
-<span class="pill">#d3js</span>
-<span class="pill">#nodeJS</span>
-<span class="pill">#mongodb</span>
-<span class="pill">#jade</span>
-<span class="pill">#coffeescript</span>
-
-<a href="http://www.adelriosantiago.com/gitblog/eng/wikipedia-healthcare"><img src="http://cdn.adelriosantiago.com/wikipedia-symptoms-index.png" alt="" style="max-width: 50%;"></a>
-
-##
-
 ### [Real time collaborative artificial life](http://www.adelriosantiago.com/gitblog/eng/artificial)
 The real-time collaborative version of the Conway's Game of Life using Socket.io.
 
@@ -179,19 +161,6 @@ A low-poly scene in Blender
 <span class="pill">#lowpoly</span>
 
 <a href="http://www.adelriosantiago.com/gitblog/eng/a-first-model-in-blender"><img src="/articles/a-first-model-in-blender/images/cover.png" alt="" style="max-width: 50%;"></a>
-
-##
-
-### [Litepad](http://www.adelriosantiago.com/gitblog/eng/litepad)
-A minimalist real-time collaborative code editor in Node.JS
-
-<span class="pill">#realtime</span>
-<span class="pill">#realtimecollaborative</span>
-<span class="pill">#nodeJS</span>
-<span class="pill">#socketIO</span>
-<span class="pill">#websocket</span>
-
-<a href="http://www.adelriosantiago.com/gitblog/eng/litepad"><img src="http://adelriosantiago.com/articles/litepad/images/cover.png" alt="" style="max-width: 50%;"></a>
 
 ##
 
